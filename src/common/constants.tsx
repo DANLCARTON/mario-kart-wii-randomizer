@@ -144,9 +144,9 @@ export const largeFontSize = "18px"
 export const base = "/mario-kart-wii-randomizer/"
 
 // noms des cookies du site
-export const cLang = "mk7r-lang" // cookie langue
-export const cGP = "mk7r-gp" // cookie global parameters
-export const cPN = "mk7r-pn" // cookie player names
-export const cVSP = "mk7r-vsp" // cookie versus parameters
-export const cRP = "mk7r-rp" // cookie rally parameters
-export const cCP = "mk7r-cp" // cookie character parameters
+export const cLang = "mkwiir-lang" // cookie langue
+export const cGP = "mkwiir-gp" // cookie global parameters
+export const cPN = "mkwiir-pn" // cookie player names
+export const cVSP = "mkwiir-vsp" // cookie versus parameters
+export const cRP = "mkwiir-rp" // cookie rally parameters
+export const cCP = "mkwiir-cp" // cookie character parameters
