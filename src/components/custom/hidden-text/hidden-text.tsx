@@ -11,7 +11,7 @@ export default component$(() => {
     const t = textData.texts
 
     return <section id="hidden-text">
-        <p>Unleash chaos in Mario Kart 7! Randomly pick characters, karts customization parts, and tracks for your next race. Available in 16 languages for global fun.</p>
+        <p>Unleash chaos in Mario Kart Wii! Randomly pick characters, vehicle, and tracks for your next race. Available in 16 languages for global fun.</p>
         <p>{tr(t.random_character_description, "en_us")}</p>
         <p>{tr(t.random_course_description, "en_us")}</p>
         <p>{tr(t.random_battle_arena_description, "en_us")}</p>

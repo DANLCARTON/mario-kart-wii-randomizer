@@ -20,7 +20,7 @@ export const RouterHead = component$(() => {
       <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
       <link rel="shortcut icon" href={`${base}favicon.ico`} />
       <link rel="apple-touch-icon" sizes="180x180" href={`${base}apple-touch-icon.png`} />
-      <meta name="apple-mobile-web-app-title" content="Mario Kart 7 Randomizer" />
+      <meta name="apple-mobile-web-app-title" content="Mario Kart Wii Randomizer" />
       <link rel="manifest" href={`${base}site.webmanifest`} />
 
       {head.meta.map((m) => (

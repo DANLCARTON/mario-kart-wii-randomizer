@@ -141,7 +141,7 @@ export const mediumFontSize = "16px"
 export const largeFontSize = "18px"
 
 // base de l'url du site
-export const base = "/mario-kart-7-randomizer/"
+export const base = "/mario-kart-wii-randomizer/"
 
 // noms des cookies du site
 export const cLang = "mk7r-lang" // cookie langue

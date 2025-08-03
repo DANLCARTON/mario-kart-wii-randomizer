@@ -1,6 +1,6 @@
 {
-  "name": "Mario Kart 7 Randomizer",
-  "short_name": "MK7R",
+  "name": "Mario Kart Wii Randomizer",
+  "short_name": "MKWiiR",
   "icons": [
     {
       "src": "/${base}/web-app-manifest-192x192.png",

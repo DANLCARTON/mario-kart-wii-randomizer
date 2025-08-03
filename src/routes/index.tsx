@@ -78,7 +78,7 @@ export default component$(() => {
         
             <HiddenText />
 
-            <h1>MARIO KART 7 RANDOMIZER</h1>
+            <h1>MARIO KART WII RANDOMIZER</h1>
 
             <h2 class="language-title">Sélectionner une langue / Select a language / Seleccione una idioma / Selecione um idioma / Seleziona una lingua / Wählen Sie eine Sprache aus / Selecteer een taal / Выберите язык / 言語を選択してください / 언어를 선택하세요 / 选择语言 / 選擇語言</h2>
 
@@ -86,7 +86,7 @@ export default component$(() => {
 
         </> : <>
 
-            <h1>MARIO KART 7 RANDOMIZER</h1>
+            <h1>MARIO KART WII RANDOMIZER</h1>
 
             <h2 id='character'>{tr(t.character_title, lang)}</h2>
             {eliminationMode.value ? (
@@ -146,15 +146,15 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-    title: "Mario Kart 7 Randomizer",
+    title: "Mario Kart Wii Randomizer",
     meta: [
         {
             name: "description",
-            content: "Unleash chaos in Mario Kart 7! Randomly pick characters, karts customization parts, and tracks for your next race. Available in 16 languages for global fun.",
+            content: "Unleash chaos in Mario Kart ! Randomly pick characters, karts customization parts, and tracks for your next race. Available in 16 languages for global fun.",
         },
         {
             name: "keywords",
-            content: "mario kart, mario kart randomizer, random, randomizer, character randomizer, kart randomizer, vehicle randomizer, track randomizer, mario kart 7, 3ds, gaming tool, online tool, free tool, video game, fun, aléatoire, personnage, vehicule, circuit, aleatorio, personaje, circuito, vehiculo, personagem, veiculo, casuale, personaggio, veicolo, zufallig, charakter, fahrzeug, strecke, willekeurig, personage, voertuig, случайно, персонаж, транспорт, трасса, slutchayno, personazh, transport, trassa, ランダム, キャラクター, ビークル, サーキット, randamu, kyarakutaa, biikuru, saakitto, 무작위, 캐릭터, 탈것, 서킷, mulag-wi, kaeligteo, talgeos, seokis, 随机, 角色, 载具, 赛道, 隨機, 角色, 載具, 賽道, suiji, juese, zai ju, sai dao"
+            content: "mario kart, mario kart randomizer, random, randomizer, character randomizer, kart randomizer, vehicle randomizer, track randomizer, mario kart wii, wii, gaming tool, online tool, free tool, video game, fun, aléatoire, personnage, vehicule, circuit, aleatorio, personaje, circuito, vehiculo, personagem, veiculo, casuale, personaggio, veicolo, zufallig, charakter, fahrzeug, strecke, willekeurig, personage, voertuig, случайно, персонаж, транспорт, трасса, slutchayno, personazh, transport, trassa, ランダム, キャラクター, ビークル, サーキット, randamu, kyarakutaa, biikuru, saakitto, 무작위, 캐릭터, 탈것, 서킷, mulag-wi, kaeligteo, talgeos, seokis, 随机, 角色, 载具, 赛道, 隨機, 角色, 載具, 賽道, suiji, juese, zai ju, sai dao"
         }
     ],
 };

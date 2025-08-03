@@ -14,7 +14,7 @@ export default component$(() => {
 
     const t = textsData.texts
 
-    const url = "https://ericthiberge.fr/mario-kart-7-randomizer"
+    const url = "https://ericthiberge.fr/mario-kart-wii-randomizer"
 
     /**
      * @description permet de copier l'url du site dans le presse-papier
