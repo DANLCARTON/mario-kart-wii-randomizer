@@ -1,5 +1,285 @@
 {
     "characters": {
+        "baby_mario": {
+            "slug": "baby_mario",
+            "names": {
+                "fr_fr": "Bébé Mario",
+                "fr_ca": "???",
+                "en_gb": "Baby Mario",
+                "en_us": "Baby Mario",
+                "es_es": "Bebé Mario",
+                "es_la": "???",
+                "it": "Baby Mario",
+                "de": "Baby Mario",
+                "ja": "ベビィマリオ",
+                "ko": "베이비 마리오"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "baby_mario_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "baby_luigi": {
+            "slug": "baby_luigi",
+            "names": {
+                "fr_fr": "Bébé Luigi",
+                "fr_ca": "???",
+                "en_gb": "Baby Luigi",
+                "en_us": "Baby Luigi",
+                "es_es": "Bebé Luigi",
+                "es_la": "???",
+                "it": "Baby Luigi",
+                "de": "Baby Luigi",
+                "ja": "ベビィルイージ",
+                "ko": "베이비루이지"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "baby_luigi_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "baby_peach": {
+            "slug": "baby_peach",
+            "names": {
+                "fr_fr": "Bébé Peach",
+                "fr_ca": "???",
+                "en_gb": "Baby Peach",
+                "en_us": "Baby Peach",
+                "es_es": "Bebé Peach",
+                "es_la": "???",
+                "it": "Baby Peach",
+                "de": "Baby Peach",
+                "ja": "ベビィピーチ",
+                "ko": "베이비피치"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "baby_peach_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "baby_daisy": {
+            "slug": "baby_daisy",
+            "names": {
+                "fr_fr": "Bébé Daisy",
+                "fr_ca": "???",
+                "en_gb": "Baby Daisy",
+                "en_us": "Baby Daisy",
+                "es_es": "Bebé Daisy",
+                "es_la": "???",
+                "it": "Baby Daisy",
+                "de": "Baby Daisy",
+                "ja": "ベビィデイジー",
+                "ko": "베이비데이지"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "baby_daisy_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "toad": {
+            "slug": "toad",
+            "names": {
+                "fr_fr": "Toad",
+                "fr_ca": "Toad",
+                "en_gb": "Toad",
+                "en_us": "Toad",
+                "es_es": "Toad",
+                "es_la": "Toad",
+                "it": "Toad",
+                "de": "Toad",
+                "ja": "キノピオ",
+                "ko": "키노피오"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "toad_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "toadette": {
+            "slug": "toadette",
+            "names": {
+                "fr_fr": "Toadette",
+                "fr_ca": "Toadette",
+                "en_gb": "Toadette",
+                "en_us": "Toadette",
+                "es_es": "Toadette",
+                "es_la": "Toadette",
+                "it": "Toadette",
+                "de": "Toadette",
+                "ja": "キノピコ",
+                "ko": "키노피코"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "toadette_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "koopa_troopa": {
+            "slug": "koopa_troopa",
+            "names": {
+                "fr_fr": "Koopa",
+                "fr_ca": "Koopa",
+                "en_gb": "Koopa Troopa",
+                "en_us": "Koopa Troopa",
+                "es_es": "???",
+                "es_la": "???",
+                "it": "Koopa",
+                "de": "Koopa",
+                "ja": "ノコノコ",
+                "ko": "엉금엉금"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "koopa_troopa_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
+        "dry_bones": {
+            "slug": "dry_bones",
+            "names": {
+                "fr_fr": "Skelerex",
+                "fr_ca": "Skelex",
+                "en_gb": "Dry Bones",
+                "en_us": "Dry Bones",
+                "es_es": "Huesitos",
+                "es_la": "Huesitos",
+                "it": "Tartosso",
+                "de": "Knochentrocken",
+                "ja": "カロン",
+                "ko": "와르르"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "dry_bones_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "small"
+        },
         "mario": {
             "slug": "mario",
             "names": {
@@ -9,16 +289,10 @@
                 "en_us": "Mario",
                 "es_es": "Mario",
                 "es_la": "Mario",
-                "pt_pt": "Mario",
-                "pt_br": "Mario",
                 "it": "Mario",
                 "de": "Mario",
-                "nl": "Mario",
-                "ru": "Марио",
                 "ja": "マリオ",
-                "ko": "마리오",
-                "zh_hans": "马力欧",
-                "zh_hant": "瑪利歐"
+                "ko": "마리오"
             },
             "skins": [
                 {
@@ -38,7 +312,8 @@
                 "off_road": 1,
                 "mini_turbo": 1,
                 "stability":1
-            }
+            },
+            "category": "medium"
         },
         "luigi": {
             "slug": "luigi",
@@ -49,16 +324,10 @@
                 "en_us": "Luigi",
                 "es_es": "Luigi",
                 "es_la": "Luigi",
-                "pt_pt": "Luigi",
-                "pt_br": "Luigi",
                 "it": "Luigi",
                 "de": "Luigi",
-                "nl": "Luigi",
-                "ru": "Луиджи",
                 "ja": "ルイージ",
-                "ko": "루이지",
-                "zh_hans": "路易吉",
-                "zh_hant": "路易吉"
+                "ko": "루이지"
             },
             "skins": [
                 {
@@ -77,8 +346,9 @@
                 "air_handling": 1,
                 "off_road": 1,
                 "mini_turbo": 1,
-                "stability": 1
-            }
+                "stability":1
+            },
+            "category": "medium"
         },
         "peach": {
             "slug": "peach",
@@ -89,581 +359,15 @@
                 "en_us": "Peach",
                 "es_es": "Peach",
                 "es_la": "Peach",
-                "pt_pt": "Peach",
-                "pt_br": "Peach",
                 "it": "Peach",
                 "de": "Peach",
-                "nl": "Peach",
-                "ru": "Пич",
-                "ja": "ピーチ",
-                "ko": "피치",
-                "zh_hans": "碧姬",
-                "zh_hant": "碧琪"
+                "ja": "???",
+                "ko": "???"
             },
             "skins": [
                 {
                     "slug": "default",
                     "image": "peach_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 1,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 6,
-                "weight": 2,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 1,
-                "mini_turbo": 2,
-                "stability": 1 
-            }
-        },
-        "bowser": {
-            "slug": "bowser",
-            "names": {
-                "fr_fr": "Bowser",
-                "fr_ca": "Bowser",
-                "en_gb": "Bowser",
-                "en_us": "Bowser",
-                "es_es": "Bowser",
-                "es_la": "Bowser",
-                "pt_pt": "Bowser",
-                "pt_br": "Bowser",
-                "it": "Bowser",
-                "de": "Bowser",
-                "nl": "Bowser",
-                "ru": "Боузер",
-                "ja": "クッパ",
-                "ko": "쿠파",
-                "zh_hans": "酷霸",
-                "zh_hant": "庫巴"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "bowser_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 4,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 0,
-                "weight": 8,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 0,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "yoshi": {
-            "slug": "yoshi",
-            "names": {
-                "fr_fr": "Yoshi",
-                "fr_ca": "Yoshi",
-                "en_gb": "Yoshi",
-                "en_us": "Yoshi",
-                "es_es": "Yoshi",
-                "es_la": "Yoshi",
-                "pt_pt": "Yoshi",
-                "pt_br": "Yoshi",
-                "it": "Yoshi",
-                "de": "Yoshi",
-                "nl": "Yoshi",
-                "ru": "Йоши",
-                "ja": "ヨッシー",
-                "ko": "요시",
-                "zh_hans": "耀西",
-                "zh_hant": "耀西"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "yoshi_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 1,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 6,
-                "weight": 2,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 1,
-                "mini_turbo": 2,
-                "stability": 1 
-            }
-        },
-        "toad": {
-            "slug": "toad",
-            "names": {
-                "fr_fr": "Toad",
-                "fr_ca": "Toad",
-                "en_gb": "Toad",
-                "en_us": "Toad",
-                "es_es": "Toad",
-                "es_la": "Toad",
-                "pt_pt": "Toad",
-                "pt_br": "Toad",
-                "it": "Toad",
-                "de": "Toad",
-                "nl": "Toad",
-                "ru": "Тоад",
-                "ja": "キノピオ",
-                "ko": "키노피오",
-                "zh_hans": "奇诺比奥",
-                "zh_hant": "奇諾比奧"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "toad_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 0,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 8,
-                "weight": 0,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 2,
-                "mini_turbo": 3,
-                "stability": 1
-            }
-        },
-        "daisy": {
-            "slug": "daisy",
-            "names": {
-                "fr_fr": "Daisy",
-                "fr_ca": "Daisy",
-                "en_gb": "Daisy",
-                "en_us": "Daisy",
-                "es_es": "Daisy",
-                "es_la": "Daisy",
-                "pt_pt": "Daisy",
-                "pt_br": "Daisy",
-                "it": "Daisy",
-                "de": "Daisy",
-                "nl": "Daisy",
-                "ru": "Дейзи",
-                "ja": "デイジー",
-                "ko": "데이지",
-                "zh_hans": "黛西",
-                "zh_hant": "黛西"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "daisy_default.webp"                
-                }
-            ],
-            "stats": {
-                "land_speed": 1,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 6,
-                "weight": 2,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 1,
-                "mini_turbo": 2,
-                "stability": 1 
-            }
-        },
-        "rosalina": {
-            "slug": "rosalina",
-            "names": {
-                "fr_fr": "Harmonie",
-                "fr_ca": "Rosalina",
-                "en_gb": "Rosalina",
-                "en_us": "Rosalina",
-                "es_es": "Estela",
-                "es_la": "Rosalina",
-                "pt_pt": "Rosalina",
-                "pt_br": "Rosalina",
-                "it": "Rosalinda",
-                "de": "Rosalina",
-                "nl": "Rosalina",
-                "ru": "Розалина",
-                "ja": "ロゼッタ",
-                "ko": "로젤리나",
-                "zh_hans": "罗莎塔",
-                "zh_hant": "羅潔塔"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "rosalina_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 3,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 2,
-                "weight": 6,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "donkey_kong": {
-            "slug": "donkey_kong",
-            "names": {
-                "fr_fr": "Donkey Kong",
-                "fr_ca": "Donkey Kong",
-                "en_gb": "Donkey Kong",
-                "en_us": "Donkey Kong",
-                "es_es": "Donkey Kong",
-                "es_la": "Donkey Kong",
-                "pt_pt": "Donkey Kong",
-                "pt_br": "Donkey Kong",
-                "it": "Donkey Kong",
-                "de": "Donkey Kong",
-                "nl": "Donkey Kong",
-                "ru": "Донки Конг",
-                "ja": "ドンキーコング",
-                "ko": "동키콩",
-                "zh_hans": "咚奇刚",
-                "zh_hant": "咚奇剛"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "donkey_kong_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 3,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 2,
-                "weight": 6,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "wario": {
-            "slug": "wario",
-            "names": {
-                "fr_fr": "Wario",
-                "fr_ca": "Wario",
-                "en_gb": "Wario",
-                "en_us": "Wario",
-                "es_es": "Wario",
-                "es_la": "Wario",
-                "pt_pt": "Wario",
-                "pt_br": "Wario",
-                "it": "Wario",
-                "de": "Wario",
-                "nl": "Wario",
-                "ru": "Варио",
-                "ja": "ワリオ",
-                "ko": "와리오",
-                "zh_hans": "瓦力欧",
-                "zh_hant": "瓦利歐"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "wario_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 4,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 0,
-                "weight": 8,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 0,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "koopa_troopa": {
-            "slug": "koopa_troopa",
-            "names": {
-                "fr_fr": "Koopa",
-                "fr_ca": "Koopa",
-                "en_gb": "Koopa Troopa",
-                "en_us": "Koopa Troopa",
-                "es_es": "Koopa",
-                "es_la": "Koopa",
-                "pt_pt": "Koopa",
-                "pt_br": "Koopa",
-                "it": "Koopa",
-                "de": "Koopa",
-                "nl": "Koopa",
-                "ru": "Купа-трупа",
-                "ja": "ノコノコ",
-                "ko": "엉금엉금",
-                "zh_hans": "慢慢龟",
-                "zh_hant": "慢慢龜"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "koopa_troopa_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 0,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 8,
-                "weight": 0,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 2,
-                "mini_turbo": 3,
-                "stability": 1
-            }
-        },
-        "lakitu": {
-            "slug": "lakitu",
-            "names": {
-                "fr_fr": "Lakitu",
-                "fr_ca": "Lakitou",
-                "en_gb": "Lakitu",
-                "en_us": "Lakitu",
-                "es_es": "Lakitu",
-                "es_la": "Lakitu",
-                "pt_pt": "Lakitu",
-                "pt_br": "Lakitu",
-                "it": "Lakitu",
-                "de": "Lakitu",
-                "nl": "Lakitu",
-                "ru": "Лакиту",
-                "ja": "ジュゲム",
-                "ko": "김수한무",
-                "zh_hans": "球盖姆",
-                "zh_hant": "球蓋姆"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "lakitu_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 0,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 8,
-                "weight": 0,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 2,
-                "mini_turbo": 3,
-                "stability": 1
-            }
-        },
-        "shy_guy": {
-            "slug": "shy_guy",
-            "names": {
-                "fr_fr": "Maskass",
-                "fr_ca": "Maskache",
-                "en_gb": "Shy Guy",
-                "en_us": "Shy Guy",
-                "es_es": "Shy Guy",
-                "es_la": "Shy Guy",
-                "pt_pt": "Masquito",
-                "pt_br": "Shy Guy",
-                "it": "Tipo Timido",
-                "de": "Shy Guy",
-                "nl": "Shy Guy",
-                "ru": "Скромняга",
-                "ja": "ヘイホー",
-                "ko": "헤이호",
-                "zh_hans": "嘿呵",
-                "zh_hant": "嘿呵"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "shy_guy_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 0,
-                "water_speed": 2,
-                "air_speed": 0,
-                "acceleration": 8,
-                "weight": 0,
-                "land_handling": 2,
-                "water_handling": 2,
-                "air_handling": 2,
-                "off_road": 2,
-                "mini_turbo": 3,
-                "stability": 1
-            }
-        },
-        "wiggler": {
-            "slug": "wiggler",
-            "names": {
-                "fr_fr": "Wiggler",
-                "fr_ca": "Wiggler",
-                "en_gb": "Wiggler",
-                "en_us": "Wiggler",
-                "es_es": "Floruga",
-                "es_la": "Floruga",
-                "pt_pt": "Lagartola",
-                "pt_br": "Wiggler",
-                "it": "Torcibruco",
-                "de": "Wiggler",
-                "nl": "Wiggler",
-                "ru": "Егоза",
-                "ja": "ハナチャン",
-                "ko": "꽃충이",
-                "zh_hans": "花毛毛",
-                "zh_hant": "花毛毛"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "wiggler_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 3,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 2,
-                "weight": 6,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "metal_mario": {
-            "slug": "metal_mario",
-            "names": {
-                "fr_fr": "Mario de métal",
-                "fr_ca": "Mario de métal",
-                "en_gb": "Metal Mario",
-                "en_us": "Metal Mario",
-                "es_es": "Mario de Metal",
-                "es_la": "Mario de Metal",
-                "pt_pt": "Mario Metálico",
-                "pt_br": "Metal Mario",
-                "it": "Mario metallo",
-                "de": "Metall-Mario",
-                "nl": "Metalen Mario",
-                "ru": "Марио-металл",
-                "ja": "メタルマリオ",
-                "ko": "메탈마리오",
-                "zh_hans": "金属马力欧",
-                "zh_hant": "金屬瑪利歐"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "metal_mario_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 4,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 0,
-                "weight": 8,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 0,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "honey_queen": {
-            "slug": "honey_queen",
-            "names": {
-                "fr_fr": "Reine des Abeilles",
-                "fr_ca": "Reine des Abeilles",
-                "en_gb": "Honey Queen",
-                "en_us": "Honey Queen",
-                "es_es": "Abeja Reina",
-                "es_la": "Abeja reina",
-                "pt_pt": "Abelha-Rainha",
-                "pt_br": "Honey Queen",
-                "it": "Dolceape Regina",
-                "de": "Honigkönigin",
-                "nl": "Honey Queen",
-                "ru": "Королева-пчела",
-                "ja": "ハニークイーン",
-                "ko": "허니퀸",
-                "zh_hans": "蜜蜂女王",
-                "zh_hant": "蜜蜂女王"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "honey_queen_default.webp"
-                }
-            ],
-            "stats": {
-                "land_speed": 4,
-                "water_speed": 0,
-                "air_speed": 0,
-                "acceleration": 0,
-                "weight": 8,
-                "land_handling": 0,
-                "water_handling": 0,
-                "air_handling": 0,
-                "off_road": 0,
-                "mini_turbo": 1,
-                "stability": 1
-            }
-        },
-        "mii": {
-            "slug": "mii",
-            "names": {
-                "fr_fr": "Mii",
-                "fr_ca": "Mii",
-                "en_gb": "Mii",
-                "en_us": "Mii",
-                "es_es": "Mii",
-                "es_la": "Mii",
-                "pt_pt": "Mii",
-                "pt_br": "Mii",
-                "it": "Mii",
-                "de": "Mii",
-                "nl": "Mii",
-                "ru": "Mii",
-                "ja": "Mii",
-                "ko": "Mii",
-                "zh_hans": "Mii",
-                "zh_hant": "Mii"
-            },
-            "skins": [
-                {
-                    "slug": "default",
-                    "image": "mii_default.webp"
                 }
             ],
             "stats": {
@@ -678,7 +382,533 @@
                 "off_road": 1,
                 "mini_turbo": 1,
                 "stability":1
-            }
+            },
+            "category": "medium"
+        },
+        "daisy": {
+            "slug": "daisy",
+            "names": {
+                "fr_fr": "Daisy",
+                "fr_ca": "Daisy",
+                "en_gb": "Daisy",
+                "en_us": "Daisy",
+                "es_es": "Daisy",
+                "es_la": "Daisy",
+                "it": "Daisy",
+                "de": "Daisy",
+                "ja": "???",
+                "ko": "???"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "daisy_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "medium"
+        },
+        "yoshi": {
+            "slug": "yoshi",
+            "names": {
+                "fr_fr": "Yoshi",
+                "fr_ca": "Yoshi",
+                "en_gb": "Yoshi",
+                "en_us": "Yoshi",
+                "es_es": "Yoshi",
+                "es_la": "Yoshi",
+                "it": "Yoshi",
+                "de": "Yoshi",
+                "ja": "ヨッシー",
+                "ko": "요시"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "yoshi_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "medium"
+        },
+        "birdo": {
+            "slug": "birdo",
+            "names": {
+                "fr_fr": "Birdo",
+                "fr_ca": "Birdo",
+                "en_gb": "Birdo",
+                "en_us": "Birdo",
+                "es_es": "Birdo",
+                "es_la": "Birdo",
+                "it": "Strutzi",
+                "de": "Birdo",
+                "ja": "キャサリン",
+                "ko": "캐서린"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "birdo_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "medium"
+        },
+        "diddy_kong": {
+            "slug": "diddy_kong",
+            "names": {
+                "fr_fr": "Diddy Kong",
+                "fr_ca": "Diddy Kong",
+                "en_gb": "Diddy Kong",
+                "en_us": "Diddy Kong",
+                "es_es": "Diddy Kong",
+                "es_la": "Diddy Kong",
+                "it": "Diddy Kong",
+                "de": "Diddy Kong",
+                "ja": "ディディーコング",
+                "ko": "디디콩"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "diddy_kong_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "medium"
+        },
+        "bowser_jr": {
+            "slug": "bowser_jr",
+            "names": {
+                "fr_fr": "Bowser Jr.",
+                "fr_ca": "Bowser Jr.",
+                "en_gb": "Bowser Jr.",
+                "en_us": "Bowser Jr.",
+                "es_es": "Bowsy",
+                "es_la": "Bowser Jr.",
+                "it": "???",
+                "de": "Bowser Jr.",
+                "ja": "クッパＪｒ．",
+                "ko": "쿠파주니어"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "bowser_jr_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "medium"
+        },
+        "wario": {
+            "slug": "wario",
+            "names": {
+                "fr_fr": "Wario",
+                "fr_ca": "Wario",
+                "en_gb": "Wario",
+                "en_us": "Wario",
+                "es_es": "Wario",
+                "es_la": "Wario",
+                "it": "Wario",
+                "de": "Wario",
+                "ja": "ワリオ",
+                "ko": "와리오"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "wario_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "waluigi": {
+            "slug": "waluigi",
+            "names": {
+                "fr_fr": "Waluigi",
+                "fr_ca": "Waluigi",
+                "en_gb": "Waluigi",
+                "en_us": "Waluigi",
+                "es_es": "Waluigi",
+                "es_la": "Waluigi",
+                "it": "Waluigi",
+                "de": "Waluigi",
+                "ja": "ワルイージ",
+                "ko": "와루이지"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "waluigi_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "donkey_kong": {
+            "slug": "donkey_kong",
+            "names": {
+                "fr_fr": "Donkey Kong",
+                "fr_ca": "Donkey Kong",
+                "en_gb": "Donkey Kong",
+                "en_us": "Donkey Kong",
+                "es_es": "Donkey Kong",
+                "es_la": "Donkey Kong",
+                "it": "Donkey Kong",
+                "de": "Donkey Kong",
+                "ja": "ドンキーコング",
+                "ko": "동키콩"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "donkey_kong_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "bowser": {
+            "slug": "bowser",
+            "names": {
+                "fr_fr": "Bowser",
+                "fr_ca": "Bowser",
+                "en_gb": "Bowser",
+                "en_us": "Bowser",
+                "es_es": "Bowser",
+                "es_la": "Bowser",
+                "it": "Bowser",
+                "de": "Bowser",
+                "ja": "クッパ",
+                "ko": "쿠파"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "bowser_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "king_boo": {
+            "slug": "king_boo",
+            "names": {
+                "fr_fr": "Roi Boo",
+                "fr_ca": "King Boo",
+                "en_gb": "King Boo",
+                "en_us": "King Boo",
+                "es_es": "Rey Boo",
+                "es_la": "King Boo",
+                "it": "Re Boo",
+                "de": "König Buu Huu",
+                "ja": "キングテレサ",
+                "ko": "킹부끄"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "king_boo_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "rosalina": {
+            "slug": "rosalina",
+            "names": {
+                "fr_fr": "Harmonie",
+                "fr_ca": "Rosalina",
+                "en_gb": "Rosalina",
+                "en_us": "Rosalina",
+                "es_es": "Estela",
+                "es_la": "Rosalina",
+                "it": "Rosalinda",
+                "de": "Rosalina",
+                "ja": "ロゼッタ",
+                "ko": "로젤리나"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "rosalina_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "funky_kong": {
+            "slug": "funky_kong",
+            "names": {
+                "fr_fr": "Funky Kong",
+                "fr_ca": "Funky Kong",
+                "en_gb": "Funky Kong",
+                "en_us": "Funky Kong",
+                "es_es": "Funky Kong",
+                "es_la": "Funky Kong",
+                "it": "Funky Kong",
+                "de": "Funky Kong",
+                "ja": "ファンキーコング",
+                "ko": "펑키 콩"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "funky_kong_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "dry_bowser": {
+            "slug": "dry_bowser",
+            "names": {
+                "fr_fr": "Bowser Skelet",
+                "fr_ca": "Dry Bowser",
+                "en_gb": "Dry Bowser",
+                "en_us": "Dry Bowser",
+                "es_es": "Bowsitos",
+                "es_la": "Dry Bowser",
+                "it": "Skelobowser",
+                "de": "Knochen-Bowser",
+                "ja": "???",
+                "ko": "좀비쿠파"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "dry_bowser_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "large"
+        },
+        "mii_outfit_a": {
+            "slug": "mii_outfit_a",
+            "names": {
+                "fr_fr": "???",
+                "fr_ca": "???",
+                "en_gb": "Mii Outfit A",
+                "en_us": "Mii Outfit A",
+                "es_es": "???",
+                "es_la": "???",
+                "it": "???",
+                "de": "???",
+                "ja": "???",
+                "ko": "???"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "mii_outfit_a_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "mii"
+        },
+        "mii_outfit_b": {
+            "slug": "mii_outfit_b",
+            "names": {
+                "fr_fr": "???",
+                "fr_ca": "???",
+                "en_gb": "Mii Outfit B",
+                "en_us": "Mii Outfit B",
+                "es_es": "???",
+                "es_la": "???",
+                "it": "???",
+                "de": "???",
+                "ja": "???",
+                "ko": "???"
+            },
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "mii_outfit_b_default.webp"
+                }
+            ],
+            "stats": {
+                "land_speed": 2,
+                "water_speed": 1,
+                "air_speed": 0,
+                "acceleration": 4,
+                "weight": 4,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 1,
+                "stability":1
+            },
+            "category": "mii"
         }
     }
 }

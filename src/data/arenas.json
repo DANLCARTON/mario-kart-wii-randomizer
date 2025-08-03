@@ -1,135 +1,163 @@
 {
     "arenas": {
+        "block_plaza": {
+            "names": {
+                "fr_fr": "Square Bloc",
+                "fr_ca": "Square Bloc",
+                "en_gb": "Block Plaza",
+                "en_us": "Block Plaza",
+                "es_es": "Plaza Cúbica",
+                "es_la": "Plaza Cúbica",
+                "it": "Piazza Blocchi",
+                "de": "Block-Plaza",
+                "ja": "ブロックひろば",
+                "ko": "블록 광장"
+            },
+            "origin": null,
+            "image" : null
+        },
+        "delfino_pier": {
+            "names": {
+                "fr_fr": "Quai Delfino",
+                "fr_ca": "Jetée Delgino",
+                "en_gb": "Delfino Pier",
+                "en_us": "Delfino Pier",
+                "es_es": "Muelle Delfino",
+                "es_la": "Muelle Delfino",
+                "it": "Molo Delfino",
+                "de": "Delfino-Pier",
+                "ja": "アクアリゾート",
+                "ko": "아쿠아 리조트"
+            },
+            "origin": null,
+            "image" : null
+        },
+        "funky_stadium": {
+            "names": {
+                "fr_fr": "Stade Funky Kong",
+                "fr_ca": "Stade de Funky Kong",
+                "en_gb": "Funky Stadium",
+                "en_us": "Funky Stadium",
+                "es_es": "Estadio Funky",
+                "es_la": "Estadio de Funky",
+                "it": "Stadio funky",
+                "de": "Funky-Stadion",
+                "ja": "ファンキースタジアム",
+                "ko": "펑키 스타디움"
+            },
+            "origin": null,
+            "image" : null
+        },
+        "chain_chomp_wheel": {
+            "names": {
+                "fr_fr": "Roulette Chomp",
+                "fr_ca": "Roulette Chain Chomp",
+                "en_gb": "Chain Chomp Roulette",
+                "en_us": "Chain Chomp Wheel",
+                "es_es": "Ruleta Chomp Cadenas",
+                "es_la": "Ruleta de Chain Chomp",
+                "it": "Roulette Categnaccio",
+                "de": "Kettenhund-Roulette",
+                "ja": "ワンワンルーレット",
+                "ko": "멍멍이 룰렛"
+            },
+            "origin": null,
+            "image" : null
+        },
+        "thwomp_desert": {
+            "names": {
+                "fr_fr": "Désert Thwomp",
+                "fr_ca": "Désert Thwomp",
+                "en_gb": "Thwomp Desert",
+                "en_us": "Thwomp Desert",
+                "es_es": "Desierto Roca Picuda",
+                "es_la": "Desierto de Thwomp",
+                "it": "Deserto Twomp",
+                "de": "Steinwüste",
+                "ja": "ドッスンさばく",
+                "ko": "쿵쿵 사막"
+            },
+            "origin": null,
+            "image" : null
+        },
         "battle_course_1": {
             "names": {
-                "fr_fr": "Arène Bataille 1",
-                "fr_ca": "Arène bataille 1",
-                "en_gb": "Battle Course 1",
-                "en_us": "Battle Course 1",
-                "es_es": "Circuito de Batalla",
-                "es_la": "Pista de Batalla 1",
-                "pt_pt": "Batalha 1",
-                "pt_br": "Battle Course 1",
-                "it": "Percorso di guerra 1",
-                "de": "Kampfkurs 1",
-                "nl": "Gevechtsarena 1",
-                "ru": "Боевая трасса 1",
-                "ja": "バトルコース1",
-                "ko": "배틀 코스 1",
-                "zh_hans": "对战赛道1",
-                "zh_hant": "對戰賽道1"
+                "fr_fr": "Arène Bataille 4",
+                "fr_ca": "Circuit de Bataille 4",
+                "en_gb": "Battle Course 4",
+                "en_us": "Battle Course 4",
+                "es_es": "Circuito de Batalla 4",
+                "es_la": "Circuito de Batalla 4",
+                "it": "Percorso di guerra 4",
+                "de": "Kampfkurs 4",
+                "ja": "バトルコース４",
+                "ko": "배틀 코스4"
+            },
+            "origin": "SNES",
+            "image" : null
+        },
+        "battle_course_3": {
+            "names": {
+                "fr_fr": "Arène Bataille 3",
+                "fr_ca": "Circuit de Bataille 3",
+                "en_gb": "Battle Course 3",
+                "en_us": "Battle Course 3",
+                "es_es": "Circuito de Batalla 3",
+                "es_la": "Circuito de Batalla 3",
+                "it": "Percorso du guerra 3",
+                "de": "Kampfkurs 3",
+                "ja": "バトルコース３",
+                "ko": "배틀 코스3"
             },
             "origin": "GBA",
             "image" : null
         },
-        "big_donut": {
+        "skyscraper": {
             "names": {
-                "fr_fr": "Gros Donut",
-                "fr_ca": "Gros beigne",
-                "en_gb": "Big Donut",
-                "en_us": "Big Donut",
-                "es_es": "Gran Donut",
-                "es_la": "Rosca Enorme",
-                "pt_pt": "Grande Donut",
-                "pt_br": "Big Donut",
-                "it": "Ciambellona",
-                "de": "Riesendonut",
-                "nl": "Reuzenring",
-                "ru": "Большой бублик",
-                "ja": "ビッグドーナツ",
-                "ko": "빅 도넛",
-                "zh_hans": "大甜甜圈",
-                "zh_hant": "大面包圈"
+                "fr_fr": "Gratte-ciel",
+                "fr_ca": "Gratte-ciel",
+                "en_gb": "Skyscraper",
+                "en_us": "Skyscraper",
+                "es_es": "Rascacielos",
+                "es_la": "Rascacielos",
+                "it": "Grattacielo",
+                "de": "Wolkenkratzen",
+                "ja": "まてんろう",
+                "ko": "마천루"
             },
             "origin": "N64",
             "image" : null
         },
-        "palm_shore": {
+        "cookie_land": {
             "names": {
-                "fr_fr": "Feuille de Palmier",
-                "fr_ca": "Feuille de palmier",
-                "en_gb": "Palm Shore",
-                "en_us": "Palm Shore",
-                "es_es": "Costa Palma",
-                "es_la": "Costa Palma",
-                "pt_pt": "Pista Palmeiras",
-                "pt_br": "Palm Shore",
-                "it": "Riva delle palme",
-                "de": "Palmenblatt",
-                "nl": "Palmstrand",
-                "ru": "Пальмовый берег",
-                "ja": "サザンリーフ",
-                "ko": "야자 모래섬",
-                "zh_hans": "南岛沙洲",
-                "zh_hant": "南島沙洲"
+                "fr_fr": "Cookie Arena",
+                "fr_ca": "Cookie Arena",
+                "en_gb": "Cookie Land",
+                "en_us": "Cookie Land",
+                "es_es": "Tierra Galleta",
+                "es_la": "Tierra Galleta",
+                "it": "Biscolandia",
+                "de": "Keks-Land",
+                "ja": "クッキーランド",
+                "ko": "쿠키 랜드"
+            },
+            "origin": "GCN",
+            "image" : null
+        },
+        "twilight_house": {
+            "names": {
+                "fr_fr": "Maison de l'Aube",
+                "fr_ca": "Maison de l'Aube",
+                "en_gb": "Twilight House",
+                "en_us": "Twilight House",
+                "es_es": "Casa Crepuscular",
+                "es_la": "Casa Crepuscular",
+                "it": "???",
+                "de": "Finstervilla",
+                "ja": "ゆうやみハウス",
+                "ko": "어두컴COME!"
             },
             "origin": "DS",
-            "image" : null
-        },
-        "honeybee_hive": {
-            "names": {
-                "fr_fr": "Ruche Grabuge",
-                "fr_ca": "Mielodrome",
-                "en_gb": "Honeybee House",
-                "en_us": "Honeybee Hive",
-                "es_es": "Melódromo",
-                "es_la": "Melódromo",
-                "pt_pt": "Casa da Abelha-Rainha",
-                "pt_br": "Honeybee Hive",
-                "it": "Mielodromo",
-                "de": "Honighallen",
-                "nl": "Honinghuis",
-                "ru": "Медодром",
-                "ja": "ハニービーハウス",
-                "ko": "허니비 하우스",
-                "zh_hans": "蜜蜂屋",
-                "zh_hant": "蜜蜂屋"
-            },
-            "origin": null,
-            "image" : null
-        },
-        "sherbet_rink": {
-            "names": {
-                "fr_fr": "Patinoire Sorbet",
-                "fr_ca": "Patinoire Sorbet",
-                "en_gb": "Sherbet Rink",
-                "en_us": "Sherbet Rink",
-                "es_es": "Pista Sorbete",
-                "es_la": "Pista Sorbete",
-                "pt_pt": "Rinque de Gelo",
-                "pt_br": "Sherbet Rink",
-                "it": "Pista Gelata",
-                "de": "Naschparadies",
-                "nl": "Peach' IJspaleis",
-                "ru": "Ледяной каток",
-                "ja": "シャーベットリンク",
-                "ko": "샤베트 링크",
-                "zh_hans": "雪芭溜冰场",
-                "zh_hant": "雪酪溜冰場"
-            },
-            "origin": null,
-            "image" : null
-        },
-        "wuhu_town": {
-            "names": {
-                "fr_fr": "Wuhuville",
-                "fr_ca": "Wuhuville",
-                "en_gb": "Wuhu Town",
-                "en_us": "Wuhu Town",
-                "es_es": "Pueblo Wuhu",
-                "es_la": "Pueblo Wuhu",
-                "pt_pt": "Cidade Wuhu",
-                "pt_br": "Wuhu Town",
-                "it": "Borgo Wuhu",
-                "de": "Wuhu-Stadt",
-                "nl": "Wuhu-stad",
-                "ru": "Город Вуху",
-                "ja": "ウーフータウン",
-                "ko": "우후 타운",
-                "zh_hans": "乌富城",
-                "zh_hant": "烏富城"
-            },
-            "origin": null,
             "image" : null
         }
     }

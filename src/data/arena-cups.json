@@ -1,0 +1,48 @@
+{
+    "arena_cups": {
+        "wii_stages": {
+            "names": {
+                "fr_fr": "???",
+                "fr_ca": "???",
+                "en_gb": "Wii Stages",
+                "en_us": "Wii Stages",
+                "es_es": "???",
+                "es_la": "???",
+                "it": "???",
+                "de": "???",
+                "ja": "???",
+                "ko": "???"
+            },
+            "courses": [
+                "block_plaza",
+                "delfino_pier",
+                "funky_stadium",
+                "chain_chomp_wheel",
+                "thwomp_desert"
+            ],
+            "image": null
+        },
+        "retro_stages": {
+            "names": {
+                "fr_fr": "???",
+                "fr_ca": "???",
+                "en_gb": "Retro Stages",
+                "en_us": "Retro Stages",
+                "es_es": "???",
+                "es_la": "???",
+                "it": "???",
+                "de": "???",
+                "ja": "???",
+                "ko": "???"
+            },
+            "courses": [
+                "battle_course_4",
+                "battle_course_3",
+                "skyscraper",
+                "cookie_land",
+                "twilight_house"
+            ],
+            "image": null
+        }
+    }
+}
