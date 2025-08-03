@@ -8,16 +8,10 @@
                 "en_us": "Mushroom Cup",
                 "es_es": "Copa Champiñón",
                 "es_la": "Copa Champiñón",
-                "pt_pt": "Taça Cogumelo",
-                "pt_br": "Copa Cogumelo",
                 "it": "Trofeo Fungo",
                 "de": "Pilz-Cup",
-                "nl": "Paddenstoelbeker",
-                "ru": "Кубок гриба",
                 "ja": "キノコカップ",
-                "ko": "버섯 컵",
-                "zh_hans": "蘑菇杯",
-                "zh_hant": "蘑菇盃"
+                "ko": "버섯 컵"
             },
             "courses": [
                 "luigi_circuit",
@@ -35,16 +29,10 @@
                 "en_us": "Flower Cup",
                 "es_es": "Copa Flor",
                 "es_la": "Copa Flor",
-                "pt_pt": "Taça Flor",
-                "pt_br": "Copa Flor",
                 "it": "Trofeo Fiore",
                 "de": "Blumen-Cup",
-                "nl": "Bloemenbeker",
-                "ru": "Кубок цветка",
                 "ja": "フラワーカップ",
-                "ko": "플라워 컵",
-                "zh_hans": "鲜花杯",
-                "zh_hant": "花朵盃"
+                "ko": "플라워 컵"
             },
             "courses": [
                 "mario_circuit",
@@ -62,16 +50,10 @@
                 "en_us": "Star Cup",
                 "es_es": "Copa Estrella",
                 "es_la": "Copa Estrella",
-                "pt_pt": "Taça Estrela",
-                "pt_br": "Copa Estrela",
                 "it": "Trofeo Stella",
                 "de": "Stern-Cup",
-                "nl": "Sterrenbeker",
-                "ru": "Кубок звезды",
                 "ja": "スターカップ",
-                "ko": "스타 컵",
-                "zh_hans": "星星杯",
-                "zh_hant": "星星盃"
+                "ko": "스타 컵"
             },
             "courses": [
                 "daisy_circuit",
@@ -89,16 +71,10 @@
                 "en_us": "Shell Cup",
                 "es_es": "Copa Caparazón",
                 "es_la": "Copa Caparazón",
-                "pt_pt": "Taça Carapaça",
-                "pt_br": "Copa Casco",
                 "it": "Trofeo Guscio",
                 "de": "Panzer-Cup",
-                "nl": "Schildbeker",
-                "ru": "Кубок панциря",
                 "ja": "こうらカップ",
-                "ko": "등껍질 컵",
-                "zh_hans": "龟壳杯",
-                "zh_hant": "龜殼盃"
+                "ko": "등껍질 컵"
             },
             "courses": [
                 "dry_dry_ruins",
@@ -116,16 +92,10 @@
                 "en_us": "Banana Cup",
                 "es_es": "Copa Plátano",
                 "es_la": "Copa Plátano",
-                "pt_pt": "Taça Banana",
-                "pt_br": "Copa Banana",
                 "it": "Trofeo Banana",
                 "de": "Bananen-Cup",
-                "nl": "Bananenbeker",
-                "ru": "Кубок банана",
                 "ja": "バナナカップ",
-                "ko": "바나나 컵",
-                "zh_hans": "香蕉杯",
-                "zh_hant": "香蕉盃"
+                "ko": "바나나 컵"
             },
             "courses": [
                 "peach_beach",
@@ -143,16 +113,10 @@
                 "en_us": "Leaf Cup",
                 "es_es": "Copa Hoja",
                 "es_la": "Copa Hoja",
-                "pt_pt": "Taça Folha",
-                "pt_br": "Copa Folha",
                 "it": "Trofeo Foglia",
                 "de": "Blatt-Cup",
-                "nl": "Blaadjesbeker",
-                "ru": "Кубок листа",
                 "ja": "このはカップ",
-                "ko": "리프 컵",
-                "zh_hans": "树叶杯",
-                "zh_hant": "樹葉盃"
+                "ko": "리프 컵"
             },
             "courses": [
                 "sherbet_land",
@@ -170,16 +134,10 @@
                 "en_us": "Lightning Cup",
                 "es_es": "Copa Centella",
                 "es_la": "Copa Centella",
-                "pt_pt": "Taça Relâmpago",
-                "pt_br": "Copa Relâmpago",
                 "it": "Trofeo Fulmine",
                 "de": "Blitz-Cup",
-                "nl": "Bliksembeker",
-                "ru": "Кубок молнии",
                 "ja": "サンダーカップ",
-                "ko": "번개 컵",
-                "zh_hans": "闪电杯",
-                "zh_hant": "閃電盃"
+                "ko": "번개 컵"
             },
             "courses": [
                 "desert_hills",
@@ -197,16 +155,10 @@
                 "en_us": "Special Cup",
                 "es_es": "Copa Especial",
                 "es_la": "Copa Especial",
-                "pt_pt": "Taça Especial",
-                "pt_br": "Copa Especial",
                 "it": "Trofeo Speciale",
                 "de": "Spezial-Cup",
-                "nl": "Speciale beker",
-                "ru": "Особый кубок",
                 "ja": "スペシャルカップ",
-                "ko": "스페셜 컵",
-                "zh_hans": "特别杯",
-                "zh_hant": "特別盃"
+                "ko": "스페셜 컵"
             },
             "courses": [
                 "mario_circuit_3",
