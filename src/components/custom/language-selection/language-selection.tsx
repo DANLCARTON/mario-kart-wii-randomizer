@@ -34,15 +34,9 @@ export default component$((props : LanguageSelectionProps) => {
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "en_us" && " current-lang")} onClick$={() => setLang("en_us")}> English (USA) </button>
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "es_es" && " current-lang")} onClick$={() => setLang("es_es")}> Español (España) </button>
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "es_la" && " current-lang")} onClick$={() => setLang("es_la")}> Español (América Latina) </button>
-        <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "pt_pt" && " current-lang")} onClick$={() => setLang("pt_pt")}> Português (Portugal) </button>
-        <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "pt_br" && " current-lang")} onClick$={() => setLang("pt_br")}> Português (Brasil) </button>
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "it" && " current-lang")} onClick$={() => setLang("it")}> Italiano </button>
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "de" && " current-lang")} onClick$={() => setLang("de")}> Deutsch </button>
-        <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "nl" && " current-lang")} onClick$={() => setLang("nl")}> Nederlands </button>
-        <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "ru" && " current-lang")} onClick$={() => setLang("ru")}> Русский </button>
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "ja" && " current-lang")} onClick$={() => setLang("ja")}> 日本語 </button>
         <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "ko" && " current-lang")} onClick$={() => setLang("ko")}> 한국어 </button>
-        <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "zh_hans" && " current-lang")} onClick$={() => setLang("zh_hans")}> 简化字 </button>
-        <button class={"lang-button" + (!props.footer == true ? " glass" : " ") + (lang == "zh_hant" && " current-lang")} onClick$={() => setLang("zh_hant")}> 正體字 </button>
     </div>
 })

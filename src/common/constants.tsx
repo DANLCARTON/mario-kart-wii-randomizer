@@ -7,24 +7,16 @@ export const availableLangs = [
     "en_us", // Anglais (États-Unis d'Amérique)
     "es_es", // Espagnol (Espagne)
     "es_la", // Espagnol (Amérique latine)
-    "pt_pt", // Portugais (Portugal)
-    "pt_br", // Portugais (Brésil)
     "it", // Italien
     "de", // Allemand
-    "nl", // Néerlandais
-    "ru", // Russe
     "ja", // Japonais
     "ko", // Coréen
-    "zh_hans", // Chinois simplifié
-    "zh_hant", // Chinois traditionnel
 ];
 
 
 export const asianLangs = [
     "ja", 
     "ko", 
-    "zh_hans", 
-    "zh_hant"
 ]
 
 // Emojis pour la petite phrase "Made With ? by Eric Thiberge"
