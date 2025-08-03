@@ -1,0 +1,90 @@
+:root {
+    color: #252525;
+    --variable-font-size: 16px;
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+#hidden-text {
+    display: none;
+}
+
+body {
+    background-image: url("/assets/mk7-background-medium.png");
+    background-attachment: fixed;
+}
+
+// body.rare-background {
+//     background-image: url("/assets/rare_background.webp");
+//     background-attachment: fixed;
+// }
+
+// body.mk8r-background {
+//     background: linear-gradient(135deg, #001f1f, #1f001f);
+// }
+
+
+* {
+    margin: 0;
+    font-family: 'Inter';
+}
+
+.large-width {
+    width: 90vw;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.medium-width {
+    width: 90vw;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.full-width {
+    width: 100%
+}
+
+.current, 
+.selected, 
+.not-selected {
+    padding: 2px 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 #25252550;
+    margin: 5px;
+    transition: ease-in-out .1s;
+}
+
+.current:hover, 
+.selected:hover, 
+.not-selected:hover {
+    transform: scale(103%);
+    cursor: pointer;
+}
+
+.current {
+    background-color: #ffd700d9;
+}
+
+.not-selected {
+    background-color: #ffffffd9;
+}
+
+.parameters-container {
+    color: white;
+    padding: 25px;
+    margin: 0 0 25px 0
+}
+
+.parameters-container h3 {
+    margin: 0 0 15px 0;
+}
+
+.parameters-container div input[type=checkbox] {
+    margin: 0 10px 0 0;
+}
+
+.prefix {
+    font-size: 12px;
+    font-weight: bold;
+}

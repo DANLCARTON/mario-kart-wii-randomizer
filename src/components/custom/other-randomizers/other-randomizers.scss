@@ -1,0 +1,11 @@
+#other-randomizers-container > a {
+    display: block;
+    margin: 0 0 5px 0;
+    color: black;
+    text-decoration: none;
+}
+
+footer.language-selection #other-randomizers-container {
+    display: flex;
+    gap: 5px;
+}

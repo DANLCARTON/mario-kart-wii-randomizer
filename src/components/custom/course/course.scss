@@ -1,0 +1,42 @@
+.course-component {
+    font-size: var(--variable-font-size);
+}
+
+.current, 
+.selected, 
+.not-selected {
+    padding: 2px 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 #25252550;
+    margin: 5px;
+    transition: ease-in-out .1s;
+}
+
+.current:hover, 
+.selected:hover, 
+.not-selected:hover {
+    transform: scale(103%);
+    cursor: pointer;
+}
+
+.current {
+    background-color: #ffd700d9;
+}
+
+.selected {
+    background-color: #252525d9;
+    color: white;
+}
+
+.not-selected {
+    background-color: #ffffffd9;
+}
+
+.course-component li {
+    list-style-type: none;
+    color: #505050
+}
+
+.course-component li.selected {
+    color: #afafaf
+}

@@ -1,0 +1,220 @@
+{
+    "cups": {
+        "mushroom_cup": {
+            "names": {
+                "fr_fr": "Coupe Champignon",
+                "fr_ca": "Coupe Champignon",
+                "en_gb": "Mushroom Cup",
+                "en_us": "Mushroom Cup",
+                "es_es": "Copa Champiñón",
+                "es_la": "Copa Champiñón",
+                "pt_pt": "Taça Cogumelo",
+                "pt_br": "Copa Cogumelo",
+                "it": "Trofeo Fungo",
+                "de": "Pilz-Cup",
+                "nl": "Paddenstoelbeker",
+                "ru": "Кубок гриба",
+                "ja": "キノコカップ",
+                "ko": "버섯 컵",
+                "zh_hans": "蘑菇杯",
+                "zh_hant": "蘑菇盃"
+            },
+            "courses": [
+                "toad_circuit",
+                "daisy_hills",
+                "cheep_cheep_lagoon",
+                "shy_guy_bazaar"
+            ],
+            "image": null
+        },
+        "flower_cup": {
+            "names": {
+                "fr_fr": "Coupe Fleur",
+                "fr_ca": "Coupe Fleur",
+                "en_gb": "Flower Cup",
+                "en_us": "Flower Cup",
+                "es_es": "Copa Flor",
+                "es_la": "Copa Flor",
+                "pt_pt": "Taça Flor",
+                "pt_br": "Copa Flor",
+                "it": "Trofeo Fiore",
+                "de": "Blumen-Cup",
+                "nl": "Bloemenbeker",
+                "ru": "Кубок цветка",
+                "ja": "フラワーカップ",
+                "ko": "플라워 컵",
+                "zh_hans": "鲜花杯",
+                "zh_hant": "花朵盃"
+            },
+            "courses": [
+                "wuhu_loop",
+                "mario_circuit",
+                "music_park",
+                "rock_rock_mountain"
+            ],
+            "image": null
+        },
+        "star_cup": {
+            "names": {
+                "fr_fr": "Coupe Étoile",
+                "fr_ca": "Coupe Étoile",
+                "en_gb": "Star Cup",
+                "en_us": "Star Cup",
+                "es_es": "Copa Estrella",
+                "es_la": "Copa Estrella",
+                "pt_pt": "Taça Estrela",
+                "pt_br": "Copa Estrela",
+                "it": "Trofeo Stella",
+                "de": "Stern-Cup",
+                "nl": "Sterrenbeker",
+                "ru": "Кубок звезды",
+                "ja": "スターカップ",
+                "ko": "스타 컵",
+                "zh_hans": "星星杯",
+                "zh_hant": "星星盃"
+            },
+            "courses": [
+                "piranha_plant_slide",
+                "wario_s_shipyard",
+                "neo_bowser_city",
+                "maka_wuhu"
+            ],
+            "image": null
+        },
+        "shell_cup": {
+            "names": {
+                "fr_fr": "Coupe Carapace",
+                "fr_ca": "Coupe Carapace",
+                "en_gb": "Shell Cup",
+                "en_us": "Shell Cup",
+                "es_es": "Copa Caparazón",
+                "es_la": "Copa Caparazón",
+                "pt_pt": "Taça Carapaça",
+                "pt_br": "Copa Casco",
+                "it": "Trofeo Guscio",
+                "de": "Panzer-Cup",
+                "nl": "Schildbeker",
+                "ru": "Кубок панциря",
+                "ja": "こうらカップ",
+                "ko": "등껍질 컵",
+                "zh_hans": "龟壳杯",
+                "zh_hant": "龜殼盃"
+            },
+            "courses": [
+                "dk_jungle",
+                "rosalina_s_ice_world",
+                "bowser_s_castle",
+                "rainbow_road"
+            ],
+            "image": null
+        },
+        "banana_cup": {
+            "names": {
+                "fr_fr": "Coupe Banane",
+                "fr_ca": "Coupe Banane",
+                "en_gb": "Banana Cup",
+                "en_us": "Banana Cup",
+                "es_es": "Copa Plátano",
+                "es_la": "Copa Plátano",
+                "pt_pt": "Taça Banana",
+                "pt_br": "Copa Banana",
+                "it": "Trofeo Banana",
+                "de": "Bananen-Cup",
+                "nl": "Bananenbeker",
+                "ru": "Кубок банана",
+                "ja": "バナナカップ",
+                "ko": "바나나 컵",
+                "zh_hans": "香蕉杯",
+                "zh_hant": "香蕉盃"
+            },
+            "courses": [
+                "luigi_raceway",
+                "bowser_castle_1",
+                "mushroom_gorge",
+                "luigi_s_mansion"
+            ],
+            "image": null
+        },
+        "leaf_cup": {
+            "names": {
+                "fr_fr": "Coupe Feuille",
+                "fr_ca": "Coupe Feuille",
+                "en_gb": "Leaf Cup",
+                "en_us": "Leaf Cup",
+                "es_es": "Copa Hoja",
+                "es_la": "Copa Hoja",
+                "pt_pt": "Taça Folha",
+                "pt_br": "Copa Folha",
+                "it": "Trofeo Foglia",
+                "de": "Blatt-Cup",
+                "nl": "Blaadjesbeker",
+                "ru": "Кубок листа",
+                "ja": "このはカップ",
+                "ko": "리프 컵",
+                "zh_hans": "树叶杯",
+                "zh_hant": "樹葉盃"
+            },
+            "courses": [
+                "koopa_beach",
+                "mario_circuit_2",
+                "coconut_mall",
+                "waluigi_pinball"
+            ],
+            "image": null
+        },
+        "lightning_cup": {
+            "names": {
+                "fr_fr": "Coupe Éclair",
+                "fr_ca": "Coupe Éclair",
+                "en_gb": "Lightning Cup",
+                "en_us": "Lightning Cup",
+                "es_es": "Copa Centella",
+                "es_la": "Copa Centella",
+                "pt_pt": "Taça Relâmpago",
+                "pt_br": "Copa Relâmpago",
+                "it": "Trofeo Fulmine",
+                "de": "Blitz-Cup",
+                "nl": "Bliksembeker",
+                "ru": "Кубок молнии",
+                "ja": "サンダーカップ",
+                "ko": "번개 컵",
+                "zh_hans": "闪电杯",
+                "zh_hant": "閃電盃"
+            },
+            "courses": [
+                "kalimari_desert",
+                "dk_pass",
+                "daisy_cruiser",
+                "maple_treeway"
+            ],
+            "image": null
+        },
+        "special_cup": {
+            "names": {
+                "fr_fr": "Coupe Spéciale",
+                "fr_ca": "Coupe Spéciale",
+                "en_gb": "Special Cup",
+                "en_us": "Special Cup",
+                "es_es": "Copa Especial",
+                "es_la": "Copa Especial",
+                "pt_pt": "Taça Especial",
+                "pt_br": "Copa Especial",
+                "it": "Trofeo Speciale",
+                "de": "Spezial-Cup",
+                "nl": "Speciale beker",
+                "ru": "Особый кубок",
+                "ja": "スペシャルカップ",
+                "ko": "스페셜 컵",
+                "zh_hans": "特别杯",
+                "zh_hant": "特別盃"
+            },
+            "courses": [
+                "koopa_cape",
+                "dino_dino_jungle",
+                "airship_fortress",
+                "snes_rainbow_road"
+            ],
+            "image": null
+        }
+    }
+}

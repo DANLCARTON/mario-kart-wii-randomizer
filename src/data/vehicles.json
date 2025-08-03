@@ -1,0 +1,982 @@
+{
+    "vehicles": {
+        "standard_kart": {
+            "slug": "standard_kart",
+            "names": {
+                "fr_fr": "Kart Standard",
+                "fr_ca": "Kart Standard",
+                "en_gb": "Standard Kart",
+                "en_us": "Standard Kart",
+                "es_es": "Kart Estandár",
+                "es_la": "Kart estandár",
+                "pt_pt": "Padrão",
+                "pt_br": "Standard Kart",
+                "it": "Kart standard",
+                "de": "Standard-Kart",
+                "nl": "Standaardkart",
+                "ru": "Карт-стандарт",
+                "ja": "スタンダードカート",
+                "ko": "스탠더드카트",
+                "zh_hans": "标准车",
+                "zh_hant": "標準車"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "standard_kart.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "standard_kart_mario_red.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_green",
+                    "image": "standard_kart_luigi_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_pink",
+                    "image": "standard_kart_peach_pink.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "yoshi_cyan",
+                    "image": "standard_kart_yoshi_cyan.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "bowser_yellow",
+                    "image": "standard_kart_bowser_yellow.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "standard_kart_donkey_kong_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "toad_deep_blue",
+                    "image": "standard_kart_toad_deep_blue.webp",
+                    "match": [
+                        "toad"
+                    ]
+                },
+                {
+                    "slug": "koopa_troopa_light_green",
+                    "image": "standard_kart_koopa_troopa_light_green.webp",
+                    "match": [
+                        "koopa_troopa"
+                    ]
+                },
+                {
+                    "slug": "daisy_yellow_orange",
+                    "image": "standard_kart_daisy_yellow_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "wario_purple",
+                    "image": "standard_kart_wario_purple.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "standard_kart_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "metal_mario_metallic_gray",
+                    "image": "standard_kart_metal_mario_metallic_gray.webp",
+                    "match": [
+                        "metal_mario"
+                    ]
+                },
+                {
+                    "slug": "shy_guy_white",
+                    "image": "standard_kart_shy_guy_white.webp",
+                    "match": [
+                        "shy_guy"
+                    ]
+                },
+                {
+                    "slug": "honey_queen_purple",
+                    "image": "standard_kart_honey_queen_purple.webp",
+                    "match": [
+                        "honey_queen"
+                    ]
+                },
+                {
+                    "slug": "wiggler_brown",
+                    "image": "standard_kart_wiggler_brown.webp",
+                    "match": [
+                        "wiggler"
+                    ]
+                },
+                {
+                    "slug": "lakitu_sky_blue",
+                    "image": "standard_kart_lakitu_sky_blue.webp",
+                    "match": [
+                        "lakitu"
+                    ]
+                },
+                {
+                    "slug": "mii_pure_white",
+                    "image": "standard_kart_mii_pure_white.webp",
+                    "match": [
+                        "mii"
+                    ]
+                }
+            ]
+        },
+        "pipe_frame": {
+            "slug": "pipe_frame",
+            "names": {
+                "fr_fr": "Rétro",
+                "fr_ca": "Rétro",
+                "en_gb": "Pipe Frame",
+                "en_us": "Pipe Frame",
+                "es_es": "Tubiturbo",
+                "es_la": "Tubiturbo",
+                "pt_pt": "Canoturbo",
+                "pt_br": "Canoturbo",
+                "it": "Tuboturbo",
+                "de": "Go-Kart",
+                "nl": "Skelter",
+                "ru": "Труботурбо",
+                "ja": "スケルトン",
+                "ko": "스켈레톤",
+                "zh_hans": "管架车",
+                "zh_hant": "管架車"
+            },
+            "stats": {
+                "land_speed": 5,
+                "water_speed": 8,
+                "air_speed": 4,
+                "acceleration": 4,
+                "weight": 1,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 3,
+                "mini_turbo": 4,
+                "stability": 0
+            },
+            "image": "pipe_frame.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "pipe_frame_mario_red.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_green",
+                    "image": "pipe_frame_luigi_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_pink",
+                    "image": "pipe_frame_peach_pink.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "yoshi_lime_green",
+                    "image": "pipe_frame_yoshi_lime_green.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "bowser_orange",
+                    "image": "pipe_frame_bowser_orange.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_yellow",
+                    "image": "pipe_frame_donkey_kong_yellow.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "toad_blue",
+                    "image": "pipe_frame_toad_blue.webp",
+                    "match": [
+                        "toad"
+                    ]
+                },
+                {
+                    "slug": "koopa_troopa_neon_yellow",
+                    "image": "pipe_frame_koopa_troopa_neon_yellow.webp",
+                    "match": [
+                        "koopa_troopa"
+                    ]
+                },
+                {
+                    "slug": "daisy_yellow_orange",
+                    "image": "pipe_frame_daisy_yellow_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "wario_purple",
+                    "image": "pipe_frame_wario_purple.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "pipe_frame_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "metal_mario_blue_gray",
+                    "image": "pipe_frame_metal_mario_blue_gray.webp",
+                    "match": [
+                        "metal_mario"
+                    ]
+                },
+                {
+                    "slug": "shy_guy_black",
+                    "image": "pipe_frame_shy_guy_black.webp",
+                    "match": [
+                        "shy_guy"
+                    ]
+                },
+                {
+                    "slug": "honey_queen_magenta",
+                    "image": "pipe_frame_honey_queen_magenta.webp",
+                    "match": [
+                        "honey_queen"
+                    ]
+                },
+                {
+                    "slug": "wiggler_brown",
+                    "image": "pipe_frame_wiggler_brown.webp",
+                    "match": [
+                        "wiggler"
+                    ]
+                },
+                {
+                    "slug": "lakitu_cyan",
+                    "image": "pipe_frame_lakitu_cyan.webp",
+                    "match": [
+                        "lakitu"
+                    ]
+                },
+                {
+                    "slug": "mii_white",
+                    "image": "pipe_frame_mii_white.webp",
+                    "match": [
+                        "mii"
+                    ]
+                }
+            ]
+        },
+        "b_dasher": {
+            "slug": "b_dasher",
+            "names": {
+                "fr_fr": "Intrépide",
+                "fr_ca": "Intrépide",
+                "en_gb": "B Dasher",
+                "en_us": "B Dasher",
+                "es_es": "Rayo GTI",
+                "es_la": "Rayo GTI",
+                "pt_pt": "Turbólide",
+                "pt_br": "Corisco",
+                "it": "Fulmine",
+                "de": "Bolide",
+                "nl": "Sprinter",
+                "ru": "Турбо B",
+                "ja": "Ｂダッシュ",
+                "ko": "B대시",
+                "zh_hans": "B冲刺",
+                "zh_hant": "B衝刺"
+            },
+            "stats": {
+                "land_speed": 8,
+                "water_speed": 2,
+                "air_speed": 2,
+                "acceleration": 1,
+                "weight": 2,
+                "land_handling": 4,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "b_dasher.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "b_dasher.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "bumble_v": {
+            "slug": "bumble_v",
+            "names": {
+                "fr_fr": "Butineuse",
+                "fr_ca": "Butineuse",
+                "en_gb": "Bumble V",
+                "en_us": "Bumble V",
+                "es_es": "Abejo-móvil",
+                "es_la": "Abejomóvil",
+                "pt_pt": "Autobelha",
+                "pt_br": "Autobelha",
+                "it": "Apemobile",
+                "de": "Bienenmobil",
+                "nl": "Bijrijder",
+                "ru": "Жаломобиль",
+                "ja": "マッハクイーン",
+                "ko": "마하퀸",
+                "zh_hans": "音速女王",
+                "zh_hant": "音速女王"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 4,
+                "acceleration": 5,
+                "weight": 1,
+                "land_handling": 4,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bumble_v.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "bumble_v.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "cloud_9": {
+            "slug": "cloud_9",
+            "names": {
+                "fr_fr": "Kartocumulus",
+                "fr_ca": "Turbomulus",
+                "en_gb": "Cloud 9",
+                "en_us": "Cloud 9",
+                "es_es": "Turbonu B",
+                "es_la": "Turbonú B",
+                "pt_pt": "Cumulus turbo",
+                "pt_br": "Cumulus turbo",
+                "it": "Nuvolesta",
+                "de": "Wolkenwagen",
+                "nl": "Wolkenwagen",
+                "ru": "Облакомобиль",
+                "ja": "H2O",
+                "ko": "H2O",
+                "zh_hans": "H2O",
+                "zh_hant": "H2O"
+            },
+            "stats": {
+                "land_speed": 4,
+                "water_speed": 8,
+                "air_speed": 4,
+                "acceleration": 4,
+                "weight": 1,
+                "land_handling": 5,
+                "water_handling": 3,
+                "air_handling": 2,
+                "off_road": 2,
+                "mini_turbo": 4,
+                "stability": 0
+            },
+            "image": "cloud_9.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "cloud_9.webp",
+                    "match": "all"
+                }
+            ]
+        }, 
+        "birthday_girl": {
+            "slug": "birthday_girl",
+            "names": {
+                "fr_fr": "Turboruban",
+                "fr_ca": "Turboruban",
+                "en_gb": "Royal Ribbon",
+                "en_us": "Birthday Girl",
+                "es_es": "Lazo GTI",
+                "es_la": "Rosilazo GTI",
+                "pt_pt": "Laço Real",
+                "pt_br": "Birthday Girl",
+                "it": "Nastronave",
+                "de": "Schleifenkiste",
+                "nl": "Royaltyracer",
+                "ru": "Бантомобиль",
+                "ja": "バースデーガール",
+                "ko": "웨딩카",
+                "zh_hans": "生日女孩",
+                "zh_hant": "生日女孩"
+            },
+            "stats": {
+                "land_speed": 4,
+                "water_speed": 6,
+                "air_speed": 4,
+                "acceleration": 5,
+                "weight": 1,
+                "land_handling": 1,
+                "water_handling": 5,
+                "air_handling": 2,
+                "off_road": 1,
+                "mini_turbo": 4,
+                "stability": 0
+            },
+            "image": "birthday_girl.webp",
+            "skins": [
+                {
+                    "slug": "orange",
+                    "image": "birthday_girl_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "blue",
+                    "image": "birthday_girl_blue.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "purple",
+                    "image": "birthday_girl_purple.webp",
+                    "match": [
+                        "honey_queen"
+                    ]
+                },
+                {
+                    "slug": "pink",
+                    "image": "birthday_girl_pink.webp",
+                    "match": [
+                        "mario",
+                        "luigi",
+                        "peach",
+                        "yoshi",
+                        "bowser",
+                        "donkey_kong",
+                        "toad",
+                        "koopa_troopa",
+                        "wario",
+                        "metal_mario",
+                        "shy_guy",
+                        "wiggler",
+                        "lakitu",
+                        "mii"
+                    ]
+                }
+            ]
+        },
+        "bolt_buggy": {
+            "slug": "bolt_buggy",
+            "names": {
+                "fr_fr": "Buggy Banane",
+                "fr_ca": "Buggy Banane",
+                "en_gb": "Bolt Buggy",
+                "en_us": "Bolt Buggy",
+                "es_es": "Kartplátano",
+                "es_la": "Kartplátano",
+                "pt_pt": "Velozmóvel",
+                "pt_br": "Bolt Buggy",
+                "it": "Bananauto",
+                "de": "Bananabuggy",
+                "nl": "Bananenbuggy",
+                "ru": "Быстрый багги",
+                "ja": "バナナバギー",
+                "ko": "바나나버기",
+                "zh_hans": "香蕉越野车",
+                "zh_hant": "香蕉越野車"
+            },
+            "stats": {
+                "land_speed": 7,
+                "water_speed": 2,
+                "air_speed": 1,
+                "acceleration": 1,
+                "weight": 3,
+                "land_handling": 3,
+                "water_handling": 2,
+                "air_handling": 1,
+                "off_road": 3,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "bolt_buggy.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "bolt_buggy.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "bruiser": {
+            "slug": "bruiser",
+            "names": {
+                "fr_fr": "Automovile",
+                "fr_ca": "Automovile",
+                "en_gb": "Growlster",
+                "en_us": "Bruiser",
+                "es_es": "Canallículo",
+                "es_la": "Canallículo",
+                "pt_pt": "Diabólide",
+                "pt_br": "Bruiser",
+                "it": "Diabolide",
+                "de": "Fieser Flitzer",
+                "nl": "Diabolide",
+                "ru": "Зверомобиль",
+                "ja": "ワルビデール",
+                "ko": "갱스터",
+                "zh_hans": "恶魔帝王",
+                "zh_hant": "惡魔大王"
+            },
+            "stats": {
+                "land_speed": 8,
+                "water_speed": 2,
+                "air_speed": 1,
+                "acceleration": 2,
+                "weight": 3,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bruiser.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "bruiser.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "soda_jet": {
+            "slug": "soda_jet",
+            "names": {
+                "fr_fr": "Jet 7",
+                "fr_ca": "Jet 7",
+                "en_gb": "Soda Jet",
+                "en_us": "Soda Jet",
+                "es_es": "Jet Soda",
+                "es_la": "Jet Soda",
+                "pt_pt": "Sodajato",
+                "pt_br": "Soda Jet",
+                "it": "Aerobombo",
+                "de": "Soda-Jet",
+                "nl": "Brokkenpiloot",
+                "ru": "Самолет",
+                "ja": "ジェットサイダー",
+                "ko": "제트사이더",
+                "zh_hans": "喷射苏打",
+                "zh_hant": "噴射蘇打"
+            },
+            "stats": {
+                "land_speed": 7,
+                "water_speed": 2,
+                "air_speed": 4,
+                "acceleration": 4,
+                "weight": 1,
+                "land_handling": 1,
+                "water_handling": 3,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 4,
+                "stability": 0
+            },
+            "image": "soda_jet.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "soda_jet.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "barrel_train": {
+            "slug": "barrel_train",
+            "names": {
+                "fr_fr": "Loco Tonneau",
+                "fr_ca": "Loco Tonneau",
+                "en_gb": "Barrel Train",
+                "en_us": "Barrel Train",
+                "es_es": "Locomokong",
+                "es_la": "Locomokong",
+                "pt_pt": "Locomopipa",
+                "pt_br": "Barrel Train",
+                "it": "Barile Ciuf-Ciuf",
+                "de": "Kokoloko",
+                "nl": "Locomobiel",
+                "ru": "Паровозик",
+                "ja": "タルポッポ",
+                "ko": "나무통기차",
+                "zh_hans": "木桶嘟嘟",
+                "zh_hant": "木桶嘟嘟"
+            },
+            "stats": {
+                "land_speed": 7,
+                "water_speed": 1,
+                "air_speed": 1,
+                "acceleration": 3,
+                "weight": 3,
+                "land_handling": 1,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 8,
+                "stability": 0
+            },
+            "image": "barrel_train.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "barrel_train.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "tiny_tug": {
+            "slug": "tiny_tug",
+            "names": {
+                "fr_fr": "Remorqueur",
+                "fr_ca": "Remorqueur",
+                "en_gb": "Tiny Tug",
+                "en_us": "Tiny Tug",
+                "es_es": "Barquiauto",
+                "es_la": "Barquiauto",
+                "pt_pt": "Barcomóvel",
+                "pt_br": "Tiny Tug",
+                "it": "Kartoscafo",
+                "de": "Turbokutter",
+                "nl": "Scheurschip",
+                "ru": "Буксир",
+                "ja": "レトロまる",
+                "ko": "레트로호",
+                "zh_hans": "老爷船",
+                "zh_hant": "老爺船"
+            },
+            "stats": {
+                "land_speed": 4,
+                "water_speed": 10,
+                "air_speed": 1,
+                "acceleration": 3,
+                "weight": 3,
+                "land_handling": 3,
+                "water_handling": 3,
+                "air_handling": 1,
+                "off_road": 3,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "tiny_tug.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "tiny_tug.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "cact_x": {
+            "slug": "cact_x",
+            "names": {
+                "fr_fr": "Karctus",
+                "fr_ca": "Karctus",
+                "en_gb": "Cact-X",
+                "en_us": "Cact-X",
+                "es_es": "Kartus",
+                "es_la": "Cactomóvil",
+                "pt_pt": "Cato-X",
+                "pt_br": "Cact-X",
+                "it": "Kaktus Kart",
+                "de": "Kaktuskarre",
+                "nl": "Au-au-auto",
+                "ru": "Кактусомобиль",
+                "ja": "サンドランナー",
+                "ko": "샌드러너",
+                "zh_hans": "沙漠跑车",
+                "zh_hant": "沙漠跑車"
+            },
+            "stats": {
+                "land_speed": 5,
+                "water_speed": 6,
+                "air_speed": 1,
+                "acceleration": 2,
+                "weight": 2,
+                "land_handling": 4,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 3,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "cact_x.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "cact_x.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "koopa_clown": {
+            "slug": "koopa_clown",
+            "names": {
+                "fr_fr": "Koopa-Mobile",
+                "fr_ca": "Clown Koopa",
+                "en_gb": "Koopa Clown",
+                "en_us": "Koopa Clown",
+                "es_es": "Helikoopa",
+                "es_la": "Koopayaso",
+                "pt_pt": "Palhaço Koopa",
+                "pt_br": "Koopa Clown",
+                "it": "Clown Koopa",
+                "de": "Clown-Kutsche",
+                "nl": "Koopa-clown",
+                "ru": "Клоуномобиль",
+                "ja": "クッパクラウン",
+                "ko": "쿠파피에로",
+                "zh_hans": "酷霸王小丑飞船",
+                "zh_hant": "庫巴小丑飛船"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 2,
+                "weight": 2,
+                "land_handling": 5,
+                "water_handling": 2,
+                "air_handling": 2,
+                "off_road": 1,
+                "mini_turbo": 8,
+                "stability": 0
+            },
+            "image": "koopa_clown.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "koopa_clown.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "zucchini": {
+            "slug": "zucchini",
+            "names": {
+                "fr_fr": "Cornichon",
+                "fr_ca": "Courgette",
+                "en_gb": "Gherkin",
+                "en_us": "Zucchini",
+                "es_es": "Pepino-móvil",
+                "es_la": "Pepinomóvil",
+                "pt_pt": "Pepinomóvel",
+                "pt_br": "Zucchini",
+                "it": "Cetriolampo",
+                "de": "Renngurke",
+                "nl": "Komkommer GTi",
+                "ru": "Корнишон",
+                "ja": "ダンガンダック",
+                "ko": "날쌘돌이",
+                "zh_hans": "子弹鸭",
+                "zh_hant": "子彈鴨"
+            },
+            "stats": {
+                "land_speed": 8,
+                "water_speed": 2,
+                "air_speed": 1,
+                "acceleration": 2,
+                "weight": 2,
+                "land_handling": 2,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "zucchini.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "zucchini.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "blue_seven": {
+            "slug": "blue_seven",
+            "names": {
+                "fr_fr": "Bombe bleue",
+                "fr_ca": "Bombe bleue",
+                "en_gb": "Blue Seven",
+                "en_us": "Blue Seven",
+                "es_es": "Centella Azul",
+                "es_la": "Centella Azul",
+                "pt_pt": "Flecha",
+                "pt_br": "Blue Seven",
+                "it": "Blu Blu 7",
+                "de": "Karacho 7",
+                "nl": "Blauwe Bliksem",
+                "ru": "Гоночный",
+                "ja": "コバルトセブン",
+                "ko": "코발트세븐",
+                "zh_hans": "天蓝7号",
+                "zh_hant": "鈷藍七號"
+            },
+            "stats": {
+                "land_speed": 8,
+                "water_speed": 4,
+                "air_speed": 1,
+                "acceleration": 1,
+                "weight": 3,
+                "land_handling": 2,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "blue_seven.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "blue_seven.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "gold_standard": {
+            "slug": "gold_standard",
+            "names": {
+                "fr_fr": "Or",
+                "fr_ca": "Kart doré",
+                "en_gb": "Gold Kart",
+                "en_us": "Gold Standard",
+                "es_es": "Dorado",
+                "es_la": "Dorado",
+                "pt_pt": "Kart Dourado",
+                "pt_br": "Gold Standard",
+                "it": "Kart d'oro",
+                "de": "Goldkart",
+                "nl": "Gouden Kart",
+                "ru": "Золотой карт",
+                "ja": "ゴールドカート",
+                "ko": "골드카트",
+                "zh_hans": "黄金卡丁车",
+                "zh_hant": "黃金標準車"
+            },
+            "stats": {
+                "land_speed": 7,
+                "water_speed": 4,
+                "air_speed": 1,
+                "acceleration": 2,
+                "weight": 3,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 1,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "gold_standard.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "gold_standard.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "egg_1": {
+            "slug": "egg_1",
+            "names": {
+                "fr_fr": "Œuf 1",
+                "fr_ca": "Œuf 1",
+                "en_gb": "Egg 1",
+                "en_us": "Egg 1",
+                "es_es": "Huevo-móvil",
+                "es_la": "Huevomóvil",
+                "pt_pt": "Ovomóvel",
+                "pt_br": "Egg 1",
+                "it": "Ovomobile 1",
+                "de": "Ei 1",
+                "nl": "Ei 1",
+                "ru": "Яйцемобиль",
+                "ja": "エッグワン",
+                "ko": "Яйцемобиль",
+                "zh_hans": "蛋蛋1号",
+                "zh_hant": "耀西蛋１號"
+            },
+            "stats": {
+                "land_speed": 5,
+                "water_speed": 10,
+                "air_speed": 4,
+                "acceleration": 5,
+                "weight": 1,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 4,
+                "stability": 0
+            },
+            "image": "egg_1.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "egg_1.webp",
+                    "match": "all"
+                }
+            ]
+        }
+    }
+}

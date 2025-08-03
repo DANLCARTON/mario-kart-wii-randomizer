@@ -1,0 +1,408 @@
+{
+    "gliders": {
+        "super_glider": {
+            "slug": "super_glider",
+            "names": {
+                "fr_fr": "Standard",
+                "fr_ca": "Cerf-Volant",
+                "en_gb": "Super Glider",
+                "en_us": "Super Glider",
+                "es_es": "Superala",
+                "es_la": "Superala",
+                "pt_pt": "Superparapente",
+                "pt_br": "Super Glider",
+                "it": "Superplano",
+                "de": "Standard",
+                "nl": "Standaard",
+                "ru": "Суперпланёр",
+                "ja": "スーパーカイト",
+                "ko": "슈퍼글라이더",
+                "zh_hans": "超级滑翔翼",
+                "zh_hant": "超級滑翔翼"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 12,
+                "acceleration": 0,
+                "weight": 1,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 0,
+                "off_road": 0,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "super_glider.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "super_glider_mario_red.webp",
+                    "match": ["mario"]
+                },
+                {
+                    "slug": "luigi_green",
+                    "image": "super_glider_luigi_green.webp",
+                    "match": ["luigi"]
+                },
+                {
+                    "slug": "peach_medium_pink",
+                    "image": "super_glider_peach_medium_pink.webp",
+                    "match": ["peach"]
+                },
+                {
+                    "slug": "yoshi_turquoise_blue",
+                    "image": "super_glider_yoshi_turquoise_blue.webp",
+                    "match": ["yoshi"]
+                },
+                {
+                    "slug": "bowser_yellow_orange",
+                    "image": "super_glider_bowser_yellow_orange.webp",
+                    "match": ["bowser"]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "super_glider_donkey_kong_brown.webp",
+                    "match": ["donkey_kong"]
+                },
+                {
+                    "slug": "toad_blue",
+                    "image": "super_glider_toad_blue.webp",
+                    "match": ["toad"]
+                },
+                {
+                    "slug": "koopa_troopa_lime_green",
+                    "image": "super_glider_koopa_troopa_lime_green.webp",
+                    "match": ["koopa_troopa"]
+                },
+                {
+                    "slug": "daisy_medium_orange",
+                    "image": "super_glider_daisy_medium_orange.webp",
+                    "match": ["daisy"]
+                },
+                {
+                    "slug": "wario_purple",
+                    "image": "super_glider_wario_purple.webp",
+                    "match": ["wario"]
+                },
+                {
+                    "slug": "rosalina_aqua_green",
+                    "image": "super_glider_rosalina_aqua_green.webp",
+                    "match": ["rosalina"]
+                },
+                {
+                    "slug": "metal_mario_silver",
+                    "image": "super_glider_metal_mario_silver.webp",
+                    "match": ["metal_mario"]
+                },
+                {
+                    "slug": "shy_guy_white",
+                    "image": "super_glider_shy_guy_white.webp",
+                    "match": ["shy_guy"]
+                },
+                {
+                    "slug": "honey_queen_bright_lavender",
+                    "image": "super_glider_honey_queen_bright_lavender.webp",
+                    "match": ["honey_queen"]
+                },
+                {
+                    "slug": "wiggler_sienna",
+                    "image": "super_glider_wiggler_sienna.webp",
+                    "match": ["wiggler"]
+                },
+                {
+                    "slug": "lakitu_sky_blue",
+                    "image": "super_glider_lakitu_sky_blue.webp",
+                    "match": ["lakitu"]
+                },
+                {
+                    "slug": "mii_white",
+                    "image": "super_glider_mii_white.webp",
+                    "match": ["lakitu"]
+                }
+            ]
+        },
+        "peach_parasol": {
+            "slug": "peach_parasol",
+            "names": {
+                "fr_fr": "Ombrelle Peach",
+                "fr_ca": "Ombrelle Peach",
+                "en_gb": "Peach Parasol",
+                "en_us": "Peach Parasol",
+                "es_es": "Parasol Peach",
+                "es_la": "Parasol Peach",
+                "pt_pt": "Guarda-sol Peach",
+                "pt_br": "Peach Parasol",
+                "it": "Parasole Peach",
+                "de": "Sonnenschirm",
+                "nl": "Parasol van Peach",
+                "ru": "Зонтик Пич",
+                "ja": "ピーチパラソル",
+                "ko": "피치파라솔",
+                "zh_hans": "桃花阳伞",
+                "zh_hant": "碧姬陽傘"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 0,
+                "acceleration": 1,
+                "weight": 0,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 8,
+                "off_road": 0,
+                "mini_turbo": 1,
+                "stability": 0
+            },
+            "image": "peach_parasol.webp",
+            "skins": [
+                {
+                    "slug": "orange",
+                    "image": "peach_parasol_orange.webp",
+                    "match": ["daisy"]
+                },
+                {
+                    "slug": "deep_sky_blue",
+                    "image": "peach_parasol_deep_sky_blue.webp",
+                    "match": ["rosalina"]
+                },
+                {
+                    "slug": "dark_magenta",
+                    "image": "peach_parasol_dark_magenta.webp",
+                    "match": ["honey_queen"]
+                },
+                {
+                    "slug": "pink",
+                    "image": "peach_parasol_pink.webp",
+                    "match": [
+                        "mario",
+                        "luigi",
+                        "peach",
+                        "yoshi",
+                        "bowser",
+                        "donkey_kong",
+                        "toad",
+                        "koopa_troopa",
+                        "wario",
+                        "metal_mario",
+                        "shy_guy",
+                        "wiggler",
+                        "lakitu",
+                        "mii"
+                    ]
+                }
+            ]
+        },
+        "flower_glider": {
+            "slug": "flower_glider",
+            "names": {
+                "fr_fr": "Aile fleurie",
+                "fr_ca": "Aile fleurie",
+                "en_gb": "Flower Glider",
+                "en_us": "Flower Glider",
+                "es_es": "Ala Flor",
+                "es_la": "Ala Flor",
+                "pt_pt": "Paraflor",
+                "pt_br": "Flower Glider",
+                "it": "Fiordiplano",
+                "de": "Blumengleiter",
+                "nl": "Bloem",
+                "ru": "Планер-цветок",
+                "ja": "フラワーカイト",
+                "ko": "플라워글라이더",
+                "zh_hans": "花朵滑翔翼",
+                "zh_hant": "花朵滑翔翼"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 0,
+                "acceleration": 1,
+                "weight": 0,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 8,
+                "off_road": 0,
+                "mini_turbo": 1,
+                "stability": 0
+            },
+            "image": "flower_glider.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "flower_glider.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "swooper": {
+            "slug": "swooper",
+            "names": {
+                "fr_fr": "Swooper",
+                "fr_ca": "Swoopa",
+                "en_gb": "Swoop",
+                "en_us": "Swooper",
+                "es_es": "Swooper",
+                "es_la": "Vampílago",
+                "pt_pt": "Asapente",
+                "pt_br": "Swooper",
+                "it": "Swooper",
+                "de": "Flappflapp",
+                "nl": "Swooper",
+                "ru": "Пикировщик",
+                "ja": "バサバサカイト",
+                "ko": "스우푸글라이더",
+                "zh_hans": "啪萨啪萨滑翔翼",
+                "zh_hant": "啪沙啪沙蝙蝠翼"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 6,
+                "acceleration": 1,
+                "weight": 0,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 4,
+                "off_road": 0,
+                "mini_turbo": 1,
+                "stability": 0
+            },
+            "image": "swooper.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "swooper.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "paraglider": {
+            "slug": "paraglider",
+            "names": {
+                "fr_fr": "Parapente",
+                "fr_ca": "Parapente",
+                "en_gb": "Parafoil",
+                "en_us": "Paraglider",
+                "es_es": "Parapente",
+                "es_la": "Parapente",
+                "pt_pt": "Paraquedas",
+                "pt_br": "Paraglider",
+                "it": "Parapendio",
+                "de": "Gleitschirm",
+                "nl": "Parachute",
+                "ru": "Параплан",
+                "ja": "パラフォイル",
+                "ko": "패러글라이더",
+                "zh_hans": "滑翔伞",
+                "zh_hant": "飛行傘"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 6,
+                "acceleration": 1,
+                "weight": 0,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 4,
+                "off_road": 0,
+                "mini_turbo": 1,
+                "stability": 0
+            },
+            "image": "paraglider.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "paraglider.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "gold_glider": {
+            "slug": "gold_glider",
+            "names": {
+                "fr_fr": "Or",
+                "fr_ca": "Cerf-volant doré",
+                "en_gb": "Gold Glider",
+                "en_us": "Gold Glider",
+                "es_es": "Dorada",
+                "es_la": "Ala dorada",
+                "pt_pt": "Planadouro",
+                "pt_br": "Gold Glider",
+                "it": "Ala d'oro",
+                "de": "Goldgleiter",
+                "nl": "Gouden vleugel",
+                "ru": "Золотой планёр",
+                "ja": "ゴールドカイト",
+                "ko": "골드글라이더",
+                "zh_hans": "黄金滑翔翼",
+                "zh_hant": "黃金滑翔翼"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 12,
+                "acceleration": 0,
+                "weight": 1,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 0,
+                "off_road": 0,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "gold_glider.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "gold_glider.webp",
+                    "match": "all"
+                }
+            ]
+        },
+        "beast_glider": {
+            "slug": "beast_glider",
+            "names": {
+                "fr_fr": "Aile bestiale",
+                "fr_ca": "Aile bestiale",
+                "en_gb": "Ghastly Glider",
+                "en_us": "Beast Glider",
+                "es_es": "Besti Ala",
+                "es_la": "Besti Ala",
+                "pt_pt": "Planamonsto",
+                "pt_br": "Beast Glider",
+                "it": "Belvaplano",
+                "de": "Dornengleiter",
+                "nl": "Drakenvleugel",
+                "ru": "Звероплан",
+                "ja": "ビーストカイト",
+                "ko": "비스트글라이더",
+                "zh_hans": "野兽滑翔翼",
+                "zh_hant": "野獸滑翔翼"
+            },
+            "stats": {
+                "land_speed": 0,
+                "water_speed": 0,
+                "air_speed": 12,
+                "acceleration": 0,
+                "weight": 1,
+                "land_handling": 0,
+                "water_handling": 0,
+                "air_handling": 0,
+                "off_road": 0,
+                "mini_turbo": 0,
+                "stability": 0
+            },
+            "image": "beast_glider.webp",
+            "skins": [
+                {
+                    "slug": "default",
+                    "image": "beast_glider.webp",
+                    "match": "all"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+.shares {
+    margin: 0 0 15px 0;
+}
+
+.shares ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.shares ul li {
+    padding: 2px 5px;
+    border-radius: 5px;
+    transition: ease-in-out .1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px
+}
+
+.shares ul li:hover {
+    transform: scale(103%);
+}
+
+.copy {
+    background-color: white;
+    color: #252525;
+    cursor: pointer;
+}
+
+.copied {
+    background-color: #ffd700d9
+}
+
+.whatsapp {
+    background-color: #36d46d;
+}
+
+.facebook {
+    background-color: #415ca0;
+}
+
+.x {
+    background-color: #080808;
+}
+
+.reddit {
+    background-color: #ff4b13;
+}
+
+.mastodon {
+    background-color: #5b4ce2;
+}
+
+.bluesky {
+    background-color: #2089fe;
+}
+
+.telegram {
+    background-color: #32acec;
+}
+
+.line {
+    background-color: #1ec95b;
+}
+
+.shares .whatsapp a,
+.shares .facebook a,
+.shares .x a,
+.shares .reddit a,
+.shares .mastodon a,
+.shares .bluesky a,
+.shares .telegram a,
+.shares .line a {
+    color: white;
+}
+
+.shares a:hover {
+    text-decoration: none;
+}
+
+.shares img {
+    height: 16px;
+    filter: invert(1);
+}
+
+.shares img.black {
+    height: 16px;
+    filter: invert(0);
+}

@@ -1,0 +1,136 @@
+{
+    "arenas": {
+        "battle_course_1": {
+            "names": {
+                "fr_fr": "Arène Bataille 1",
+                "fr_ca": "Arène bataille 1",
+                "en_gb": "Battle Course 1",
+                "en_us": "Battle Course 1",
+                "es_es": "Circuito de Batalla",
+                "es_la": "Pista de Batalla 1",
+                "pt_pt": "Batalha 1",
+                "pt_br": "Battle Course 1",
+                "it": "Percorso di guerra 1",
+                "de": "Kampfkurs 1",
+                "nl": "Gevechtsarena 1",
+                "ru": "Боевая трасса 1",
+                "ja": "バトルコース1",
+                "ko": "배틀 코스 1",
+                "zh_hans": "对战赛道1",
+                "zh_hant": "對戰賽道1"
+            },
+            "origin": "GBA",
+            "image" : null
+        },
+        "big_donut": {
+            "names": {
+                "fr_fr": "Gros Donut",
+                "fr_ca": "Gros beigne",
+                "en_gb": "Big Donut",
+                "en_us": "Big Donut",
+                "es_es": "Gran Donut",
+                "es_la": "Rosca Enorme",
+                "pt_pt": "Grande Donut",
+                "pt_br": "Big Donut",
+                "it": "Ciambellona",
+                "de": "Riesendonut",
+                "nl": "Reuzenring",
+                "ru": "Большой бублик",
+                "ja": "ビッグドーナツ",
+                "ko": "빅 도넛",
+                "zh_hans": "大甜甜圈",
+                "zh_hant": "大面包圈"
+            },
+            "origin": "N64",
+            "image" : null
+        },
+        "palm_shore": {
+            "names": {
+                "fr_fr": "Feuille de Palmier",
+                "fr_ca": "Feuille de palmier",
+                "en_gb": "Palm Shore",
+                "en_us": "Palm Shore",
+                "es_es": "Costa Palma",
+                "es_la": "Costa Palma",
+                "pt_pt": "Pista Palmeiras",
+                "pt_br": "Palm Shore",
+                "it": "Riva delle palme",
+                "de": "Palmenblatt",
+                "nl": "Palmstrand",
+                "ru": "Пальмовый берег",
+                "ja": "サザンリーフ",
+                "ko": "야자 모래섬",
+                "zh_hans": "南岛沙洲",
+                "zh_hant": "南島沙洲"
+            },
+            "origin": "DS",
+            "image" : null
+        },
+        "honeybee_hive": {
+            "names": {
+                "fr_fr": "Ruche Grabuge",
+                "fr_ca": "Mielodrome",
+                "en_gb": "Honeybee House",
+                "en_us": "Honeybee Hive",
+                "es_es": "Melódromo",
+                "es_la": "Melódromo",
+                "pt_pt": "Casa da Abelha-Rainha",
+                "pt_br": "Honeybee Hive",
+                "it": "Mielodromo",
+                "de": "Honighallen",
+                "nl": "Honinghuis",
+                "ru": "Медодром",
+                "ja": "ハニービーハウス",
+                "ko": "허니비 하우스",
+                "zh_hans": "蜜蜂屋",
+                "zh_hant": "蜜蜂屋"
+            },
+            "origin": null,
+            "image" : null
+        },
+        "sherbet_rink": {
+            "names": {
+                "fr_fr": "Patinoire Sorbet",
+                "fr_ca": "Patinoire Sorbet",
+                "en_gb": "Sherbet Rink",
+                "en_us": "Sherbet Rink",
+                "es_es": "Pista Sorbete",
+                "es_la": "Pista Sorbete",
+                "pt_pt": "Rinque de Gelo",
+                "pt_br": "Sherbet Rink",
+                "it": "Pista Gelata",
+                "de": "Naschparadies",
+                "nl": "Peach' IJspaleis",
+                "ru": "Ледяной каток",
+                "ja": "シャーベットリンク",
+                "ko": "샤베트 링크",
+                "zh_hans": "雪芭溜冰场",
+                "zh_hant": "雪酪溜冰場"
+            },
+            "origin": null,
+            "image" : null
+        },
+        "wuhu_town": {
+            "names": {
+                "fr_fr": "Wuhuville",
+                "fr_ca": "Wuhuville",
+                "en_gb": "Wuhu Town",
+                "en_us": "Wuhu Town",
+                "es_es": "Pueblo Wuhu",
+                "es_la": "Pueblo Wuhu",
+                "pt_pt": "Cidade Wuhu",
+                "pt_br": "Wuhu Town",
+                "it": "Borgo Wuhu",
+                "de": "Wuhu-Stadt",
+                "nl": "Wuhu-stad",
+                "ru": "Город Вуху",
+                "ja": "ウーフータウン",
+                "ko": "우후 타운",
+                "zh_hans": "乌富城",
+                "zh_hant": "烏富城"
+            },
+            "origin": null,
+            "image" : null
+        }
+    }
+}

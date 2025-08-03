@@ -1,0 +1,217 @@
+@use "../common/variables.scss" as *;
+
+h1, h2, h3 {
+    color: white;
+}
+
+h1 {
+    font-weight: 900;
+    text-align: center;
+    margin: 50px 0;
+    font-size: xxx-large;
+}
+
+p.part-desc {
+  color: white;
+  margin-bottom: 25px;
+  font-size: var(--variable-font-size);
+}
+
+p.part-desc-param {
+  color: white;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  font-style: italic;
+  font-size: var(--variable-font-size);
+}
+
+@media screen and (max-width: $mobile) {
+    h1 {
+        font-size: xx-large;
+    }
+}
+
+h2 {
+    text-align: center;
+    margin: 0 0 25px 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.main-button {
+    background-color: white;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px 25px;
+    box-shadow: 0 0 10px 0 #25252550;
+    transition: ease-in-out .1s;
+    margin: 0 auto 15px auto;
+    display: block;
+}
+
+.main-button:hover {
+    transform: scale(103%);
+}
+
+#random-character-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 0 25px 0;
+    flex-wrap: wrap;
+}
+
+/* TEST IOS26 */
+
+// .glass {
+//   position: relative;
+//   background: rgba(255, 255, 255, 0.15);
+//   backdrop-filter: blur(2px) saturate(180%);
+//   border: 1px solid rgba(255, 255, 255, 0.8);
+//   border-radius: 2rem;
+//   box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2), 
+//               inset 0 4px 20px rgba(255, 255, 255, 0.3);
+// }
+
+// .glass::after {
+//   content: '';
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   width: 100%;
+//   height: 100%;
+//   background: rgba(255, 255, 255, 0.1);
+//   border-radius: 2rem;
+//   backdrop-filter: blur(1px);
+//   box-shadow: inset -10px -8px 0px -11px rgba(255, 255, 255, 1),
+//               inset 0px -9px 0px -8px rgba(255, 255, 255, 1);
+//   opacity: 0.6;
+//   z-index: -1;
+//   filter: blur(1px) drop-shadow(10px 4px 6px black) brightness(115%);
+// }
+
+.glass {
+  position: relative;
+  background: linear-gradient(to bottom, #dfe3e650, #b7bdc350);
+  border: 2px solid #999;
+  border-radius: 1rem;
+  box-shadow:
+    inset 0 2px 4px rgba(255, 255, 255, 0.2),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.2),
+    0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.glass::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  right: 2px;
+  height: 40%;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 0.8rem;
+  pointer-events: none;
+}
+
+@media screen and (max-width: $mobile) {
+  .glass {
+    box-shadow: none;
+  }
+  .glass::after {
+    content: none;
+    backdrop-filter: none;
+    filter: none;
+    box-shadow: none;
+    background: none;
+  }
+}
+
+.glass.white{
+  background: #ffffff52;
+}
+
+.glass.white::after {
+  background: #ffffff36;
+}
+
+.glass.red{
+  background: #ff000026;
+}
+
+.glass.red::after {
+  background: #ff00001a;
+}
+
+.glass.gold{
+  background: #ffd70026
+}
+
+.glass.gold::after {
+  background: #ffd7001a
+}
+
+#course-slider,
+#players-slider {
+  margin: 5px 0 0 0;
+  width: 100%;
+  accent-color: #ffd700;
+}
+
+// #random-character-container .random-character:nth-of-type(1) {
+//   background-color: #ffff0020
+// }
+
+// #random-character-container .random-character:nth-of-type(2) {
+//   background-color: #0000ff20
+// }
+
+// #random-character-container .random-character:nth-of-type(3) {
+//   background-color: #ff000020
+// }
+
+// #random-character-container .random-character:nth-of-type(4) {
+//   background-color: #00ff0020
+// }
+
+#quick-access-container {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  padding: 10px 25px;
+  background-color: #0000007f;
+  color: white;
+  transition: ease-in-out .1s;
+  z-index: 1000;
+}
+
+@media screen and (max-width: $laptop) {
+  #quick-access-container {
+    padding: 15px;
+    right: 5vw;
+  }
+}
+
+#quick-access-container:hover {
+  transform: scale(103%);
+}
+
+.mode-selection {
+  display: flex;
+  margin: 0 0 15px 0;
+  overflow: hidden;
+  justify-content: center;
+}
+
+.mode-selection .mode {
+  color: white;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+.mode-selection .mode.current-mode {
+  border-bottom: solid 3px #ffd700;
+}

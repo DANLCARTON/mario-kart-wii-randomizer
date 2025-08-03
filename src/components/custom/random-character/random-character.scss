@@ -1,0 +1,106 @@
+@use "../../../common/_variables.scss" as *;
+
+.random-character {
+    /* background-color: white; */
+    width: 195px;
+    padding: 10px;
+    /* border-radius: 5px; */
+    box-shadow: 0 0 10px 0 #25252550;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.random-character img    {
+    width: 150px
+}
+
+.random-character .secondary img    {
+    width: 100px
+}
+
+.random-character h3 {
+    margin: 0 0 10px 0;
+    text-align: center;
+}
+
+.random-character .character-container {
+    transition: ease-in-out .1s;
+    cursor: pointer;
+}
+
+.random-character .character-container:hover {
+    transform: scale(102%);
+}
+
+.random-character .vehicle-container {
+    transition: ease-in-out .1s;
+    cursor: pointer;
+}
+
+.random-character .vehicle-container:hover {
+    transform: scale(102%);
+}
+
+.random-character .character {
+    font-weight: bold;
+    text-align: center;
+    color: white
+}
+
+.random-character .skin {
+    font-style: italic;
+    text-align: center;
+    margin: 0 0 10px 0;
+    color: white
+}
+
+.player-name {
+    margin: 0 0 10px 0;
+    text-align: center;
+    color: white;
+    /* background: #ffffff20; */
+    /* border: none; */
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.random-character-elements {
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+}
+
+@media screen and (max-width: $mobile) {
+    .random-character {
+        width: 100%;
+    }
+    .random-character-elements {
+        flex-direction: column;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .random-character-elements .character-container,
+    .random-character-elements .vehicle-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    .random-character-elements .character-container img {
+        height: 40px;
+        width: auto;
+    }
+    .random-character-elements .vehicle-container img {
+        height: 40px;
+        width: auto;
+    }
+    .random-character-elements .vehicle-container.secondary img {
+        height: 40px;
+        width: auto;
+    }
+    .random-character p.skin {
+        margin: 0
+    }
+}

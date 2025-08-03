@@ -1,0 +1,35 @@
+@use "../../../common/variables" as *;
+
+#quick-access {
+    cursor: pointer;
+}
+
+#quick-access .hidden {
+    display: none;
+}
+
+#quick-access .quick-access-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+#quick-access img {
+    height: 16px;
+    filter: invert(1);
+}
+
+@media screen and (max-width: $laptop) {
+    #quick-access .menu span {
+        display: none;
+    }
+    #quick-access img {
+        height: 32px;
+    }
+}
+
+#quick-access .list a {
+    color: white;
+    text-decoration: none;
+}

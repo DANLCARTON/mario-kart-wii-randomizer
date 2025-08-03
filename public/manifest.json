@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Mario Kart 7 Randomizer",
+  "short_name": "MK7 Randomizer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#5f5f5f",
+  "description": "Randomizer for Mario Kart 7. Randomly select characters, a kart and a track. A complete, customizable tool."
+}

@@ -1,0 +1,25 @@
+{
+    "skins": {
+        "default": {
+            "slug": "default",
+            "names": {
+                "fr_fr": "",
+                "fr_ca": "",
+                "en_gb": "",
+                "en_us": "",
+                "es_es": "",
+                "es_la": "",
+                "pt_pt": "",
+                "pt_br": "",
+                "it": "",
+                "de": "",
+                "nl": "",
+                "ru": "",
+                "ja": "",
+                "ko": "",
+                "zh_hans": "",
+                "zh_hant": ""
+            }
+        }
+    }
+}

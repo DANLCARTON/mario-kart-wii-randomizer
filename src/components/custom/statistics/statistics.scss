@@ -1,0 +1,23 @@
+@use "../../../common/variables" as *;
+
+#stats {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    color: white;
+    width: 215px
+}
+
+@media screen and (max-width: $mobile) {
+    #stats {
+        width: 100%
+    }
+}
+
+.stat-gauge {
+    display: block;
+    background-color: gold;
+    padding: 2px 5px;
+    color: black;
+    border-radius: 5px;
+}

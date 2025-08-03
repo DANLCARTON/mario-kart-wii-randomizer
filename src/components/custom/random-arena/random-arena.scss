@@ -1,0 +1,35 @@
+@use "../../../common/variables" as *;
+
+#random-arena-container .cups {
+    gap: 10px;
+    margin-bottom: 25px ;
+}
+
+#random-arena-container .arena-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: var(--variable-font-size);
+    padding-bottom: 5px;
+}
+
+@media screen and (max-width: $laptop) {
+    #random-arena-container .arena-container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: $tablet) {
+    #random-arena-container .arena-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: $mobile) {
+    #random-arena-container .arena-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+#random-arena-container .arena-container p {
+    margin: 2.5px 5px;
+}

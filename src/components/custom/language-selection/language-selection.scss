@@ -1,0 +1,63 @@
+@use "../../../common/_variables.scss" as *;
+
+.languages-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+
+footer .languages-container {
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    margin-bottom: 0;
+}
+
+footer .lang-button {
+    font-size: 16px;
+    padding: 2px 5px;
+    text-align: left;
+}
+
+
+@media screen and (max-width: $tablet) {
+    footer .languages-container,
+    .languages-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: $mobile) {
+    footer .languages-container,
+    .languages-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.lang-button {
+    background-color: #ffffffd9;
+    color: #252525;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 5px;
+    box-shadow: 0 0 10px 0 #25252550;
+    transition: ease-in-out .1s;
+    display: block;
+}
+
+.lang-button.glass {
+    font-size: 16px;
+    color: white
+}
+
+.lang-button:hover {
+    transform: scale(103%);
+}
+
+.language-title {
+    font-size: 20px;
+}
+
+.current-lang {
+    background-color: #ffd700d9;
+}

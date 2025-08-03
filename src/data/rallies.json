@@ -1,0 +1,236 @@
+{
+    "rallies": {
+        "golden_rally": {
+            "names": {
+                "fr_fr": "Rallye Turbo",
+                "fr_ca": "Rallye Turbo",
+                "en_gb": "Golden Rally",
+                "en_us": "Golden Rally",
+                "es_es": "Rally Turbo",
+                "es_la": "Rally Turbo",
+                "pt_pt": "Rali Turbo",
+                "pt_br": "Rali Turbo",
+                "it": "Rally Turbo",
+                "de": "Gold-Rallye",
+                "nl": "Gouden rally",
+                "ru": "Ралли «Золотое»",
+                "ja": "パワフルラリー",
+                "ko": "황금대시 랠리",
+                "zh_hans": "强力拉力赛",
+                "zh_hant": "強力拉力賽"
+            },
+            "courses": [
+                "desert_hills",
+                "mario_bros_circuit",
+                "choco_mountain",
+                "moo_moo_meadows",
+                "mario_circuit",
+                "acorn_heights"
+            ],
+            "image": null
+        },
+        "ice_rally": {
+            "names": {
+                "fr_fr": "Rallye Glace",
+                "fr_ca": "Rallye Glace",
+                "en_gb": "Ice Rally",
+                "en_us": "Ice Rally",
+                "es_es": "Rally Hielo",
+                "es_la": "Rally Hielo",
+                "pt_pt": "Rali Gelo",
+                "pt_br": "Rali Gelo",
+                "it": "Rally Ghiaccio",
+                "de": "Eis-Rallye",
+                "nl": "IJsrally",
+                "ru": "Ралли «Ледяное»",
+                "ja": "アイスラリー",
+                "ko": "아이스 랠리",
+                "zh_hans": "冰品拉力赛",
+                "zh_hant": "冰品拉力賽"
+            },
+            "courses": [
+                "sky_high_sundae",
+                "starview_peak",
+                "dandelion_depths",
+                "cheep_cheep_falls",
+                "peach_stadium",
+                "crown_city"
+            ],
+            "image": null
+        },
+        "moon_rally": {
+            "names": {
+                "fr_fr": "Rallye Lune",
+                "fr_ca": "Rallye Lune",
+                "en_gb": "Moon Rally",
+                "en_us": "Moon Rally",
+                "es_es": "Rally Luna",
+                "es_la": "Rally Luna",
+                "pt_pt": "Rali Lua",
+                "pt_br": "Rali Lua",
+                "it": "Rally Luna",
+                "de": "Mond-Rallye",
+                "nl": "Maanrally",
+                "ru": "Ралли «Лунное»",
+                "ja": "ムーンラリー",
+                "ko": "운 랠리",
+                "zh_hans": "月亮拉力赛",
+                "zh_hant": "月亮拉力賽"
+            },
+            "courses": [
+                "bowser_s_castle",
+                "toad_s_factory",
+                "moo_moo_meadows",
+                "dandelion_depths",
+                "cheep_cheep_falls",
+                "faraway_oasis"
+            ],
+            "image": null
+        },
+        "spiny_rally": {
+            "names": {
+                "fr_fr": "Rallye Épines",
+                "fr_ca": "Rallye Épines",
+                "en_gb": "Spiny Rally",
+                "en_us": "Spiny Rally",
+                "es_es": "Rally Espinas",
+                "es_la": "Rally Espinas",
+                "pt_pt": "Rali Espinhos",
+                "pt_br": "Rali Espinhos",
+                "it": "Rally Spina",
+                "de": "Stachi-Rallye",
+                "nl": "Spiny-rally",
+                "ru": "Ралли «Колючкин»",
+                "ja": "トゲゾーラリー",
+                "ko": "가시돌이 랠리",
+                "zh_hans": "刺刺龟拉力赛",
+                "zh_hant": "刺刺龜拉力賽"
+            },
+            "courses": [
+                "boo_cinema",
+                "starview_peak",
+                "dk_pass",
+                "salty_salty_speedway",
+                "peach_beach",
+                "wario_s_shipyard"
+            ],
+            "image": null
+        },
+        "cherry_rally": {
+            "names": {
+                "fr_fr": "Rallye Cerises",
+                "fr_ca": "Rallye Cerises",
+                "en_gb": "Cherry Rally",
+                "en_us": "Cherry Rally",
+                "es_es": "Rally Cerezas",
+                "es_la": "Rally Cerezas",
+                "pt_pt": "Rally Cereja",
+                "pt_br": "Rally Cereja",
+                "it": "Rally Ciliegia",
+                "de": "Kirsch-Rallye",
+                "nl": "Kersenrally",
+                "ru": "Ралли «Вишня»",
+                "ja": "チェリーラリー",
+                "ko": "제리 랠리",
+                "zh_hans": "樱桃拉力赛",
+                "zh_hant": "櫻桃拉力賽"
+            },
+            "courses": [
+                "peach_beach",
+                "dino_dino_jungle",
+                "koopa_troopa_beach",
+                "dk_spaceport",
+                "whistlestop_summit",
+                "desert_hills"
+            ],
+            "image": null
+        },
+        "acorn_rally": {
+            "names": {
+                "fr_fr": "Rallye Gland",
+                "fr_ca": "Rallye Gland",
+                "en_gb": "Acorn Rally",
+                "en_us": "Acorn Rally",
+                "es_es": "Rally Bellota",
+                "es_la": "Rally Bellota",
+                "pt_pt": "Rali Bolota",
+                "pt_br": "Rali Bolota",
+                "it": "Rally Ghianda",
+                "de": "Eichel-Rallye",
+                "nl": "Eikenrally",
+                "ru": "Ралли «Желудь»",
+                "ja": "どんがりラリー",
+                "ko": "도토리 랠리",
+                "zh_hans": "橡栗拉力赛",
+                "zh_hant": "橡栗拉力賽"
+            },
+            "courses": [
+                "toad_s_factory",
+                "wario_stadium",
+                "choco_mountain",
+                "peach_stadium",
+                "cheep_cheep_falls",
+                "dk_pass"
+            ],
+            "image": null
+        },
+        "cloud_rally": {
+            "names": {
+                "fr_fr": "Rallye Nuage",
+                "fr_ca": "Rallye Nuage",
+                "en_gb": "Cloud Rally",
+                "en_us": "Cloud Rally",
+                "es_es": "Rally Nube",
+                "es_la": "Rally Nube",
+                "pt_pt": "Rally Nuvem",
+                "pt_br": "Rally Nuvem",
+                "it": "Rally Nuvola",
+                "de": "Wolken-Rallye",
+                "nl": "Wolkenrally",
+                "ru": "Ралли «Облачное»",
+                "ja": "くもラリー",
+                "ko": "구름 랠리",
+                "zh_hans": "云朵拉力赛",
+                "zh_hant": "雲朵拉力賽"
+            },
+            "courses": [
+                "airship_fortress",
+                "shy_guy_bazaar",
+                "mario_bros_circuit",
+                "crown_city",
+                "faraway_oasis",
+                "great_block_ruins"
+            ],
+            "image": null
+        },
+        "heart_rally": {
+            "names": {
+                "fr_fr": "Rallye Cœur",
+                "fr_ca": "Rallye Cœur",
+                "en_gb": "Heart Rally",
+                "en_us": "Heart Rally",
+                "es_es": "Rally Corazón",
+                "es_la": "Rally Corazón",
+                "pt_pt": "Rali Coração",
+                "pt_br": "Rali Coração",
+                "it": "Rally Cuore",
+                "de": "Herz-Rallye",
+                "nl": "Hartenrally",
+                "ru": "Ралли «Сердечко»",
+                "ja": "ハートラリー",
+                "ko": "하트 랠리",
+                "zh_hans": "爱心拉力赛",
+                "zh_hant": "愛心拉力賽"
+            },
+            "courses": [
+                "shy_guy_bazaar",
+                "airship_fortress",
+                "dry_bones_burnout",
+                "mario_circuit",
+                "moo_moo_meadows",
+                "peach_stadium"
+            ],
+            "image": null
+        }
+    }
+}
