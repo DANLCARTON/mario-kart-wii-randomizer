@@ -20,10 +20,10 @@
                 "zh_hant": "蘑菇盃"
             },
             "courses": [
-                "toad_circuit",
-                "daisy_hills",
-                "cheep_cheep_lagoon",
-                "shy_guy_bazaar"
+                "luigi_circuit",
+                "moo_moo_meadows",
+                "mushroom_gorge",
+                "toad_s_factory"
             ],
             "image": null
         },
@@ -47,10 +47,10 @@
                 "zh_hant": "花朵盃"
             },
             "courses": [
-                "wuhu_loop",
                 "mario_circuit",
-                "music_park",
-                "rock_rock_mountain"
+                "coconut_mall",
+                "dk_summit",
+                "wario_s_gold_mine"
             ],
             "image": null
         },
@@ -74,10 +74,10 @@
                 "zh_hant": "星星盃"
             },
             "courses": [
-                "piranha_plant_slide",
-                "wario_s_shipyard",
-                "neo_bowser_city",
-                "maka_wuhu"
+                "daisy_circuit",
+                "koopa_cape",
+                "maple_treeway",
+                "grumble_volcano"
             ],
             "image": null
         },
@@ -101,8 +101,8 @@
                 "zh_hant": "龜殼盃"
             },
             "courses": [
-                "dk_jungle",
-                "rosalina_s_ice_world",
+                "dry_dry_ruins",
+                "moonview_highway",
                 "bowser_s_castle",
                 "rainbow_road"
             ],
@@ -128,10 +128,10 @@
                 "zh_hant": "香蕉盃"
             },
             "courses": [
-                "luigi_raceway",
-                "bowser_castle_1",
-                "mushroom_gorge",
-                "luigi_s_mansion"
+                "peach_beach",
+                "yoshi_falls",
+                "ghost_valley_2",
+                "mario_raceway"
             ],
             "image": null
         },
@@ -155,10 +155,10 @@
                 "zh_hant": "樹葉盃"
             },
             "courses": [
-                "koopa_beach",
-                "mario_circuit_2",
-                "coconut_mall",
-                "waluigi_pinball"
+                "sherbet_land",
+                "shy_guy_beach",
+                "delfino_square",
+                "waluigi_stadium"
             ],
             "image": null
         },
@@ -182,10 +182,10 @@
                 "zh_hant": "閃電盃"
             },
             "courses": [
-                "kalimari_desert",
-                "dk_pass",
-                "daisy_cruiser",
-                "maple_treeway"
+                "desert_hills",
+                "bowser_s_castle_3",
+                "dk_s_jungle_parkway",
+                "gcn_mario_circuit"
             ],
             "image": null
         },
@@ -209,10 +209,10 @@
                 "zh_hant": "特別盃"
             },
             "courses": [
-                "koopa_cape",
-                "dino_dino_jungle",
-                "airship_fortress",
-                "snes_rainbow_road"
+                "mario_circuit_3",
+                "peach_gardens",
+                "dk_mountain",
+                "n64_bowser_s_castle"
             ],
             "image": null
         }
