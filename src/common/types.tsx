@@ -5,16 +5,10 @@ export type Names = {
     en_us : string | null,
     es_es : string | null,
     es_la : string | null,
-    pt_pt : string | null,
-    pt_br : string | null,
     it : string | null,
     de : string | null,
-    nl : string | null,
-    ru : string | null,
     ja : string | null,
     ko : string | null,
-    zh_hans : string | null,
-    zh_hant : string | null
 }
 
 export type Stats = {

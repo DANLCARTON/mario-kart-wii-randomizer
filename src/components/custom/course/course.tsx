@@ -124,6 +124,9 @@ export default component$((props : CourseProps) => {
         return origin
     })
 
+    console.log("props course", props.course)
+    console.log("lang", lang)
+
     return <div class="course-component" key={props.key}>
         <p class={props.courseIndex == props.current.value ? "current" : props.isCourseSelected ? "selected" : "not-selected"} 
            onClick$={$(() => props.isCourseSelected ? (

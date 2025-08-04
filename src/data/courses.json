@@ -6,8 +6,8 @@
                 "fr_ca": "Circuit Luigi",
                 "en_gb": "Luigi Circuit",
                 "en_us": "Luigi Circuit",
-                "es_es": "",
-                "es_la": "",
+                "es_es": "???",
+                "es_la": "???",
                 "it": "Circuito di Luigi",
                 "de": "Luigis Piste",
                 "ja": "ルイージサーキット",
@@ -134,8 +134,8 @@
                 "fr_ca": "Circuit Daisy",
                 "en_gb": "Daisy Circuit",
                 "en_us": "Daisy Circuit",
-                "es_es": "",
-                "es_la": "",
+                "es_es": "???",
+                "es_la": "???",
                 "it": "Circuito di Daisy",
                 "de": "Daisys Piste",
                 "ja": "デイジーサーキット",
@@ -196,8 +196,8 @@
             "names": {
                 "fr_fr": "Ruines Sec Sec",
                 "fr_ca": "Ruines Sec-Sec",
-                "en_gb": "Moonview Highway",
-                "en_us": "Moonview Highway",
+                "en_gb": "Dry Dry Ruins",
+                "en_us": "Dry Dry Ruins",
                 "es_es": "Ruinas Seco-Seco",
                 "es_la": "Ruinas Seco-Seco",
                 "it": "Rovine desertiche",
@@ -232,7 +232,7 @@
                 "en_us": "Bowser's Castle",
                 "es_es": "Castillo de Bowser",
                 "es_la": "Castillo de Bowser",
-                "it": "",
+                "it": "???",
                 "de": "Bowsers Festung",
                 "ja": "クッパキャッスル",
                 "ko": "쿠파 성["
@@ -443,7 +443,7 @@
                 "it": "Circuito di Mario",
                 "de": "Marios Piste",
                 "ja": "マリオサーキット",
-                "ko": ""
+                "ko": "???"
             },
             "routes": [],
             "origin": "GCN"

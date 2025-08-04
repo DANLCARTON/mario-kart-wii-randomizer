@@ -8,8 +8,6 @@ import {Stats, type Names} from "~/common/types"
 import charactersData from "~/data/characters.json"
 import vehiclesData from "~/data/vehicles.json"
 import skinsData from "~/data/skins.json"
-import tiresData from "~/data/tires.json"
-import glidersData from "~/data/gliders.json"
 
 import "./random-character.scss"
 import { langContext, pickedCharactersContext, pickedVehiclesContext, playerNamesContext, pickedGlidersContext, pickedTiresContext } from "~/common/contexts";
@@ -60,9 +58,7 @@ interface RandomCharacterProps {
 export default component$((props : RandomCharacterProps) => {
 
     const currentCharacter = useSignal<Character>(charactersData.characters.mario)
-    const currentVehicle = useSignal<Vehicle>(vehiclesData.vehicles.standard_kart)
-    const currentTire = useSignal<Vehicle>(tiresData.tires.standard)
-    const currentGlider = useSignal<Vehicle>(glidersData.gliders.super_glider)
+    const currentVehicle = useSignal<Vehicle>(vehiclesData.vehicles.standard_kart_s)
     const currentCharacterImage = useSignal<string | null>("placeholder.webp")
     const currentSkin = useSignal<Skin>(skinsData.skins.default)
     const currentVehicleSkin = useSignal<VehicleSkin>({slug: "slug", image: "image", match: "all"})
@@ -178,38 +174,6 @@ export default component$((props : RandomCharacterProps) => {
     })
 
     /**
-     * @description permet de tirer aléatoirement une roue
-     * @example getRandomTire()
-     */
-    const getRandomTire = $(() : void => {
-        const entries = Object.values(tiresData.tires)
-        let index = Math.floor(Math.random() * entries.length)
-        let slug = entries[index].slug
-        if (props.allDifferent) {
-            while (pickedTires.value.includes(slug)) {
-                index = Math.floor(Math.random() * entries.length)
-                slug = entries[index].slug
-            }
-        }
-        pickedTires.value[props.playerNumber] = slug
-        currentTire.value = entries[index]
-    })
-
-    /**
-     * @description permet de tirer aléatoirement une aile
-     * @example getRandomGlider()
-     */
-    const getRandomGlider = $(() : void => {
-        const entries = Object.values(glidersData.gliders)
-        const index = Math.floor(Math.random() * entries.length)
-        const slug = entries[index].slug
-        // pour les gliders on ne prendra pas en compte le paramètre "tous différents" car il n'y a que 7 gliders pour 8 joueurs
-        // ça causerais une boucle infinie
-        pickedGliders.value[props.playerNumber] = slug
-        currentGlider.value = entries[index]
-    })
-
-    /**
      * @description permet d'obtenir le skin du véhicule correspondant au personnage en cours
      * @example getVehicleSkin()
      */
@@ -227,29 +191,6 @@ export default component$((props : RandomCharacterProps) => {
                 if (skin.match.includes(slug)) { // si il y a une correspondance
                     currentVehicleSkin.value = skin
                 }
-            })
-        }
-    })
-
-    /**
-     * @description permet d'obtenir le skin de la roue correspondant au personnage en cours
-     * @example getTireSkin()
-     */
-    const getTireSkin = $(() : void => {
-        currentTireSkin.value = currentTire.value.skins[0] // on affiche juste l'image par défaut étant donné qu'il n'y a pas de skins pour les roues
-    })
-
-    /**
-     * @description permet d'obtenir le skin de l'aile correspondant au personnage en cours
-     * @example getGliderSkin()
-     */
-    const getGliderSkin = $(() : void => {
-        if (currentGlider.value.skins.length == 1) { // si il n'y a qu'un seul skin disponible pour le kart
-            currentGliderSkin.value = currentGlider.value.skins[0] // on affiche juste l'image par défaut.
-        } else { // si il y a plusieurs skins disponibles pour le kart
-            currentGlider.value.skins.map((skin : VehicleSkin) => { // on défile dans les skins dispo pour le kart
-                const slug = currentCharacter.value.slug
-                if (skin.match.includes(slug)) currentGliderSkin.value = skin
             })
         }
     })
@@ -272,24 +213,6 @@ export default component$((props : RandomCharacterProps) => {
     const handleRandomVehicle = $(() : void => {
         getRandomVehicle()
         getVehicleSkin()
-    })
-
-    /**
-     * @description handler clic sur une roue
-     * @example handleRandomTire()
-     */
-    const handleRandomTire = $(() : void => {
-        getRandomTire()
-        getTireSkin()
-    })
-
-    /**
-     * @description handler clic sur une aile
-     * @example handleRandomTire()
-     */
-    const handleRandomGlider = $(() : void => {
-        getRandomGlider()
-        getGliderSkin()
     })
 
     /**
@@ -324,8 +247,6 @@ export default component$((props : RandomCharacterProps) => {
         track(() => props.rerollSignal.value)
         handleRandomCharacter()
         handleRandomVehicle()
-        handleRandomTire()
-        handleRandomGlider()
     })
 
     return <>
@@ -356,24 +277,6 @@ export default component$((props : RandomCharacterProps) => {
                     <p class="character">{getVehicleName(currentVehicle.value, lang)}</p>
                 </div>
 
-                <div onClick$={$(() => handleRandomTire())} class="vehicle-container secondary">
-                    {currentTireSkin.value.image == null ? (
-                        <img src={`${base}vehicles/tba1.webp`} width={150} height={105} alt={getTireName(currentTire.value, lang)} />
-                    ) : (
-                        <img src={`${base}tires/${currentTireSkin.value.image}`} width={100} height={95} alt={getTireName(currentTire.value, lang)} />
-                    )}
-                    <p class="character">{getTireName(currentTire.value, lang)}</p>
-                </div>
-
-                <div onClick$={$(() => handleRandomGlider())} class="vehicle-container secondary">
-                    {currentGliderSkin.value.image == null ? (
-                        <img src={`${base}vehicles/tba1.webp`} width={150} height={105} alt={getGliderName(currentGlider.value, lang)} />
-                    ) : (
-                        <img src={`${base}gliders/${currentGliderSkin.value.image}`} width={100} height={77} alt={getGliderName(currentGlider.value, lang)} />
-                    )}
-                    <p class="character">{getGliderName(currentGlider.value, lang)}</p>
-                </div>
-
             </div>
 
         </article>
@@ -381,8 +284,6 @@ export default component$((props : RandomCharacterProps) => {
         {props.numberOfPlayers == 1 && <Statistics 
             characterStats={currentCharacter.value.stats} 
             vehicleStats={currentVehicle.value.stats} 
-            tireStats={currentTire.value.stats}
-            gliderStats={currentGlider.value.stats}
         />}    
 
     </>

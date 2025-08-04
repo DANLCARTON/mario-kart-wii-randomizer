@@ -33,7 +33,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "baby_luigi": {
             "slug": "baby_luigi",
@@ -68,7 +95,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "baby_peach": {
             "slug": "baby_peach",
@@ -103,7 +157,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "baby_daisy": {
             "slug": "baby_daisy",
@@ -138,7 +219,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "toad": {
             "slug": "toad",
@@ -173,7 +281,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "toadette": {
             "slug": "toadette",
@@ -208,7 +343,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "koopa_troopa": {
             "slug": "koopa_troopa",
@@ -243,7 +405,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "dry_bones": {
             "slug": "dry_bones",
@@ -278,7 +467,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "small"
+            "available_vehicles": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_s",
+                "standard_bike_s",
+                "booster_seat",
+                "bullet_bike",
+                "mini_beast",
+                "bit_bike",
+                "cheep_charger",
+                "quacker",
+                "tiny_titan",
+                "magikruiser",
+                "blue_falcon",
+                "jet_bubble"
+            ]
         },
         "mario": {
             "slug": "mario",
@@ -313,7 +529,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "luigi": {
             "slug": "luigi",
@@ -348,7 +591,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "peach": {
             "slug": "peach",
@@ -383,7 +653,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "daisy": {
             "slug": "daisy",
@@ -418,7 +715,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "yoshi": {
             "slug": "yoshi",
@@ -453,7 +777,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "birdo": {
             "slug": "birdo",
@@ -488,7 +839,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "diddy_kong": {
             "slug": "diddy_kong",
@@ -523,7 +901,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "bowser_jr": {
             "slug": "bowser_jr",
@@ -558,7 +963,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "medium"
+            "available_vehicles": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_m",
+                "standard_bike_m",
+                "classic_dragster",
+                "mach_bike",
+                "wild_wing",
+                "sugarscoot",
+                "super_blooper",
+                "zip_zip",
+                "daytripper",
+                "sneakster",
+                "sprinter",
+                "dolphin_dasher"
+            ]
         },
         "wario": {
             "slug": "wario",
@@ -593,7 +1025,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "waluigi": {
             "slug": "waluigi",
@@ -628,7 +1087,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "donkey_kong": {
             "slug": "donkey_kong",
@@ -663,7 +1149,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "bowser": {
             "slug": "bowser",
@@ -698,7 +1211,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "king_boo": {
             "slug": "king_boo",
@@ -733,7 +1273,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "rosalina": {
             "slug": "rosalina",
@@ -768,7 +1335,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "funky_kong": {
             "slug": "funky_kong",
@@ -803,7 +1397,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "dry_bowser": {
             "slug": "dry_bowser",
@@ -838,7 +1459,34 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "large"
+            "available_vehicles": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ],
+            "available_vehicles_elimination_mode": [
+                "standard_kart_l",
+                "standard_bike_l",
+                "offroader",
+                "flame_runner",
+                "flame_flyer",
+                "wario_bike",
+                "piranha_prowler",
+                "shooting_star",
+                "jetsetter",
+                "spear",
+                "honeycoupe",
+                "phantom"
+            ]
         },
         "mii_outfit_a": {
             "slug": "mii_outfit_a",
@@ -873,7 +1521,21 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "mii"
+            "available_vehicles": [
+                "kart_1",
+                "kart_2",
+                "kart_3",
+                "kart_4",
+                "kart_5",
+                "kart_6",
+                "bike_1",
+                "bike_2",
+                "bike_3",
+                "bike_4",
+                "bike_5",
+                "bike_6"
+            ],
+            "available_vehicles_elimination_mode": []
         },
         "mii_outfit_b": {
             "slug": "mii_outfit_b",
@@ -908,7 +1570,21 @@
                 "mini_turbo": 1,
                 "stability":1
             },
-            "category": "mii"
+            "available_vehicles": [
+                "kart_1",
+                "kart_2",
+                "kart_3",
+                "kart_4",
+                "kart_5",
+                "kart_6",
+                "bike_1",
+                "bike_2",
+                "bike_3",
+                "bike_4",
+                "bike_5",
+                "bike_6"
+            ],
+            "available_vehicles_elimination_mode": []
         }
     }
 }
