@@ -3,16 +3,16 @@
         "standard_kart_s": {
             "slug": "standard_kart_s",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Kart Léger",
+                "fr_ca": "Kart Léger",
                 "en_gb": "Standard Kart S",
                 "en_us": "Standard Kart S",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Kart Estándar Pequeño",
+                "es_la": "Kart Estándar Pequeño",
+                "it": "Kart Standard S",
+                "de": "Mini-Kart",
+                "ja": "スタンダード・カートS",
+                "ko": "스탠더드카트S"
             },
             "stats": {
                 "land_speed": 6,
@@ -94,12 +94,12 @@
                 "fr_ca": "",
                 "en_gb": "Standard Bike S",
                 "en_us": "Standard Bike S",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Moto Estándar Pequeña",
+                "es_la": "Moto Estándar Pequeña",
+                "it": "Moto Standard S",
+                "de": "Mini-Bike",
+                "ja": "スタンダード・バイクS",
+                "ko": "스탠더드바이크S"
             },
             "stats": {
                 "land_speed": 6,
@@ -177,16 +177,16 @@
         "booster_seat": {
             "slug": "booster_seat",
             "names": {
-                "fr_fr": "",
+                "fr_fr": "Auto-Pousse",
                 "fr_ca": "",
                 "en_gb": "Booster Seat",
                 "en_us": "Baby Booster",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Supercuna",
+                "es_la": "Supercuna",
+                "it": "Culla a reazione",
+                "de": "Baby-Booster",
+                "ja": "スーパーベビィカー",
+                "ko": "슈퍼유모차"
             },
             "stats": {
                 "land_speed": 6,
@@ -264,16 +264,16 @@
         "bullet_bike": {
             "slug": "bullet_bike",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Bill Bécane",
+                "fr_ca": "Moto Balle",
                 "en_gb": "Bullet Bike",
                 "en_us": "Bullet Bike",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Moto Bala",
+                "es_la": "Moto Bala",
+                "it": "Moto Pallottolo",
+                "de": "Willi-Bike",
+                "ja": "ロケットキラー",
+                "ko": "로켓킬러"
             },
             "stats": {
                 "land_speed": 6,
@@ -351,16 +351,16 @@
         "mini_beast": {
             "slug": "mini_beast",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Doryphare",
+                "fr_ca": "Mini-bête",
                 "en_gb": "Concerto",
                 "en_us": "Mini Beast",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Minibestia",
+                "es_la": "Minibestia",
+                "it": "Pistoni Bollenti",
+                "de": "Minibiest",
+                "ja": "ミニ・チャージャー",
+                "ko": "미니비스트"
             },
             "stats": {
                 "land_speed": 6,
@@ -438,16 +438,16 @@
         "bit_bike": {
             "slug": "bit_bike",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Mini-mob",
+                "fr_ca": "Mini-cyclo",
                 "en_gb": "Nanobike",
                 "en_us": "Bit Bike",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Pequeciclo",
+                "es_la": "Minimoto",
+                "it": "Moto Bit",
+                "de": "Blitzer",
+                "ja": "ポケモーター",
+                "ko": "비트바이크"
             },
             "stats": {
                 "land_speed": 6,
@@ -525,16 +525,16 @@
         "cheep_charger": {
             "slug": "cheep_charger",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Cheepmobile",
+                "fr_ca": "Cheepmobile",
                 "en_gb": "Cheep Charger",
                 "en_us": "Cheep Charger",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Carruaje Cheep",
+                "es_la": "Carruaje Cheep",
+                "it": "Smack-mobile",
+                "de": "Bob-Cheep",
+                "ja": "スーパープクプク",
+                "ko": "슈퍼뽀꾸뽀꾸"
             },
             "stats": {
                 "land_speed": 6,
@@ -612,16 +612,16 @@
         "quacker": {
             "slug": "quacker",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Coin-coin",
+                "fr_ca": "Coin-coin",
                 "en_gb": "Quacker",
                 "en_us": "Quacker",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Pato Raudo",
+                "es_la": "Pato Raudo",
+                "it": "Quaquaraqua",
+                "de": "Quakquak",
+                "ja": "スピードスワン",
+                "ko": "스피드스완"
             },
             "stats": {
                 "land_speed": 6,
@@ -699,16 +699,16 @@
         "tiny_titan": {
             "slug": "tiny_titan",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Mini-monstre",
+                "fr_ca": "Petit Titan",
                 "en_gb": "Rally Romper",
                 "en_us": "Tiny Titan",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Minitractor",
+                "es_la": "Minitractor",
+                "it": "Minirally",
+                "de": "Monztruck",
+                "ja": "ホットラリー",
+                "ko": "오프로드카고"
             },
             "stats": {
                 "land_speed": 6,
@@ -786,16 +786,16 @@
         "magikruiser": {
             "slug": "magikruiser",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Kamekroiseur",
+                "fr_ca": "Kamekroiseur",
                 "en_gb": "Magikruiser",
                 "en_us": "Magikruiser",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Magiciclo",
+                "es_la": "Magiciclo",
+                "it": "Kamekruiser",
+                "de": "Kameknaller",
+                "ja": "ライド・オン・カメック",
+                "ko": "마귀라이더"
             },
             "stats": {
                 "land_speed": 6,
@@ -873,16 +873,16 @@
         "blue_falcon": {
             "slug": "blue_falcon",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Blue Falcon",
+                "fr_ca": "Blue Falcon",
                 "en_gb": "Blue Falcon",
                 "en_us": "Blue Falcon",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Blue Falcon",
+                "es_la": "Blue Falcon",
+                "it": "Blue Falcon",
+                "de": "Blue Falcon",
+                "ja": "ブルーファルコン",
+                "ko": "블루팔콘"
             },
             "stats": {
                 "land_speed": 6,
@@ -960,16 +960,16 @@
         "jet_bubble": {
             "slug": "jet_bubble",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Jet Capsule",
+                "fr_ca": "Capsule Jet",
                 "en_gb": "Bubble Bike",
                 "en_us": "Jet Bubble",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Moto Cúpula",
+                "es_la": "Moto Cúpula",
+                "it": "Bolla Jet",
+                "de": "Jet-A",
+                "ja": "ジェットボール",
+                "ko": "제트볼"
             },
             "stats": {
                 "land_speed": 6,
@@ -1047,16 +1047,16 @@
         "standard_kart_m": {
             "slug": "standard_kart_m",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Kart Moyen",
+                "fr_ca": "Kart Moyen",
                 "en_gb": "Standard Kart M",
                 "en_us": "Standard Kart M",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Kart Estándar Mediano",
+                "es_la": "Kart Estándar Mediano",
+                "it": "Kart Standard M",
+                "de": "Medi-Kart",
+                "ja": "スタンダード・カートM",
+                "ko": "스탠더드카트M"
             },
             "stats": {
                 "land_speed": 6,
@@ -1138,12 +1138,12 @@
                 "fr_ca": "",
                 "en_gb": "Standard Bike M",
                 "en_us": "Standard Bike M",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Moto Estándar Mediana",
+                "es_la": "Moto Estándar Mediana",
+                "it": "Moto Standard M",
+                "de": "Medi-Bike",
+                "ja": "スタンダード・バイクM",
+                "ko": "스탠더드바이크M"
             },
             "stats": {
                 "land_speed": 6,
@@ -1221,16 +1221,16 @@
         "classic_dragster": {
             "slug": "classic_dragster",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Nostalgia",
+                "fr_ca": "Dragster Classique",
                 "en_gb": "Nostalgia 1",
                 "en_us": "Classic Dragster",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Modelo Clásico",
+                "es_la": "Modelo Clásico",
+                "it": "Nostalgia 1",
+                "de": "Nostalgia 1",
+                "ja": "ノスタルジア",
+                "ko": "노스텔지아"
             },
             "stats": {
                 "land_speed": 6,
@@ -1308,16 +1308,16 @@
         "mach_bike": {
             "slug": "mach_bike",
             "names": {
-                "fr_fr": "",
-                "fr_ca": "",
+                "fr_fr": "Moto Mach",
+                "fr_ca": "Moto Mach",
                 "en_gb": "Mach Bike",
                 "en_us": "Mach Bike",
-                "es_es": "",
-                "es_la": "",
-                "it": "",
-                "de": "",
-                "ja": "",
-                "ko": ""
+                "es_es": "Moto Hipersónica",
+                "es_la": "Moto Hipersónica",
+                "it": "Moto Mach",
+                "de": "Mach-Bike",
+                "ja": "マッハ・バイク",
+                "ko": "마하바이크"
             },
             "stats": {
                 "land_speed": 6,
@@ -1388,6 +1388,2286 @@
                     "image": "mach_bike_bowser_jr_yellow.webp",
                     "match": [
                         "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "wild_wing": {
+            "slug": "wild_wing",
+            "names": {
+                "fr_fr": "Cabriolaile",
+                "fr_ca": "Cabriolaile",
+                "en_gb": "Wild Wing",
+                "en_us": "Wild Wing",
+                "es_es": "Alerón Chiflado",
+                "es_la": "Alerón Chiflado",
+                "it": "Ali di squalo",
+                "de": "Windschnitte",
+                "ja": "ワイルドスター",
+                "ko": "와일드스타"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "wild_wing.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "wild_wing_mario_red.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_dark_green",
+                    "image": "wild_wing_luigi_dark_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_light_pink",
+                    "image": "wild_wing_peach_light_pink.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_orange",
+                    "image": "wild_wing_daisy_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_white",
+                    "image": "wild_wing_yoshi_white.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_dark_purple",
+                    "image": "wild_wing_birdo_dark_purple.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_black",
+                    "image": "wild_wing_diddy_kong_black.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_yellow",
+                    "image": "wild_wing_bowser_jr_yellow.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "sugarscoot": {
+            "slug": "sugarscoot",
+            "names": {
+                "fr_fr": "",
+                "fr_ca": "Étincelle",
+                "en_gb": "Bon Bon",
+                "en_us": "Sugarscoot",
+                "es_es": "Ciclomotor Dulzón",
+                "es_la": "Ciclomotor Dulzón",
+                "it": "Scooter Filante",
+                "de": "Bonbon-Bike",
+                "ja": "キャンディ",
+                "ko": "캔디스쿠터"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "sugarscoot.webp",
+            "skins": [
+                {
+                    "slug": "mario_white",
+                    "image": "sugarscoot_mario_white.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_white",
+                    "image": "sugarscoot_luigi_white.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_beige",
+                    "image": "sugarscoot_peach_beige.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_white",
+                    "image": "sugarscoot_daisy_white.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_light_green",
+                    "image": "sugarscoot_yoshi_light_green.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_white",
+                    "image": "sugarscoot_birdo_white.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_beige",
+                    "image": "sugarscoot_diddy_kong_beige.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_yellow",
+                    "image": "sugarscoot_bowser_jr_yellow.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "super_blooper": {
+            "slug": "super_blooper",
+            "names": {
+                "fr_fr": "Super Bloups",
+                "fr_ca": "Super Bloups",
+                "en_gb": "Super Blooper",
+                "en_us": "Turbo Blooper",
+                "es_es": "Bloopercarro",
+                "es_la": "Bloopercarro",
+                "it": "Super Calamako",
+                "de": "Blooper-Bolide",
+                "ja": "スーパーゲッソー",
+                "ko": "슈퍼징오징오"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "super_blooper.webp",
+            "skins": [
+                {
+                    "slug": "mario_white",
+                    "image": "super_blooper_mario_white.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_white",
+                    "image": "super_blooper_luigi_white.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_white",
+                    "image": "super_blooper_peach_white.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_white",
+                    "image": "super_blooper_daisy_white.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_white",
+                    "image": "super_blooper_yoshi_white.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_white",
+                    "image": "super_blooper_birdo_white.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_white",
+                    "image": "super_blooper_diddy_kong_white.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_mustard",
+                    "image": "super_blooper_bowser_jr_mustard.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "zip_zip": {
+            "slug": "zip_zip",
+            "names": {
+                "fr_fr": "Cyclo Vroum",
+                "fr_ca": "Cyclo Vroum",
+                "en_gb": "Zip Zip",
+                "en_us": "Rapide",
+                "es_es": "Zum-Zum",
+                "es_la": "Zum-Zum",
+                "it": "Jalapeno",
+                "de": "Rapido",
+                "ja": "ポロネーズ",
+                "ko": "하바네로"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "zip_zip.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "zip_zip_mario_red.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_green",
+                    "image": "zip_zip_luigi_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_pink",
+                    "image": "zip_zip_peach_pink.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_soft_orange",
+                    "image": "zip_zip_daisy_soft_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_lime_green",
+                    "image": "zip_zip_yoshi_lime_green.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_magenta",
+                    "image": "zip_zip_birdo_magenta.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_burnt_orange",
+                    "image": "zip_zip_diddy_kong_burnt_orange.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_yellow",
+                    "image": "zip_zip_bowser_jr_yellow.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "daytripper": {
+            "slug": "daytripper",
+            "names": {
+                "fr_fr": "Carrosse Royal",
+                "fr_ca": "Kart Calèche",
+                "en_gb": "Royal Racer",
+                "en_us": "Daytripper",
+                "es_es": "Dominguero",
+                "es_la": "Dominguero",
+                "it": "Bolide retrò",
+                "de": "Cabriosa",
+                "ja": "ファンタジア",
+                "ko": "판타지아"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "daytripper.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "daytripper_mario_red.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_green",
+                    "image": "daytripper_luigi_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_pink",
+                    "image": "daytripper_peach_pink.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_orange",
+                    "image": "daytripper_daisy_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_mint_green",
+                    "image": "daytripper_yoshi_mint_green.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_purple",
+                    "image": "daytripper_birdo_purple.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_black",
+                    "image": "daytripper_diddy_kong_black.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_yellow",
+                    "image": "daytripper_bowser_jr_yellow.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "sneakster": {
+            "slug": "sneakster",
+            "names": {
+                "fr_fr": "Nitrocyclette",
+                "fr_ca": "Nitrocyclette",
+                "en_gb": "Nitrocycle",
+                "en_us": "Sneakster",
+                "es_es": "Nitrocicleta",
+                "es_la": "Nitrocicleta",
+                "it": "Nitrocicletta",
+                "de": "Pistensturm",
+                "ja": "インターセプター",
+                "ko": "인터셉터"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "sneakster.webp",
+            "skins": [
+                {
+                    "slug": "mario_red",
+                    "image": "sneakster_mario_red.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_green",
+                    "image": "sneakster_luigi_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_cream",
+                    "image": "sneakster_peach_cream.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_pastel_orange",
+                    "image": "sneakster_daisy_pastel_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_white",
+                    "image": "sneakster_yoshi_white.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_magenta",
+                    "image": "sneakster_birdo_magenta.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_soft_red",
+                    "image": "sneakster_diddy_kong_soft_red.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_yellow",
+                    "image": "sneakster_bowser_jr_yellow.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "sprinter": {
+            "slug": "sprinter",
+            "names": {
+                "fr_fr": "Intrépide II",
+                "fr_ca": "Intrépide",
+                "en_gb": "Sprinter",
+                "en_us": "D Dasher Mk. 2",
+                "es_es": "Super Rayo GTI",
+                "es_la": "Fórmula N",
+                "it": "Glory",
+                "de": "Glory",
+                "ja": "",
+                "ko": "뉴B대시"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "sprinter.webp",
+            "skins": [
+                {
+                    "slug": "mario_white",
+                    "image": "sprinter_mario_white.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_white",
+                    "image": "sprinter_luigi_white.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_white",
+                    "image": "sprinter_peach_white.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_white",
+                    "image": "sprinter_daisy_white.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_white",
+                    "image": "sprinter_yoshi_white.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_white",
+                    "image": "sprinter_birdo_white.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_ginger",
+                    "image": "sprinter_diddy_kong_ginger.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_dark_chartreuse",
+                    "image": "sprinter_bowser_jr_dark_chartreuse.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "dolphin_dasher": {
+            "slug": "dolphin_dasher",
+            "names": {
+                "fr_fr": "Dauphine",
+                "fr_ca": "Coryphène",
+                "en_gb": "Dolphin Dasher",
+                "en_us": "Dolphin Dasher",
+                "es_es": "Velocidelfín",
+                "es_la": "Velocidelfín",
+                "it": "Delfinator",
+                "de": "Flippster",
+                "ja": "ドルフィンキック",
+                "ko": "돌핀킥"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "dolphin_dasher.webp",
+            "skins": [
+                {
+                    "slug": "mario_blue",
+                    "image": "dolphin_dasher_mario_blue.webp",
+                    "match": [
+                        "mario"
+                    ]
+                },
+                {
+                    "slug": "luigi_dark_green",
+                    "image": "dolphin_dasher_luigi_dark_green.webp",
+                    "match": [
+                        "luigi"
+                    ]
+                },
+                {
+                    "slug": "peach_persian_pink",
+                    "image": "dolphin_dasher_peach_persian_pink.webp",
+                    "match": [
+                        "peach"
+                    ]
+                },
+                {
+                    "slug": "daisy_orange",
+                    "image": "dolphin_dasher_daisy_orange.webp",
+                    "match": [
+                        "daisy"
+                    ]
+                },
+                {
+                    "slug": "yoshi_lime_green",
+                    "image": "dolphin_dasher_yoshi_lime_green.webp",
+                    "match": [
+                        "yoshi"
+                    ]
+                },
+                {
+                    "slug": "birdo_purple_magenta",
+                    "image": "dolphin_dasher_birdo_purple_magenta.webp",
+                    "match": [
+                        "birdo"
+                    ]
+                },
+                {
+                    "slug": "diddy_kong_red",
+                    "image": "dolphin_dasher_diddy_kong_red.webp",
+                    "match": [
+                        "diddy_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_jr_yellow",
+                    "image": "dolphin_dasher_bowser_jr_yellow.webp",
+                    "match": [
+                        "bowser_jr"
+                    ]
+                }
+            ]
+        },
+        "standard_kart_l": {
+            "slug": "standard_kart_l",
+            "names": {
+                "fr_fr": "Kart Lourd",
+                "fr_ca": "Kart Lourd",
+                "en_gb": "Standard Kart L",
+                "en_us": "Standard Kart L",
+                "es_es": "Kart Estándar Grande",
+                "es_la": "Kart Estándar Grande",
+                "it": "Kart Standard L",
+                "de": "Maxi-Kart",
+                "ja": "スタンダード・カートL",
+                "ko": "스탠더드카트L"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "standard_kart_l.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "standard_kart_l_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_dark_blue",
+                    "image": "standard_kart_l_waluigi_dark_blue.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_dark_brown",
+                    "image": "standard_kart_l_donkey_kong_dark_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_army_green",
+                    "image": "standard_kart_l_bowser_dark_army_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "standard_kart_l_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "standard_kart_l_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_white",
+                    "image": "standard_kart_l_funky_kong_white.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_beige",
+                    "image": "standard_kart_l_dry_bowser_beige.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "standard_bike_l": {
+            "slug": "standard_bike_l",
+            "names": {
+                "fr_fr": "",
+                "fr_ca": "",
+                "en_gb": "Standard Bike L",
+                "en_us": "Standard Bike L",
+                "es_es": "Moto Estándar Grande",
+                "es_la": "Moto Estándar Grande",
+                "it": "Moto Standard L",
+                "de": "Maxi-Bike",
+                "ja": "スタンダード・バイクL",
+                "ko": "스탠더드바이크L"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "standard_bike_l.webp",
+            "skins": [
+                {
+                    "slug": "wario_bright_gold",
+                    "image": "standard_bike_l_wario_bright_gold.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_deep_violet",
+                    "image": "standard_bike_l_waluigi_deep_violet.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "standard_bike_l_donkey_kong_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_olive",
+                    "image": "standard_bike_l_bowser_dark_olive.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "standard_bike_l_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "standard_bike_l_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_bright_blue",
+                    "image": "standard_bike_l_funky_kong_bright_blue.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_khaki",
+                    "image": "standard_bike_l_dry_bowser_khaki.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "offroader": {
+            "slug": "offroader",
+            "names": {
+                "fr_fr": "Buggy Brute",
+                "fr_ca": "VTT",
+                "en_gb": "Offroader",
+                "en_us": "Offroader",
+                "es_es": "Todoterreno",
+                "es_la": "Todoterreno",
+                "it": "Dune Buggy",
+                "de": "Offroader",
+                "ja": "サバイバルバギー",
+                "ko": "서바이벌카고"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "offroader.webp",
+            "skins": [
+                {
+                    "slug": "wario_golden_yellow",
+                    "image": "offroader_wario_golden_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_dark_purple",
+                    "image": "offroader_waluigi_dark_purple.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_dark_brown",
+                    "image": "offroader_donkey_kong_dark_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_army_green",
+                    "image": "offroader_bowser_army_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "offroader_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_aqua",
+                    "image": "offroader_rosalina_aqua.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_cobalt_blue",
+                    "image": "offroader_funky_kong_cobalt_blue.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_warm_gray",
+                    "image": "offroader_dry_bowser_warm_gray.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "flame_runner": {
+            "slug": "flame_runner",
+            "names": {
+                "fr_fr": "Bécane Bowser",
+                "fr_ca": "Moto Flammes",
+                "en_gb": "Bowser Bike",
+                "en_us": "Flame Runner",
+                "es_es": "Moto de Bowser",
+                "es_la": "Moto de Bowser",
+                "it": "Moto Bowser",
+                "de": "Bowser-Bike",
+                "ja": "スーパーバウザー",
+                "ko": "쿠파라이더"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "flame_runner.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "flame_runner_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_violet",
+                    "image": "flame_runner_waluigi_violet.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "flame_runner_donkey_kong_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_yellow",
+                    "image": "flame_runner_bowser_yellow.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "flame_runner_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_light_gray",
+                    "image": "flame_runner_rosalina_light_gray.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_khaki",
+                    "image": "flame_runner_funky_kong_khaki.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_warm_gray",
+                    "image": "flame_runner_dry_bowser_warm_gray.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "flame_flyer": {
+            "slug": "flame_flyer",
+            "names": {
+                "fr_fr": "Crache-feu",
+                "fr_ca": "Crache-flammes",
+                "en_gb": "Flame Flyer",
+                "en_us": "Flame Flyer",
+                "es_es": "Carro Fulminante",
+                "es_la": "Carro Fulminante",
+                "it": "Fiamma volante",
+                "de": "Feuerschleuder",
+                "ja": "ファイアホットロッド",
+                "ko": "파이어카트"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "flame_flyer.webp",
+            "skins": [
+                {
+                    "slug": "wario_purple",
+                    "image": "flame_flyer_wario_purple.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_indigo",
+                    "image": "flame_flyer_waluigi_indigo.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "flame_flyer_donkey_kong_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_green",
+                    "image": "flame_flyer_bowser_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "flame_flyer_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_aqua",
+                    "image": "flame_flyer_rosalina_aqua.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_crimson",
+                    "image": "flame_flyer_funky_kong_crimson.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_gray",
+                    "image": "flame_flyer_dry_bowser_gray.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "wario_bike": {
+            "slug": "wario_bike",
+            "names": {
+                "fr_fr": "Wario Custom",
+                "fr_ca": "Moto Wario",
+                "en_gb": "Wario Bike",
+                "en_us": "Wario Bike",
+                "es_es": "Moto de Wario",
+                "es_la": "Moto de Wario",
+                "it": "Moto di Wario",
+                "de": "Wario-Bike",
+                "ja": "ワリオバイク",
+                "ko": "와리오바이크"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "wario_bike.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "wario_bike_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_purple",
+                    "image": "wario_bike_waluigi_purple.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_reddish_brown",
+                    "image": "wario_bike_donkey_kong_reddish_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "wario_bike_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "wario_bike_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "wario_bike_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_blue",
+                    "image": "wario_bike_funky_kong_blue.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_gray",
+                    "image": "wario_bike_dry_bowser_gray.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "piranha_prowler": {
+            "slug": "piranha_prowler",
+            "names": {
+                "fr_fr": "Kart Piranha",
+                "fr_ca": "Kart Piranha",
+                "en_gb": "Piranha Prowler",
+                "en_us": "Piranha Prowler",
+                "es_es": "Piraña Maleante",
+                "es_la": "Piraña Maleante",
+                "it": "Piranha turbo",
+                "de": "Pistenpiranha",
+                "ja": "パックンカート",
+                "ko": "뻐끔카트"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "piranha_prowler.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "piranha_prowler_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_purple",
+                    "image": "piranha_prowler_waluigi_purple.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "piranha_prowler_donkey_kong_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "piranha_prowler_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "piranha_prowler_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_cyan",
+                    "image": "piranha_prowler_rosalina_cyan.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_red",
+                    "image": "piranha_prowler_funky_kong_red.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_beige",
+                    "image": "piranha_prowler_dry_bowser_beige.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "shooting_star": {
+            "slug": "shooting_star",
+            "names": {
+                "fr_fr": "Scoot Comète",
+                "fr_ca": "Étoile Filante",
+                "en_gb": "Shooting Star",
+                "en_us": "Twinkle Star",
+                "es_es": "Estrella Fugaz",
+                "es_la": "Estrella Fugaz",
+                "it": "Moto Stella",
+                "de": "Schnuppe",
+                "ja": "トゥインクルスター",
+                "ko": "슈팅스타"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "shooting_star.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "shooting_star_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_dark_purple",
+                    "image": "shooting_star_waluigi_dark_purple.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_red",
+                    "image": "shooting_star_donkey_kong_red.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "shooting_star_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_dark_blue",
+                    "image": "shooting_star_king_boo_dark_blue.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "shooting_star_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_white",
+                    "image": "shooting_star_funky_kong_white.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_black",
+                    "image": "shooting_star_dry_bowser_black.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "jetsetter": {
+            "slug": "jetsetter",
+            "names": {
+                "fr_fr": "Bolide Stellaire",
+                "fr_ca": "Bolide Stellaire",
+                "en_gb": "Aero Glider",
+                "en_us": "Jetsetter",
+                "es_es": "Autodeslizador",
+                "es_la": "Autodeslizador",
+                "it": "Potroracer",
+                "de": "Sterngleiter",
+                "ja": "ファストグライド",
+                "ko": "제트글라이드"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "jetsetter.webp",
+            "skins": [
+                {
+                    "slug": "wario_purple",
+                    "image": "jetsetter_wario_purple.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_indigo",
+                    "image": "jetsetter_waluigi_indigo.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_salmon_pink",
+                    "image": "jetsetter_donkey_kong_salmon_pink.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "jetsetter_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_white",
+                    "image": "jetsetter_king_boo_white.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_aquamarine",
+                    "image": "jetsetter_rosalina_aquamarine.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_dark_brown",
+                    "image": "jetsetter_funky_kong_dark_brown.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_black",
+                    "image": "jetsetter_dry_bowser_black.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "spear": {
+            "slug": "spear",
+            "names": {
+                "fr_fr": "Torpille",
+                "fr_ca": "Torpille",
+                "en_gb": "Torpedo",
+                "en_us": "Spear",
+                "es_es": "Proyectil",
+                "es_la": "Torpedo",
+                "it": "Torpedo Sprint",
+                "de": "Torped",
+                "ja": "ワイルドスピア",
+                "ko": "와일드스피어"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "spear.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "spear_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_indigo",
+                    "image": "spear_waluigi_indigo.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_brown",
+                    "image": "spear_donkey_kong_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "spear_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "spear_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_turquoise",
+                    "image": "spear_rosalina_turquoise.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_white",
+                    "image": "spear_funky_kong_white.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_silver",
+                    "image": "spear_dry_bowser_silver.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "honeycoupe": {
+            "slug": "honeycoupe",
+            "names": {
+                "fr_fr": "Turbo Flash",
+                "fr_ca": "Coupé Miel",
+                "en_gb": "Dragonetti",
+                "en_us": "Honeycoupe",
+                "es_es": "Fullero",
+                "es_la": "Libertad GT",
+                "it": "Flash GT",
+                "de": "Turbetto",
+                "ja": "トリッキー",
+                "ko": "트릭키"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "honeycoupe.webp",
+            "skins": [
+                {
+                    "slug": "wario_purple",
+                    "image": "honeycoupe_wario_purple.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_blue",
+                    "image": "honeycoupe_waluigi_blue.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_orange",
+                    "image": "honeycoupe_donkey_kong_orange.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "honeycoupe_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_white",
+                    "image": "honeycoupe_king_boo_white.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_yellow",
+                    "image": "honeycoupe_rosalina_yellow.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_red",
+                    "image": "honeycoupe_funky_kong_red.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_black",
+                    "image": "honeycoupe_dry_bowser_black.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "phantom": {
+            "slug": "phantom",
+            "names": {
+                "fr_fr": "Propulsor",
+                "fr_ca": "Spectre",
+                "en_gb": "Phantom",
+                "en_us": "Phantom",
+                "es_es": "Fantasma",
+                "es_la": "Fantasma",
+                "it": "Motorazzo",
+                "de": "Phantom",
+                "ja": "ファントム",
+                "ko": "팬텀"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "phantom.webp",
+            "skins": [
+                {
+                    "slug": "wario_yellow",
+                    "image": "phantom_wario_yellow.webp",
+                    "match": [
+                        "wario"
+                    ]
+                },
+                {
+                    "slug": "waluigi_blue",
+                    "image": "phantom_waluigi_blue.webp",
+                    "match": [
+                        "waluigi"
+                    ]
+                },
+                {
+                    "slug": "donkey_kong_dark_brown",
+                    "image": "phantom_donkey_kong_dark_brown.webp",
+                    "match": [
+                        "donkey_kong"
+                    ]
+                },
+                {
+                    "slug": "bowser_dark_green",
+                    "image": "phantom_bowser_dark_green.webp",
+                    "match": [
+                        "bowser"
+                    ]
+                },
+                {
+                    "slug": "king_boo_black",
+                    "image": "phantom_king_boo_black.webp",
+                    "match": [
+                        "king_boo"
+                    ]
+                },
+                {
+                    "slug": "rosalina_cyan",
+                    "image": "phantom_rosalina_cyan.webp",
+                    "match": [
+                        "rosalina"
+                    ]
+                },
+                {
+                    "slug": "funky_kong_red",
+                    "image": "phantom_funky_kong_red.webp",
+                    "match": [
+                        "funky_kong"
+                    ]
+                },
+                {
+                    "slug": "dry_bowser_tan",
+                    "image": "phantom_dry_bowser_tan.webp",
+                    "match": [
+                        "dry_bowser"
+                    ]
+                }
+            ]
+        },
+        "kart_1": {
+            "slug": "kart_1",
+            "names": {
+                "fr_fr": "Kart 1",
+                "fr_ca": "Kart 1",
+                "en_gb": "Kart 1",
+                "en_us": "Kart 1",
+                "es_es": "Kart 1",
+                "es_la": "Kart 1",
+                "it": "Kart 1",
+                "de": "Kart 1",
+                "ja": "カート1",
+                "ko": "카트1"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "kart_1.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "kart_1_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "kart_1_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "kart_2": {
+            "slug": "kart_2",
+            "names": {
+                "fr_fr": "Kart 2",
+                "fr_ca": "Kart 2",
+                "en_gb": "Kart 2",
+                "en_us": "Kart 2",
+                "es_es": "Kart 2",
+                "es_la": "Kart 2",
+                "it": "Kart 2",
+                "de": "Kart 2",
+                "ja": "カート2",
+                "ko": "카트2"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "kart_2.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "kart_2_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "kart_2_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "kart_3": {
+            "slug": "kart_3",
+            "names": {
+                "fr_fr": "Kart 3",
+                "fr_ca": "Kart 3",
+                "en_gb": "Kart 3",
+                "en_us": "Kart 3",
+                "es_es": "Kart 3",
+                "es_la": "Kart 3",
+                "it": "Kart 3",
+                "de": "Kart 3",
+                "ja": "カート3",
+                "ko": "카트3"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "kart_3.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "kart_3_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "kart_3_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "kart_4": {
+            "slug": "kart_4",
+            "names": {
+                "fr_fr": "Kart 4",
+                "fr_ca": "Kart 4",
+                "en_gb": "Kart 4",
+                "en_us": "Kart 4",
+                "es_es": "Kart 4",
+                "es_la": "Kart 4",
+                "it": "Kart 4",
+                "de": "Kart 4",
+                "ja": "カート4",
+                "ko": "카트4"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "kart_4.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "kart_4_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "kart_4_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "kart_5": {
+            "slug": "kart_5",
+            "names": {
+                "fr_fr": "Kart 5",
+                "fr_ca": "Kart 5",
+                "en_gb": "Kart 5",
+                "en_us": "Kart 5",
+                "es_es": "Kart 5",
+                "es_la": "Kart 5",
+                "it": "Kart 5",
+                "de": "Kart 5",
+                "ja": "カート5",
+                "ko": "카트5"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "kart_5.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "kart_5_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "kart_5_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "kart_6": {
+            "slug": "kart_6",
+            "names": {
+                "fr_fr": "Kart 6",
+                "fr_ca": "Kart 6",
+                "en_gb": "Kart 6",
+                "en_us": "Kart 6",
+                "es_es": "Kart 6",
+                "es_la": "Kart 6",
+                "it": "Kart 6",
+                "de": "Kart 6",
+                "ja": "カート6",
+                "ko": "카트6"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "kart_6.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "kart_6_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "kart_6_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "bike_1": {
+            "slug": "bike_1",
+            "names": {
+                "fr_fr": "Bike 1",
+                "fr_ca": "Bike 1",
+                "en_gb": "Bike 1",
+                "en_us": "Bike 1",
+                "es_es": "Bike 1",
+                "es_la": "Bike 1",
+                "it": "Bike 1",
+                "de": "Bike 1",
+                "ja": "バイク1",
+                "ko": "바이크1"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bike_1.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "bike_1_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "bike_1_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "bike_2": {
+            "slug": "bike_2",
+            "names": {
+                "fr_fr": "Bike 2",
+                "fr_ca": "Bike 2",
+                "en_gb": "Bike 2",
+                "en_us": "Bike 2",
+                "es_es": "Bike 2",
+                "es_la": "Bike 2",
+                "it": "Bike 2",
+                "de": "Bike 2",
+                "ja": "バイク2",
+                "ko": "바이크2"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bike_2.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "bike_2_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "bike_2_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "bike_3": {
+            "slug": "bike_3",
+            "names": {
+                "fr_fr": "Bike 3",
+                "fr_ca": "Bike 3",
+                "en_gb": "Bike 3",
+                "en_us": "Bike 3",
+                "es_es": "Bike 3",
+                "es_la": "Bike 3",
+                "it": "Bike 3",
+                "de": "Bike 3",
+                "ja": "バイク3",
+                "ko": "바이크3"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bike_3.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "bike_3_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "bike_3_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "bike_4": {
+            "slug": "bike_4",
+            "names": {
+                "fr_fr": "Bike 4",
+                "fr_ca": "Bike 4",
+                "en_gb": "Bike 4",
+                "en_us": "Bike 4",
+                "es_es": "Bike 4",
+                "es_la": "Bike 4",
+                "it": "Bike 4",
+                "de": "Bike 4",
+                "ja": "バイク4",
+                "ko": "바이크4"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bike_4.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "bike_4_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "bike_4_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "bike_5": {
+            "slug": "bike_5",
+            "names": {
+                "fr_fr": "Bike 5",
+                "fr_ca": "Bike 5",
+                "en_gb": "Bike 5",
+                "en_us": "Bike 5",
+                "es_es": "Bike 5",
+                "es_la": "Bike 5",
+                "it": "Bike 5",
+                "de": "Bike 5",
+                "ja": "バイク5",
+                "ko": "바이크5"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bike_5.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "bike_5_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "bike_5_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
+                    ]
+                }
+            ]
+        },
+        "bike_6": {
+            "slug": "bike_6",
+            "names": {
+                "fr_fr": "Bike 6",
+                "fr_ca": "Bike 6",
+                "en_gb": "Bike 6",
+                "en_us": "Bike 6",
+                "es_es": "Bike 6",
+                "es_la": "Bike 6",
+                "it": "Bike 6",
+                "de": "Bike 6",
+                "ja": "バイク6",
+                "ko": "바이크6"
+            },
+            "stats": {
+                "land_speed": 6,
+                "water_speed": 4,
+                "air_speed": 2,
+                "acceleration": 3,
+                "weight": 2,
+                "land_handling": 3,
+                "water_handling": 1,
+                "air_handling": 1,
+                "off_road": 2,
+                "mini_turbo": 2,
+                "stability": 0
+            },
+            "image": "bike_6.webp",
+            "skins": [
+                {
+                    "slug": "mii_outfit_a_male",
+                    "image": "bike_6_mii_outfit_a_male.webp",
+                    "match": [
+                        "mii_outfit_a"
+                    ]
+                },
+                {
+                    "slug": "mii_outfit_b_female",
+                    "image": "bike_6_mii_outfit_b_female.webp",
+                    "match": [
+                        "mii_outfit_b"
                     ]
                 }
             ]
