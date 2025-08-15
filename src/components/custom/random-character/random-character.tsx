@@ -234,19 +234,19 @@ export default component$((props : RandomCharacterProps) => {
                 <div onClick$={$(() => handleRandomCharacter())} class="character-container">
                     {currentCharacterImage.value == null ? (
                         <>
-                        <img src={`${base}characters/placeholder.png`} width={150} height={202.5} alt={getCharacterName(currentCharacter.value, lang)}/>
+                        <img src={`${base}characters/placeholder.png`} width={150} height={150} alt={getCharacterName(currentCharacter.value, lang)}/>
                         </>
                     ) : (
-                        <img src={`${base}characters/${currentCharacterImage.value}`} width={150} height={140} alt={getCharacterName(currentCharacter.value, lang)}/>
+                        <img src={`${base}characters/${currentCharacterImage.value}`} width={150} height={150} alt={getCharacterName(currentCharacter.value, lang)}/>
                     )}
                     <p class="character">{getCharacterName(currentCharacter.value, lang)}</p>
                 </div>
 
                 <div onClick$={$(() => handleRandomVehicle())} class="vehicle-container">
                     {currentVehicleSkin.value.image == null ? (
-                        <img src={`${base}vehicles/tba1.webp`} width={150} height={105} alt={getVehicleName(currentVehicle.value, lang)} />
+                        <img src={`${base}vehicles/tba1.webp`} width={150} height={93} alt={getVehicleName(currentVehicle.value, lang)} />
                     ) : (
-                        <img src={`${base}vehicles/${currentVehicleSkin.value.image}`} width={150} height={101} alt={getVehicleName(currentVehicle.value, lang)} />
+                        <img src={`${base}vehicles/${currentVehicleSkin.value.image}`} width={150} height={93} alt={getVehicleName(currentVehicle.value, lang)} />
                     )}
                     <p class="character">{getVehicleName(currentVehicle.value, lang)}</p>
                 </div>

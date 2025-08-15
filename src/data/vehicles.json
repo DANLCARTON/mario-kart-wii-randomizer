@@ -635,7 +635,7 @@
                     ]
                 },
                 {
-                    "slug": "toad_blue_white",
+                    "slug": "toad_white",
                     "image": "quacker_toad_white.webp",
                     "match": [
                         "toad"
@@ -718,8 +718,8 @@
                     ]
                 },
                 {
-                    "slug": "toad_blue_dark_blue",
-                    "image": "tiny_titan_toad_blue_dark_blue.webp",
+                    "slug": "toad_dark_blue",
+                    "image": "tiny_titan_toad_dark_blue.webp",
                     "match": [
                         "toad"
                     ]
@@ -801,8 +801,8 @@
                     ]
                 },
                 {
-                    "slug": "toad_blue_red",
-                    "image": "magikruiser_toad_blue_red.webp",
+                    "slug": "toad_red",
+                    "image": "magikruiser_toad_red.webp",
                     "match": [
                         "toad"
                     ]
@@ -884,8 +884,8 @@
                     ]
                 },
                 {
-                    "slug": "toad_blue_dark_blue",
-                    "image": "blue_falcon_toad_blue_dark_blue.webp",
+                    "slug": "toad_dark_blue",
+                    "image": "blue_falcon_toad_dark_blue.webp",
                     "match": [
                         "toad"
                     ]
@@ -967,8 +967,8 @@
                     ]
                 },
                 {
-                    "slug": "toad_blue_white",
-                    "image": "jet_bubble_toad_blue_white.webp",
+                    "slug": "toad_white",
+                    "image": "jet_bubble_toad_white.webp",
                     "match": [
                         "toad"
                     ]
