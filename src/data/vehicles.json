@@ -2742,6 +2742,18 @@
         "spear": {
             "slug": "spear",
             "names": {
+                "fr_fr": "Torpille",
+                "fr_ca": "Torpille",
+                "en_gb": "Torpedo",
+                "en_us": "Spear",
+                "es_es": "Proyectil",
+                "es_la": "Torpedo",
+                "it": "Torpedo Sprint",
+                "de": "Torped",
+                "ja": "ワイルドスピア",
+                "ko": "와일드스피어"
+            },
+            "stats": {
                 "speed": 67,
                 "weight": 56,
                 "acceleration": 24,
@@ -2749,19 +2761,6 @@
                 "drift": 29,
                 "off_road": 18,
                 "mini_turbo": 18
-            },
-            "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
             },
             "image": "spear.webp",
             "skins": [
