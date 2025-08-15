@@ -18,70 +18,80 @@ export default component$((props : StatisticsProps) => {
 
     return <section id="stats">
         <div class="stat">
-            <span>{tr(t.land_speed, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.land_speed + props.vehicleStats.land_speed)}%`
-            }}>{props.characterStats.land_speed + props.vehicleStats.land_speed}</div>
+            <span>{tr(t.speed, lang)}</span>
+            {props.characterStats.speed + props.vehicleStats.speed == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.speed + props.vehicleStats.speed)}%` }}>
+                    {props.characterStats.speed + props.vehicleStats.speed}
+                </div>
+            )}
         </div>
-        <div class="stat">
-            <span>{tr(t.water_speed, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.water_speed + props.vehicleStats.water_speed)}%`
-            }}>{props.characterStats.water_speed + props.vehicleStats.water_speed}</div>
-        </div>
-        <div class="stat">
-            <span>{tr(t.air_speed, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.air_speed + props.vehicleStats.air_speed)}%`
-            }}>{props.characterStats.air_speed + props.vehicleStats.air_speed}</div>
-        </div>
-        <div class="stat">
-            <span>{tr(t.acceleration, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.acceleration + props.vehicleStats.acceleration)}%`
-            }}>{props.characterStats.acceleration + props.vehicleStats.acceleration}</div>
-        </div>
+
         <div class="stat">
             <span>{tr(t.weight, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.weight + props.vehicleStats.weight)}%`
-            }}>{props.characterStats.weight + props.vehicleStats.weight}</div>
+            {props.characterStats.speed + props.vehicleStats.speed == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.weight + props.vehicleStats.weight)}%` }}>
+                    {props.characterStats.weight + props.vehicleStats.weight}
+                </div>
+            )}
         </div>
+
         <div class="stat">
-            <span>{tr(t.land_handling, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.land_handling + props.vehicleStats.land_handling)}%`
-            }}>{props.characterStats.land_handling + props.vehicleStats.land_handling}</div>
+            <span>{tr(t.acceleration, lang)}</span>
+            {props.characterStats.speed + props.vehicleStats.speed == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.acceleration + props.vehicleStats.acceleration)}%` }}>
+                    {props.characterStats.acceleration + props.vehicleStats.acceleration}
+                </div>
+            )}
         </div>
+
         <div class="stat">
-            <span>{tr(t.water_handling, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.water_handling + props.vehicleStats.water_handling)}%`
-            }}>{props.characterStats.water_handling + props.vehicleStats.water_handling}</div>
+            <span>{tr(t.handling, lang)}</span>
+            {props.characterStats.speed + props.vehicleStats.speed == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.handling + props.vehicleStats.handling)}%` }}>
+                    {props.characterStats.handling + props.vehicleStats.handling}
+                </div>
+            )}
         </div>
+
         <div class="stat">
-            <span>{tr(t.air_handling, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.air_handling + props.vehicleStats.air_handling)}%`
-            }}>{props.characterStats.air_handling + props.vehicleStats.air_handling}</div>
+            <span>{tr(t.drift, lang)}</span>
+            {props.characterStats.speed + props.vehicleStats.speed == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.drift + props.vehicleStats.drift)}%` }}>
+                    {props.characterStats.drift + props.vehicleStats.drift}
+                </div>
+            )}
         </div>
+
         <div class="stat">
             <span>{tr(t.off_road, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.off_road + props.vehicleStats.off_road)}%`
-            }}>{props.characterStats.off_road + props.vehicleStats.off_road}</div>
+            {props.characterStats.speed + props.vehicleStats.speed == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.off_road + props.vehicleStats.off_road)}%` }}>
+                    {props.characterStats.off_road + props.vehicleStats.off_road}
+                </div>
+            )}
         </div>
+
         <div class="stat">
             <span>{tr(t.mini_turbo, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.mini_turbo + props.vehicleStats.mini_turbo)}%`
-            }}>{props.characterStats.mini_turbo + props.vehicleStats.mini_turbo}</div>
-        </div>
-        <div class="stat">
-            <span>{tr(t.stability, lang)}</span>
-            <div class="stat-gauge" style={{
-                width: `${5*(props.characterStats.stability + props.vehicleStats.stability)}%`
-            }}>{props.characterStats.stability + props.vehicleStats.stability}</div>
+            {props.characterStats.speed + props.vehicleStats.speed   == 0 ? (
+                <div class="stat-gauge" style={{ width: `100%` }}>???</div>
+            ) : (
+                <div class="stat-gauge" style={{ width: `${1.25*(props.characterStats.mini_turbo + props.vehicleStats.mini_turbo)}%` }}>
+                    {props.characterStats.mini_turbo + props.vehicleStats.mini_turbo}
+                </div>
+            )}
         </div>
     </section>
 })

@@ -10,7 +10,7 @@ import vehiclesData from "~/data/vehicles.json"
 import skinsData from "~/data/skins.json"
 
 import "./random-character.scss"
-import { langContext, pickedCharactersContext, pickedVehiclesContext, playerNamesContext, pickedGlidersContext, pickedTiresContext } from "~/common/contexts";
+import { langContext, pickedCharactersContext, pickedVehiclesContext, playerNamesContext } from "~/common/contexts";
 import { getDomain, writeCookie } from "~/common/functions";
 import Statistics from "../statistics/statistics";
 import { base, cPN } from "~/common/constants";
@@ -19,7 +19,8 @@ type Character = {
     names : Names,
     skins : CharacterSkin[],
     stats : Stats,
-    slug : string
+    slug : string,
+    available_vehicles: string[]
 }
 
 type Vehicle = {
@@ -62,16 +63,14 @@ export default component$((props : RandomCharacterProps) => {
     const currentCharacterImage = useSignal<string | null>("placeholder.webp")
     const currentSkin = useSignal<Skin>(skinsData.skins.default)
     const currentVehicleSkin = useSignal<VehicleSkin>({slug: "slug", image: "image", match: "all"})
-    const currentTireSkin = useSignal<VehicleSkin>({slug: "slug", image: "image", match: "all"})
-    const currentGliderSkin = useSignal<VehicleSkin>({slug: "slug", image: "image", match: "all"})
     const playerNameSignal = useSignal<string>(props.playerName)
 
     const lang : string = useContext(langContext)
     const playerNames = useContext(playerNamesContext)
     const pickedCharacters = useContext(pickedCharactersContext)
     const pickedVehicles = useContext(pickedVehiclesContext)
-    const pickedTires = useContext(pickedTiresContext)
-    const pickedGliders = useContext(pickedGlidersContext)
+
+    const allVehicles = vehiclesData.vehicles as Record<string, Vehicle>
 
     // GETTERS
 
@@ -96,30 +95,6 @@ export default component$((props : RandomCharacterProps) => {
      */
     const getVehicleName = (vehicle : Vehicle, lang : string) : string => {
         const names = vehicle.names as Record<string, string>
-        return names[lang]
-    }
-
-    /**
-     * @description permet d'avoir le nom de la roue choisie dans la langue donnée
-     * @param tire objet de la roue
-     * @param lang langue de l'utilisateur
-     * @returns string : avec le nom du véhicule dans la langue donnée
-     * @example getVehicleName(vehicles.standard_kart, lang)
-     */
-    const getTireName = (tire : Vehicle, lang : string) : string => {
-        const names = tire.names as Record<string, string>
-        return names[lang]
-    }
-
-    /**
-     * @description permet d'avoir le nom de l'aile choisie dans la langue donnée
-     * @param glider objet de la roue
-     * @param lang langue de l'utilisateur
-     * @returns string : avec le nom du véhicule dans la langue donnée
-     * @example getVehicleName(vehicles.standard_kart, lang)
-     */
-    const getGliderName = (glider : Vehicle, lang : string) : string => {
-        const names = glider.names as Record<string, string>
         return names[lang]
     }
 
@@ -160,17 +135,16 @@ export default component$((props : RandomCharacterProps) => {
      * @example getRandomVehicle()
      */
     const getRandomVehicle = $(() : void => {
-        const entries = Object.values(vehiclesData.vehicles)
-        let index = Math.floor(Math.random() * entries.length)
-        let slug = entries[index].slug
+        let index = Math.floor(Math.random() * 12)
+        let slug = currentCharacter.value.available_vehicles[index]
         if (props.allDifferent) {
-            while (pickedVehicles.value.includes(slug)) {
-                index = Math.floor(Math.random() * entries.length)
-                slug = entries[index].slug
+            while (pickedCharacters.value.includes(slug)) {
+                index = Math.floor(Math.random() * 12)
+                slug = currentCharacter.value.available_vehicles[index]
             }
         }
         pickedVehicles.value[props.playerNumber] = slug
-        currentVehicle.value = entries[index]
+        currentVehicle.value = allVehicles[slug]
     })
 
     /**

@@ -12,17 +12,13 @@ export type Names = {
 }
 
 export type Stats = {
-    land_speed : number,
-    water_speed : number,
-    air_speed : number,
-    acceleration : number,
-    weight : number,
-    land_handling : number
-    water_handling : number
-    air_handling : number
+    speed : number
+    weight : number
+    acceleration : number
+    handling : number
+    drift : number
     off_road : number
     mini_turbo : number
-    stability : number
 }
 
 export type Course = {

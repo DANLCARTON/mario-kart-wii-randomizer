@@ -15,17 +15,13 @@
                 "ko": "스탠더드카트S"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 41,
+                "weight": 29,
+                "acceleration": 48,
+                "handling": 48,
+                "drift": 51,
+                "off_road": 40,
+                "mini_turbo": 45
             },
             "image": "standard_kart_s.webp",
             "skins": [
@@ -102,17 +98,13 @@
                 "ko": "스탠더드바이크S"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 39,
+                "weight": 21,
+                "acceleration": 51,
+                "handling": 51,
+                "drift": 54,
+                "off_road": 43,
+                "mini_turbo": 48
             },
             "image": "standard_bike_s.webp",
             "skins": [
@@ -189,17 +181,13 @@
                 "ko": "슈퍼유모차"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 27,
+                "weight": 27,
+                "acceleration": 56,
+                "handling": 64,
+                "drift": 37,
+                "off_road": 54,
+                "mini_turbo": 59
             },
             "image": "booster_seat.webp",
             "skins": [
@@ -276,17 +264,13 @@
                 "ko": "로켓킬러"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 53,
+                "weight": 24,
+                "acceleration": 32,
+                "handling": 35,
+                "drift": 67,
+                "off_road": 29,
+                "mini_turbo": 67
             },
             "image": "bullet_bike.webp",
             "skins": [
@@ -363,17 +347,13 @@
                 "ko": "미니비스트"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 55,
+                "weight": 32,
+                "acceleration": 29,
+                "handling": 32,
+                "drift": 64,
+                "off_road": 27,
+                "mini_turbo": 64
             },
             "image": "mini_beast.webp",
             "skins": [
@@ -450,17 +430,13 @@
                 "ko": "비트바이크"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 25,
+                "weight": 18,
+                "acceleration": 59,
+                "handling": 67,
+                "drift": 40,
+                "off_road": 56,
+                "mini_turbo": 62
             },
             "image": "bit_bike.webp",
             "skins": [
@@ -537,17 +513,13 @@
                 "ko": "슈퍼뽀꾸뽀꾸"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 34,
+                "weight": 24,
+                "acceleration": 64,
+                "handling": 56,
+                "drift": 59,
+                "off_road": 45,
+                "mini_turbo": 54
             },
             "image": "cheep_charger.webp",
             "skins": [
@@ -624,17 +596,13 @@
                 "ko": "스피드스완"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 32,
+                "weight": 17,
+                "acceleration": 67,
+                "handling": 60,
+                "drift": 62,
+                "off_road": 48,
+                "mini_turbo": 57
             },
             "image": "quacker.webp",
             "skins": [
@@ -711,17 +679,13 @@
                 "ko": "오프로드카고"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 46,
+                "weight": 35,
+                "acceleration": 43,
+                "handling": 43,
+                "drift": 29,
+                "off_road": 64,
+                "mini_turbo": 40
             },
             "image": "tiny_titan.webp",
             "skins": [
@@ -798,17 +762,13 @@
                 "ko": "마귀라이더"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 43,
+                "weight": 24,
+                "acceleration": 45,
+                "handling": 45,
+                "drift": 32,
+                "off_road": 67,
+                "mini_turbo": 43
             },
             "image": "magikruiser.webp",
             "skins": [
@@ -885,17 +845,13 @@
                 "ko": "블루팔콘"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 60,
+                "weight": 29,
+                "acceleration": 35,
+                "handling": 29,
+                "drift": 43,
+                "off_road": 24,
+                "mini_turbo": 29
             },
             "image": "blue_falcon.webp",
             "skins": [
@@ -972,17 +928,13 @@
                 "ko": "제트볼"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 48,
+                "weight": 27,
+                "acceleration": 40,
+                "handling": 40,
+                "drift": 45,
+                "off_road": 35,
+                "mini_turbo": 37
             },
             "image": "jet_bubble.webp",
             "skins": [
@@ -1059,17 +1011,13 @@
                 "ko": "스탠더드카트M"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 46,
+                "weight": 45,
+                "acceleration": 40,
+                "handling": 43,
+                "drift": 45,
+                "off_road": 35,
+                "mini_turbo": 40
             },
             "image": "standard_kart_m.webp",
             "skins": [
@@ -1146,17 +1094,13 @@
                 "ko": "스탠더드바이크M"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 43,
+                "weight": 37,
+                "acceleration": 43,
+                "handling": 45,
+                "drift": 48,
+                "off_road": 37,
+                "mini_turbo": 43
             },
             "image": "standard_bike_m.webp",
             "skins": [
@@ -1233,17 +1177,13 @@
                 "ko": "노스텔지아"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 37,
+                "weight": 43,
+                "acceleration": 59,
+                "handling": 54,
+                "drift": 54,
+                "off_road": 40,
+                "mini_turbo": 51
             },
             "image": "classic_dragster.webp",
             "skins": [
@@ -1320,17 +1260,13 @@
                 "ko": "마하바이크"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 55,
+                "weight": 37,
+                "acceleration": 24,
+                "handling": 32,
+                "drift": 62,
+                "off_road": 27,
+                "mini_turbo": 62
             },
             "image": "mach_bike.webp",
             "skins": [
@@ -1407,17 +1343,13 @@
                 "ko": "와일드스타"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 57,
+                "weight": 51,
+                "acceleration": 21,
+                "handling": 29,
+                "drift": 59,
+                "off_road": 24,
+                "mini_turbo": 59
             },
             "image": "wild_wing.webp",
             "skins": [
@@ -1494,17 +1426,13 @@
                 "ko": "캔디스쿠터"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 32,
+                "weight": 32,
+                "acceleration": 54,
+                "handling": 62,
+                "drift": 35,
+                "off_road": 51,
+                "mini_turbo": 56
             },
             "image": "sugarscoot.webp",
             "skins": [
@@ -1581,17 +1509,13 @@
                 "ko": "슈퍼징오징오"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 50,
+                "weight": 40,
+                "acceleration": 35,
+                "handling": 37,
+                "drift": 21,
+                "off_road": 54,
+                "mini_turbo": 35
             },
             "image": "super_blooper.webp",
             "skins": [
@@ -1668,17 +1592,13 @@
                 "ko": "하바네로"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 41,
+                "weight": 35,
+                "acceleration": 45,
+                "handling": 51,
+                "drift": 29,
+                "off_road": 62,
+                "mini_turbo": 45
             },
             "image": "zip_zip.webp",
             "skins": [
@@ -1755,17 +1675,13 @@
                 "ko": "판타지아"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 34,
+                "weight": 45,
+                "acceleration": 51,
+                "handling": 59,
+                "drift": 32,
+                "off_road": 48,
+                "mini_turbo": 54
             },
             "image": "daytripper.webp",
             "skins": [
@@ -1842,17 +1758,13 @@
                 "ko": "인터셉터"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 62,
+                "weight": 40,
+                "acceleration": 29,
+                "handling": 27,
+                "drift": 40,
+                "off_road": 24,
+                "mini_turbo": 27
             },
             "image": "sneakster.webp",
             "skins": [
@@ -1929,17 +1841,13 @@
                 "ko": "뉴B대시"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 64,
+                "weight": 48,
+                "acceleration": 27,
+                "handling": 24,
+                "drift": 37,
+                "off_road": 21,
+                "mini_turbo": 24
             },
             "image": "sprinter.webp",
             "skins": [
@@ -2016,17 +1924,13 @@
                 "ko": "돌핀킥"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 48,
+                "weight": 43,
+                "acceleration": 37,
+                "handling": 40,
+                "drift": 24,
+                "off_road": 56,
+                "mini_turbo": 37
             },
             "image": "dolphin_dasher.webp",
             "skins": [
@@ -2103,17 +2007,13 @@
                 "ko": "스탠더드카트L"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 48,
+                "weight": 59,
+                "acceleration": 37,
+                "handling": 40,
+                "drift": 40,
+                "off_road": 35,
+                "mini_turbo": 35
             },
             "image": "standard_kart_l.webp",
             "skins": [
@@ -2190,17 +2090,13 @@
                 "ko": "스탠더드바이크L"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 46,
+                "weight": 54,
+                "acceleration": 40,
+                "handling": 43,
+                "drift": 43,
+                "off_road": 37,
+                "mini_turbo": 37
             },
             "image": "standard_bike_l.webp",
             "skins": [
@@ -2277,17 +2173,13 @@
                 "ko": "서바이벌카고"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 39,
+                "weight": 64,
+                "acceleration": 48,
+                "handling": 54,
+                "drift": 18,
+                "off_road": 43,
+                "mini_turbo": 45
             },
             "image": "offroader.webp",
             "skins": [
@@ -2364,17 +2256,13 @@
                 "ko": "쿠파라이더"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 60,
+                "weight": 54,
+                "acceleration": 18,
+                "handling": 24,
+                "drift": 51,
+                "off_road": 21,
+                "mini_turbo": 51
             },
             "image": "flame_runner.webp",
             "skins": [
@@ -2451,17 +2339,13 @@
                 "ko": "파이어카트"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 62,
+                "weight": 59,
+                "acceleration": 16,
+                "handling": 21,
+                "drift": 48,
+                "off_road": 18,
+                "mini_turbo": 48
             },
             "image": "flame_flyer.webp",
             "skins": [
@@ -2538,17 +2422,13 @@
                 "ko": "와리오바이크"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 37,
+                "weight": 59,
+                "acceleration": 51,
+                "handling": 56,
+                "drift": 21,
+                "off_road": 45,
+                "mini_turbo": 48
             },
             "image": "wario_bike.webp",
             "skins": [
@@ -2625,17 +2505,13 @@
                 "ko": "뻐끔카트"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 55,
+                "weight": 67,
+                "acceleration": 29,
+                "handling": 35,
+                "drift": 35,
+                "off_road": 29,
+                "mini_turbo": 27
             },
             "image": "piranha_prowler.webp",
             "skins": [
@@ -2712,17 +2588,13 @@
                 "ko": "슈팅스타"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 50,
+                "weight": 48,
+                "acceleration": 29,
+                "handling": 32,
+                "drift": 59,
+                "off_road": 27,
+                "mini_turbo": 59
             },
             "image": "shooting_star.webp",
             "skins": [
@@ -2799,17 +2671,13 @@
                 "ko": "제트글라이드"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 69,
+                "weight": 56,
+                "acceleration": 21,
+                "handling": 17,
+                "drift": 27,
+                "off_road": 16,
+                "mini_turbo": 16
             },
             "image": "jetsetter.webp",
             "skins": [
@@ -2874,16 +2742,13 @@
         "spear": {
             "slug": "spear",
             "names": {
-                "fr_fr": "Torpille",
-                "fr_ca": "Torpille",
-                "en_gb": "Torpedo",
-                "en_us": "Spear",
-                "es_es": "Proyectil",
-                "es_la": "Torpedo",
-                "it": "Torpedo Sprint",
-                "de": "Torped",
-                "ja": "ワイルドスピア",
-                "ko": "와일드스피어"
+                "speed": 67,
+                "weight": 56,
+                "acceleration": 24,
+                "handling": 18,
+                "drift": 29,
+                "off_road": 18,
+                "mini_turbo": 18
             },
             "stats": {
                 "land_speed": 6,
@@ -2973,17 +2838,13 @@
                 "ko": "트릭키"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 53,
+                "weight": 62,
+                "acceleration": 27,
+                "handling": 29,
+                "drift": 56,
+                "off_road": 24,
+                "mini_turbo": 56
             },
             "image": "honeycoupe.webp",
             "skins": [
@@ -3060,17 +2921,13 @@
                 "ko": "팬텀"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 43,
+                "weight": 51,
+                "acceleration": 43,
+                "handling": 48,
+                "drift": 17,
+                "off_road": 56,
+                "mini_turbo": 40
             },
             "image": "phantom.webp",
             "skins": [
@@ -3147,17 +3004,13 @@
                 "ko": "카트1"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "kart_1.webp",
             "skins": [
@@ -3192,17 +3045,13 @@
                 "ko": "카트2"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "kart_2.webp",
             "skins": [
@@ -3237,17 +3086,13 @@
                 "ko": "카트3"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "kart_3.webp",
             "skins": [
@@ -3282,17 +3127,13 @@
                 "ko": "카트4"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "kart_4.webp",
             "skins": [
@@ -3327,17 +3168,13 @@
                 "ko": "카트5"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "kart_5.webp",
             "skins": [
@@ -3372,17 +3209,13 @@
                 "ko": "카트6"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "kart_6.webp",
             "skins": [
@@ -3417,17 +3250,13 @@
                 "ko": "바이크1"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "bike_1.webp",
             "skins": [
@@ -3462,17 +3291,13 @@
                 "ko": "바이크2"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "bike_2.webp",
             "skins": [
@@ -3507,17 +3332,13 @@
                 "ko": "바이크3"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "bike_3.webp",
             "skins": [
@@ -3552,17 +3373,13 @@
                 "ko": "바이크4"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "bike_4.webp",
             "skins": [
@@ -3597,17 +3414,13 @@
                 "ko": "바이크5"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "bike_5.webp",
             "skins": [
@@ -3642,17 +3455,13 @@
                 "ko": "바이크6"
             },
             "stats": {
-                "land_speed": 6,
-                "water_speed": 4,
-                "air_speed": 2,
-                "acceleration": 3,
-                "weight": 2,
-                "land_handling": 3,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 2,
-                "mini_turbo": 2,
-                "stability": 0
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "image": "bike_6.webp",
             "skins": [

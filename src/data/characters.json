@@ -21,17 +21,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 8,
+                "acceleration": 0,
+                "handling": 6,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -83,17 +79,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 5,
+                "weight": 8,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -145,17 +137,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 3,
+                "weight": 6,
+                "acceleration": 3,
+                "handling": 3,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -207,17 +195,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 5,
+                "weight": 6,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 3
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -269,17 +253,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 6,
+                "handling": 0,
+                "drift": 6,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -331,17 +311,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 3,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 6,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -393,17 +369,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 3,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 6
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -455,17 +427,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 3,
+                "handling": 0,
+                "drift": 3,
+                "off_road": 0,
+                "mini_turbo": 6
             },
             "available_vehicles": [
                 "standard_kart_s",
@@ -517,17 +485,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 6,
+                "acceleration": 2,
+                "handling": 2,
+                "drift": 3,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -579,17 +543,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 2,
+                "weight": 6,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -641,17 +601,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 2,
+                "weight": 0,
+                "acceleration": 5,
+                "handling": 0,
+                "drift": 6,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -703,17 +659,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 4,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 2,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 3
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -765,17 +717,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 3,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 3,
+                "off_road": 5,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -827,17 +775,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 3,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 3,
+                "mini_turbo": 5
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -889,17 +833,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 3,
+                "handling": 0,
+                "drift": 3,
+                "off_road": 0,
+                "mini_turbo": 5
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -951,17 +891,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 3,
+                "mini_turbo": 3
             },
             "available_vehicles": [
                 "standard_kart_m",
@@ -1013,17 +949,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 3,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 3,
+                "mini_turbo": 6
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1075,17 +1007,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 6,
+                "handling": 0,
+                "drift": 5,
+                "off_road": 3,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1137,17 +1065,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 3,
+                "acceleration": 2,
+                "handling": 2,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 3
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1199,17 +1123,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 2,
+                "weight": 5,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 3,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1261,17 +1181,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 5,
+                "drift": 0,
+                "off_road": 3,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1323,17 +1239,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 3,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 3,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 3
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1385,17 +1297,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 4,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 3,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1447,17 +1355,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 6,
+                "mini_turbo": 6
             },
             "available_vehicles": [
                 "standard_kart_l",
@@ -1509,17 +1413,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "kart_1",
@@ -1558,17 +1458,13 @@
                 }
             ],
             "stats": {
-                "land_speed": 2,
-                "water_speed": 1,
-                "air_speed": 0,
-                "acceleration": 4,
-                "weight": 4,
-                "land_handling": 1,
-                "water_handling": 1,
-                "air_handling": 1,
-                "off_road": 1,
-                "mini_turbo": 1,
-                "stability":1
+                "speed": 0,
+                "weight": 0,
+                "acceleration": 0,
+                "handling": 0,
+                "drift": 0,
+                "off_road": 0,
+                "mini_turbo": 0
             },
             "available_vehicles": [
                 "kart_1",

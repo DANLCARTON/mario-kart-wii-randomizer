@@ -1026,6 +1026,18 @@
             "zh_hans": "复制链接",
             "zh_hant": "複製連結"
         },
+        "speed": {
+            "fr_fr": "Vitesse",
+            "fr_ca": "Vitesse",
+            "en_gb": "Speed",
+            "en_us": "Speed",
+            "es_es": "Velocidad",
+            "es_la": "Velocidad",
+            "it": "Velocità",
+            "de": "???",
+            "ja": "スピード",
+            "ko": "???"
+        },
         "land_speed": {
             "fr_fr": "Vitesse au sol",
             "fr_ca": "Vitesse au sol",
@@ -1080,6 +1092,18 @@
             "zh_hans": "空中速度",
             "zh_hant": "空中速度"
         },
+        "handling": {
+            "fr_fr": "Maniabilité",
+            "fr_ca": "Maniabilité",
+            "en_gb": "Maniabilité",
+            "en_us": "Maniabilité",
+            "es_es": "Manejo",
+            "es_la": "Manejo",
+            "it": "Controllo",
+            "de": "???",
+            "ja": "ハンドリング",
+            "ko": "???"
+        },
         "land_handling": {
             "fr_fr": "Maniabilité au sol",
             "fr_ca": "Maniabilité au sol",
@@ -1097,6 +1121,18 @@
             "ko": "지상 조작",
             "zh_hans": "地面操控",
             "zh_hant": "地面操控"
+        },
+        "drift": {
+            "fr_fr": "???",
+            "fr_ca": "???",
+            "en_gb": "Drift",
+            "en_us": "Drift",
+            "es_es": "???",
+            "es_la": "???",
+            "it": "???",
+            "de": "???",
+            "ja": "???",
+            "ko": "???"
         },
         "water_handling": {
             "fr_fr": "Maniabilité dans l'eau",

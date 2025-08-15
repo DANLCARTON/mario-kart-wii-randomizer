@@ -88,24 +88,24 @@ export default component$(() => {
 
             <h1>MARIO KART WII RANDOMIZER</h1>
 
-            <h2 id='character'>{tr(t.character_title, lang)}</h2>
+            {/* <h2 id='character'>{tr(t.character_title, lang)}</h2>
             {eliminationMode.value ? (
                 <p class="part-desc medium-width">{tr(t.random_character_description_elimiation_mode, lang)}</p>
-            ) : (
+            ) : ( */}
                 <p class="part-desc medium-width">{tr(t.random_character_description, lang)}</p>
-            )}
+            {/* )} */}
 
-            <div class="mode-selection glass">
+            {/* <div class="mode-selection glass">
                 <div class={"mode" + (eliminationMode.value == false ? " current-mode" : "")} onClick$={() => eliminationMode.value = false}>{tr(t.normal_mode, lang)}</div>
                 <div class={"mode" + (eliminationMode.value == true ? " current-mode" : "")} onClick$={() => eliminationMode.value = true}>{tr(t.elimination_mode, lang)}</div>
-            </div>
+            </div> */}
 
             <div class="parameters-container glass">
                 <h3>{tr(t.parameters, lang)} :</h3>
                 <div class="number-of-players">
                     <label for="players-slider">{tr(t.number_of_players, lang)} : {numberOfPlayers.value}</label>
                     <br />
-                    <input id="players-slider" type="range" min="1" max="8" step="1" value={numberOfPlayers.value} onInput$={$((e) => handleNumberOfPlayers(e))} />
+                    <input id="players-slider" type="range" min="1" max="4" step="1" value={numberOfPlayers.value} onInput$={$((e) => handleNumberOfPlayers(e))} />
                     <p class="part-desc-param">
                         {eliminationMode.value ? tr(t.number_of_players_description_elimination_mode, lang) : tr(t.number_of_players_description_normal_mode, lang)} </p>
                 </div>
