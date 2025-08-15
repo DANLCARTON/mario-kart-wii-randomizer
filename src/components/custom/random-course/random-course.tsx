@@ -1,5 +1,5 @@
 import { $, component$, useContext, useSignal } from "@builder.io/qwik";
-import { type Names, Course } from "~/common/types";
+import { type Names, Course, Cup, Item } from "~/common/types";
 import CourseComponent from "~/components/custom/course/course"
 
 import cupsData from "~/data/cups.json"
@@ -10,18 +10,6 @@ import "./random-course.scss"
 
 import textsData from "~/internationalization/texts.json"
 import { getCourseName, tr } from "~/common/functions";
-
-type Cup = {
-    names : Names,
-    courses : string[],
-    image : string | null
-}
-
-type Item = {
-    type: 'course' | 'route'
-    index: string
-    courseIndex?: string
-}
 
 export default component$(() => {
 

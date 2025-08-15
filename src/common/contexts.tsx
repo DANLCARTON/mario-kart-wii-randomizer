@@ -12,3 +12,4 @@ export const pickedCharactersContext = createContextId<Signal>("picked-character
 export const pickedVehiclesContext = createContextId<Signal>("picked-vehicles-context") // Liste des véhicules tirés
 export const pickedTiresContext = createContextId<Signal>("picked-tires-context") // Liste des roues tirées
 export const pickedGlidersContext = createContextId<Signal>("picked-gliders-context") // Liste des ailes tirées
+export const selectedArenasContext = createContextId<Signal>("selected-arenas-context")

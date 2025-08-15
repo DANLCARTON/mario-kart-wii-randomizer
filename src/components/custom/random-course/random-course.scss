@@ -29,6 +29,20 @@
     }
 }
 
+
+#random-course-container .cups.arena-cups {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 25px 
+}
+
+@media screen and (max-width: $mobile) {
+    #random-course-container .cups.arena-cups {
+        grid-template-columns: 1fr;
+    }
+}
+
 .cups .cup {
     box-shadow: 0 0 10px 0 #25252550;
     padding: 10px;

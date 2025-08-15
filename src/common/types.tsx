@@ -27,6 +27,11 @@ export type Course = {
     origin : string | null
 }
 
+export type Arena = {
+    names : Names,
+    origin : string | null
+}
+
 export type GlobalParameters = {
     fontSize : "small" | "medium" | "large",
     autoScroll : boolean
@@ -50,4 +55,16 @@ export type PlayerNames = {
 export type CharacterParameters = {
     allDifferent : boolean
     numberOfPlayers : number
+}
+
+export type Cup = {
+    names : Names,
+    courses : string[],
+    image : string | null
+}
+
+export type Item = {
+    type: 'course' | 'route'
+    index: string
+    courseIndex?: string
 }

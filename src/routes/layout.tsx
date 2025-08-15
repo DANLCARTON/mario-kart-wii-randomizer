@@ -1,7 +1,7 @@
 import { component$, Slot, useContextProvider, useSignal, useVisibleTask$ } from "@builder.io/qwik";
 import { routeLoader$ } from "@builder.io/qwik-city";
 import { availableLangs, cCP, cGP, cLang, cPN, largeFontSize, mediumFontSize, smallFontSize } from "~/common/constants";
-import { globalParametersContext, langContext, pickedCharactersContext, pickedGlidersContext, pickedTiresContext, pickedVehiclesContext, playerNamesContext, selectedCoursesContext, selectedRoutesContext } from "~/common/contexts";
+import { globalParametersContext, langContext, pickedCharactersContext, pickedGlidersContext, pickedTiresContext, pickedVehiclesContext, playerNamesContext, selectedArenasContext, selectedCoursesContext, selectedRoutesContext } from "~/common/contexts";
 import Footer from "~/components/custom/footer/footer";
 
 import { CharacterParameters, PlayerNames, type GlobalParameters } from "~/common/types";
@@ -104,8 +104,10 @@ export default component$(() => {
 
     const selectedCourses = useSignal<string[]>([])
     const selectedRoutes = useSignal<string[]>([])
+    const selectedArenas = useSignal<string[]>([])
     useContextProvider(selectedCoursesContext, selectedCourses)
     useContextProvider(selectedRoutesContext, selectedRoutes)
+    useContextProvider(selectedArenasContext, selectedArenas)
 
     const playerNames = usePlayersNames()
     useContextProvider(playerNamesContext, playerNames.value.names)

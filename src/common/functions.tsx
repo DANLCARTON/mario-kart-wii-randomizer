@@ -1,4 +1,4 @@
-import { Course } from "./types";
+import { Arena, Course } from "./types";
 
 
 /**
@@ -41,7 +41,7 @@ export const writeCookie = (cookieName : string, cookieValue : string, cookieDom
  * @returns string avec le nom du circuit dans la langue sélectionnée
  * @example getCourseName(mario_bros_circuit.names, lang)
  */
-export const getCourseName = (course : Course, lang : string) : string => {
+export const getCourseName = (course : Course | Arena, lang : string) : string => {
     const names = course.names as Record<string, string>
     return names[lang]
 }
