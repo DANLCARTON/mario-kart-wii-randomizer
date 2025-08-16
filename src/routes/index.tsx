@@ -17,7 +17,6 @@ import { useCharacterParameters } from "./layout";
 import QuickAccess from "~/components/custom/quick-access/quick-access";
 import HiddenText from "~/components/custom/hidden-text/hidden-text";
 import { cCP } from "~/common/constants";
-import RandomCharacterEliminationMode from "~/components/custom/random-character-elimination-mode/random-character-elimination-mode";
 
 export default component$(() => {
 
@@ -70,7 +69,7 @@ export default component$(() => {
         writeCookie(cCP, cookieValue, domain)
     })
 
-    const defaultPlayersTexts = [t.p1, t.p2, t.p3, t.p4, t.p5, t.p6, t.p7, t.p8]
+    const defaultPlayersTexts = [t.p1, t.p2, t.p3, t.p4]
 
     return <main class="large-width">
 
@@ -88,17 +87,8 @@ export default component$(() => {
 
             <h1>MARIO KART WII RANDOMIZER</h1>
 
-            {/* <h2 id='character'>{tr(t.character_title, lang)}</h2>
-            {eliminationMode.value ? (
-                <p class="part-desc medium-width">{tr(t.random_character_description_elimiation_mode, lang)}</p>
-            ) : ( */}
-                <p class="part-desc medium-width">{tr(t.random_character_description, lang)}</p>
-            {/* )} */}
-
-            {/* <div class="mode-selection glass">
-                <div class={"mode" + (eliminationMode.value == false ? " current-mode" : "")} onClick$={() => eliminationMode.value = false}>{tr(t.normal_mode, lang)}</div>
-                <div class={"mode" + (eliminationMode.value == true ? " current-mode" : "")} onClick$={() => eliminationMode.value = true}>{tr(t.elimination_mode, lang)}</div>
-            </div> */}
+            <h2 id='character'>{tr(t.character_title, lang)}</h2>
+            <p class="part-desc medium-width">{tr(t.random_character_description, lang)}</p>
 
             <div class="parameters-container glass">
                 <h3>{tr(t.parameters, lang)} :</h3>
@@ -107,7 +97,7 @@ export default component$(() => {
                     <br />
                     <input id="players-slider" type="range" min="1" max="4" step="1" value={numberOfPlayers.value} onInput$={$((e) => handleNumberOfPlayers(e))} />
                     <p class="part-desc-param">
-                        {eliminationMode.value ? tr(t.number_of_players_description_elimination_mode, lang) : tr(t.number_of_players_description_normal_mode, lang)} </p>
+                        {tr(t.number_of_players_description_normal_mode, lang)} </p>
                 </div>
                 {!eliminationMode.value && <div class="all-different">
                     <input id="all-different" type="checkbox" onClick$={() => handleAllDifferent()} checked={allDifferent.value}></input>
@@ -123,10 +113,6 @@ export default component$(() => {
                         <RandomCharacter key={i} rerollSignal={rerollSignal} playerName={playerNames[i] ? playerNames[i] : tr(defaultPlayersTexts[i], lang)} playerDefaultName={tr(defaultPlayersTexts[i], lang)} playerNumber={i} allDifferent={allDifferent.value} numberOfPlayers={numberOfPlayers.value}/>
                     ))}
                 </section>
-            </>}
-
-            {eliminationMode.value && <>
-                <RandomCharacterEliminationMode numberOfPlayers={numberOfPlayers.value}/>
             </>}
 
             <h2 id="vs-race">{tr(t.vs_race, lang)} : {tr(t.course_title, lang)}</h2>
