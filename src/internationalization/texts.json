@@ -553,16 +553,16 @@
             "ko": "랜덤 배틀 아레나"
         },
         "custom_message": {
-            "fr_fr": "Ajoutez du chaos dans Mario Kart Wii ! Choisissez aléatoirement des personnages, un kart ou une moto et des circuits pour vos prochaines courses !",
-            "fr_ca": "",
-            "en_gb": "",
-            "en_us": "",
-            "es_es": "",
-            "es_la": "",
-            "it": "",
-            "de": "",
-            "ja": "",
-            "ko": ""
+            "fr_fr": "Ajoutez du chaos dans Mario Kart Wii ! Choisissez aléatoirement des personnages, un kart ou une moto et des circuits pour vos prochaines courses !",
+            "fr_ca": "Ajoutez du chaos dans Mario Kart Wii ! Choisissez aléatoirement des personnages, un kart ou une moto et des circuits pour vos prochaines courses !",
+            "en_gb": "Add some chaos to Mario Kart Wii! Randomly choose characters, a kart or bike, and tracks for your next races!",
+            "en_us": "Add some chaos to Mario Kart Wii! Randomly choose characters, a kart or bike, and tracks for your next races!",
+            "es_es": "¡Añade caos a Mario Kart Wii! Elige al azar personajes, un kart o una moto y circuitos para tus próximas carreras.",
+            "es_la": "¡Añade caos a Mario Kart Wii! Elige al azar personajes, un kart o una moto y circuitos para tus próximas carreras.",
+            "it": "Aggiungi un po’ di caos a Mario Kart Wii! Scegli casualmente personaggi, un kart o una moto e circuiti per le tue prossime corse!",
+            "de": "Bringe Chaos in Mario Kart Wii! Wähle zufällig Charaktere, ein Kart oder ein Motorrad und Strecken für deine nächsten Rennen!",
+            "ja": "マリオカートWiiにカオスを追加！次のレースではキャラクター、カートやバイク、コースをランダムに選ぼう！",
+            "ko": "마리오카트 Wii에 혼돈을 추가하세요! 다음 경주에서 캐릭터, 카트나 바이크, 그리고 코스를 무작위로 선택하세요!"
         },
         "share_title": {
             "fr_fr": "Partagez le site avec vos amis !",
