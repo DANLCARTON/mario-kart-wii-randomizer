@@ -4,11 +4,11 @@
             "slug": "baby_mario",
             "names": {
                 "fr_fr": "Bébé Mario",
-                "fr_ca": "???",
+                "fr_ca": "Baby Mario",
                 "en_gb": "Baby Mario",
                 "en_us": "Baby Mario",
                 "es_es": "Bebé Mario",
-                "es_la": "???",
+                "es_la": "Baby Mario",
                 "it": "Baby Mario",
                 "de": "Baby Mario",
                 "ja": "ベビィマリオ",
@@ -62,11 +62,11 @@
             "slug": "baby_luigi",
             "names": {
                 "fr_fr": "Bébé Luigi",
-                "fr_ca": "???",
+                "fr_ca": "Baby Luigi",
                 "en_gb": "Baby Luigi",
                 "en_us": "Baby Luigi",
                 "es_es": "Bebé Luigi",
-                "es_la": "???",
+                "es_la": "Baby Luigi",
                 "it": "Baby Luigi",
                 "de": "Baby Luigi",
                 "ja": "ベビィルイージ",
@@ -120,11 +120,11 @@
             "slug": "baby_peach",
             "names": {
                 "fr_fr": "Bébé Peach",
-                "fr_ca": "???",
+                "fr_ca": "Baby Peach",
                 "en_gb": "Baby Peach",
                 "en_us": "Baby Peach",
                 "es_es": "Bebé Peach",
-                "es_la": "???",
+                "es_la": "Baby Peach",
                 "it": "Baby Peach",
                 "de": "Baby Peach",
                 "ja": "ベビィピーチ",
@@ -178,11 +178,11 @@
             "slug": "baby_daisy",
             "names": {
                 "fr_fr": "Bébé Daisy",
-                "fr_ca": "???",
+                "fr_ca": "Baby Daisy",
                 "en_gb": "Baby Daisy",
                 "en_us": "Baby Daisy",
                 "es_es": "Bebé Daisy",
-                "es_la": "???",
+                "es_la": "Baby Daisy",
                 "it": "Baby Daisy",
                 "de": "Baby Daisy",
                 "ja": "ベビィデイジー",
@@ -355,8 +355,8 @@
                 "fr_ca": "Koopa",
                 "en_gb": "Koopa Troopa",
                 "en_us": "Koopa Troopa",
-                "es_es": "???",
-                "es_la": "???",
+                "es_es": "Koopa Troopa",
+                "es_la": "Koopa Troopa",
                 "it": "Koopa",
                 "de": "Koopa",
                 "ja": "ノコノコ",
@@ -591,8 +591,8 @@
                 "es_la": "Peach",
                 "it": "Peach",
                 "de": "Peach",
-                "ja": "???",
-                "ko": "???"
+                "ja": "ピーチ",
+                "ko": "피치"
             },
             "skins": [
                 {
@@ -649,8 +649,8 @@
                 "es_la": "Daisy",
                 "it": "Daisy",
                 "de": "Daisy",
-                "ja": "???",
-                "ko": "???"
+                "ja": "デイジー",
+                "ko": "데이지"
             },
             "skins": [
                 {
@@ -879,7 +879,7 @@
                 "en_us": "Bowser Jr.",
                 "es_es": "Bowsy",
                 "es_la": "Bowser Jr.",
-                "it": "???",
+                "it": "Bowser Junior",
                 "de": "Bowser Jr.",
                 "ja": "クッパＪｒ．",
                 "ko": "쿠파주니어"
@@ -1345,7 +1345,7 @@
                 "es_la": "Dry Bowser",
                 "it": "Skelobowser",
                 "de": "Knochen-Bowser",
-                "ja": "???",
+                "ja": "ほねクッパ",
                 "ko": "좀비쿠파"
             },
             "skins": [
@@ -1395,16 +1395,16 @@
         "mii_outfit_a": {
             "slug": "mii_outfit_a",
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Mii tenue A",
+                "fr_ca": "Mii tenue A",
                 "en_gb": "Mii Outfit A",
                 "en_us": "Mii Outfit A",
-                "es_es": "???",
-                "es_la": "???",
-                "it": "???",
-                "de": "???",
-                "ja": "???",
-                "ko": "???"
+                "es_es": "Traje Mii A",
+                "es_la": "Traje Mii A",
+                "it": "Completo Mii A",
+                "de": "Mii-Kostüm A",
+                "ja": "MiiウェアA",
+                "ko": "Mii복장 A"
             },
             "skins": [
                 {
@@ -1440,16 +1440,16 @@
         "mii_outfit_b": {
             "slug": "mii_outfit_b",
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Mii tenue B",
+                "fr_ca": "Mii tenue B",
                 "en_gb": "Mii Outfit B",
                 "en_us": "Mii Outfit B",
-                "es_es": "???",
-                "es_la": "???",
-                "it": "???",
-                "de": "???",
-                "ja": "???",
-                "ko": "???"
+                "es_es": "Traje Mii B",
+                "es_la": "Traje Mii B",
+                "it": "Completo Mii B",
+                "de": "Mii-Kostüm B",
+                "ja": "MiiウェアB",
+                "ko": "Mii복장 B"
             },
             "skins": [
                 {

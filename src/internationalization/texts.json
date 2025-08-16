@@ -1034,9 +1034,9 @@
             "es_es": "Velocidad",
             "es_la": "Velocidad",
             "it": "Velocità",
-            "de": "???",
+            "de": "Tempo",
             "ja": "スピード",
-            "ko": "???"
+            "ko": "스피드"
         },
         "land_speed": {
             "fr_fr": "Vitesse au sol",
@@ -1100,9 +1100,9 @@
             "es_es": "Manejo",
             "es_la": "Manejo",
             "it": "Controllo",
-            "de": "???",
+            "de": "Handling",
             "ja": "ハンドリング",
-            "ko": "???"
+            "ko": "핸들림"
         },
         "land_handling": {
             "fr_fr": "Maniabilité au sol",
@@ -1123,16 +1123,16 @@
             "zh_hant": "地面操控"
         },
         "drift": {
-            "fr_fr": "???",
-            "fr_ca": "???",
+            "fr_fr": "Dérapage",
+            "fr_ca": "Dérapage",
             "en_gb": "Drift",
             "en_us": "Drift",
-            "es_es": "???",
-            "es_la": "???",
-            "it": "???",
-            "de": "???",
-            "ja": "???",
-            "ko": "???"
+            "es_es": "Derrape",
+            "es_la": "Derrape",
+            "it": "Derapata",
+            "de": "Driften",
+            "ja": "ドリフト",
+            "ko": "드리프트"
         },
         "water_handling": {
             "fr_fr": "Maniabilité dans l'eau",

@@ -86,8 +86,8 @@
         "standard_bike_s": {
             "slug": "standard_bike_s",
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Moto Légère",
+                "fr_ca": "Moto Légère",
                 "en_gb": "Standard Bike S",
                 "en_us": "Standard Bike S",
                 "es_es": "Moto Estándar Pequeña",
@@ -170,7 +170,7 @@
             "slug": "booster_seat",
             "names": {
                 "fr_fr": "Auto-Pousse",
-                "fr_ca": "???",
+                "fr_ca": "Rehausseur",
                 "en_gb": "Booster Seat",
                 "en_us": "Baby Booster",
                 "es_es": "Supercuna",
@@ -1082,8 +1082,8 @@
         "standard_bike_m": {
             "slug": "standard_bike_m",
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Moto Standard",
+                "fr_ca": "Moto Standard",
                 "en_gb": "Standard Bike M",
                 "en_us": "Standard Bike M",
                 "es_es": "Moto Estándar Mediana",
@@ -1414,7 +1414,7 @@
         "sugarscoot": {
             "slug": "sugarscoot",
             "names": {
-                "fr_fr": "???",
+                "fr_fr": "Etincelle",
                 "fr_ca": "Étincelle",
                 "en_gb": "Bon Bon",
                 "en_us": "Sugarscoot",
@@ -1837,7 +1837,7 @@
                 "es_la": "Fórmula N",
                 "it": "Glory",
                 "de": "Glory",
-                "ja": "???",
+                "ja": "Bダッシュ Mk.2",
                 "ko": "뉴B대시"
             },
             "stats": {
@@ -2078,8 +2078,8 @@
         "standard_bike_l": {
             "slug": "standard_bike_l",
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Moto Lourde",
+                "fr_ca": "Moto Lourde",
                 "en_gb": "Standard Bike L",
                 "en_us": "Standard Bike L",
                 "es_es": "Moto Estándar Grande",

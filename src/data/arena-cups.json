@@ -2,16 +2,16 @@
     "arena_cups": {
         "wii_stages": {
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Arènes Wii",
+                "fr_ca": "Arènes Wii",
                 "en_gb": "Wii Stages",
                 "en_us": "Wii Stages",
-                "es_es": "???",
-                "es_la": "???",
-                "it": "???",
-                "de": "???",
-                "ja": "???",
-                "ko": "???"
+                "es_es": "Escenarios Wii",
+                "es_la": "Escenarios Wii",
+                "it": "Livelli Wii",
+                "de": "Wii-Arenen",
+                "ja": "Wiiステージ",
+                "ko": "Wii 스테이지"
             },
             "courses": [
                 "block_plaza",
@@ -24,16 +24,16 @@
         },
         "retro_stages": {
             "names": {
-                "fr_fr": "???",
-                "fr_ca": "???",
+                "fr_fr": "Arènes Rétro",
+                "fr_ca": "Arènes Rétro",
                 "en_gb": "Retro Stages",
                 "en_us": "Retro Stages",
-                "es_es": "???",
-                "es_la": "???",
-                "it": "???",
-                "de": "???",
-                "ja": "???",
-                "ko": "???"
+                "es_es": "Escenarios Retro",
+                "es_la": "Escenarios Retro",
+                "it": "Livelli classici",
+                "de": "Retro-Arenen",
+                "ja": "レトロステージ",
+                "ko": "레트로 스테이지"
             },
             "courses": [
                 "battle_course_4",
